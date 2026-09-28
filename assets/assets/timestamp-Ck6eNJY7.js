@@ -1,0 +1,1 @@
+import{wr as e}from"./text-f1wxz183ckq7qtl7-BxhHBM_1.js";import{i as t,n,r}from"./format-CXEn-EGv.js";import{n as i}from"./tooltip-CZLP6fkk.js";var a=e();function o({iso:e,dateOnly:o=!1,fallback:s=`Not yet`}){return e?(0,a.jsx)(i,{content:t(e),render:(0,a.jsx)(`time`,{dateTime:e,tabIndex:0}),children:o?n(e):r(e)}):(0,a.jsx)(a.Fragment,{children:s})}export{o as t};

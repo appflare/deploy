@@ -1,0 +1,1 @@
+import{_r as e,br as t,gr as n}from"./text-f1wxz183ckq7qtl7-BxhHBM_1.js";function r(r){let i=t();return e(i.stores.location,n(r,i))}export{r as t};
