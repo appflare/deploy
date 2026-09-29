@@ -1,5 +1,5 @@
 {
-  // Appflare 0.1.0-rc.1, generated from the release manager@0.1.0-rc.1 of
+  // Appflare 0.1.0, generated from the release manager@0.1.0 of
   // github.com/appflare/appflare. Every release replaces this repository's contents;
   // do not edit it. Appflare updates itself from its own settings page.
   "$schema": "node_modules/wrangler/config-schema.json",
@@ -58,13 +58,15 @@
       "class_name": "JobWorkflow"
     }
   ],
-  // The single-page app. /api/* and server functions always reach the Worker.
+  // The single-page app. Every request except the bundles under /assets/ reaches the Worker
+  // first, so the workers.dev address can send pages on to a custom domain.
   "assets": {
     "not_found_handling": "single-page-application",
     "run_worker_first": [
-      "/api/*",
-      "/_serverFn/*"
+      "/*",
+      "!/assets/*"
     ],
+    "_headers": "# The build names every file under /assets/ by a hash of its content, so a\n# browser may keep them for good. Everything else (the page itself, icons)\n# keeps the default: revalidated on every load.\n/assets/*\n  Cache-Control: public, max-age=31536000, immutable\n",
     "directory": "assets",
     "binding": "ASSETS"
   },
@@ -83,7 +85,7 @@
   // No secrets are declared: the setup wizard generates BETTER_AUTH_SECRET and stores
   // it, with your API token, as encrypted secrets on this Worker.
   "vars": {
-    "APPFLARE_VERSION": "0.1.0-rc.1",
+    "APPFLARE_VERSION": "0.1.0",
     "APPFLARE_INSTALL_SOURCE": "deploy-button"
   }
 }

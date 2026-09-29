@@ -1,6 +1,6 @@
 {
   "name": "appflare-deploy",
-  "version": "0.1.0-rc.1",
+  "version": "0.1.0",
   "private": true,
   "description": "Deploy Appflare, a self-hosted app manager for Cloudflare, with the Deploy to Cloudflare button.",
   "homepage": "https://github.com/appflare/appflare",
