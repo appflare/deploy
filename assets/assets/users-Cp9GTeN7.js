@@ -1,1 +1,0 @@
-import{gr as e}from"./text-f1wxz183ckq7qtl7-DREMc1Ub.js";import{l as t}from"./settings-pages-B1kMlfBo.js";import{c as n}from"./index-By7tmmxE.js";var r=e();function i(){let e=n.useLoaderData(),{viewer:i}=n.useRouteContext();return(0,r.jsx)(t,{...e,viewer:i})}export{i as component};

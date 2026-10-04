@@ -1,0 +1,1 @@
+import{i as e}from"./createServerFn-Xz8M9DOi.js";var t=e(`/_app`);function n(){return t.useRouteContext({select:e=>e.accountId})}export{n as t};
