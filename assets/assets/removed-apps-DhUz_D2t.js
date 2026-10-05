@@ -1,0 +1,1 @@
+import{kr as e}from"./text-f1wxz183ckq7qtl7-CGl-13M6.js";import{o as t}from"./settings-pages-nJ3ckLUJ.js";import{d as n}from"./index-DeL63H4L.js";var r=e();function i(){let e=n.useLoaderData(),{viewer:i}=n.useRouteContext();return(0,r.jsx)(t,{rows:e,isAdmin:i.role===`admin`})}export{i as component};
