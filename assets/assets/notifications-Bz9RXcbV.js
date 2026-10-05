@@ -1,1 +1,0 @@
-import{gr as e}from"./text-f1wxz183ckq7qtl7-BZIxmnRD.js";import{a as t}from"./settings-pages-DgEHk34d.js";import{f as n}from"./index-BVzCpQSp.js";var r=e();function i(){let e=n.useLoaderData();return(0,r.jsx)(t,{channels:e})}export{i as component};

@@ -1,1 +1,0 @@
-import{gr as e}from"./text-f1wxz183ckq7qtl7-BZIxmnRD.js";import{t}from"./install-link-problem-BpYtej0c.js";import{y as n}from"./index-BVzCpQSp.js";var r=e();function i(){let e=n.useLoaderData(),{viewer:i}=n.useRouteContext();return(0,r.jsx)(t,{kind:e.officialOff?`official-off`:`app`,isAdmin:i.role===`admin`})}export{i as component};
