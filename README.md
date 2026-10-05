@@ -1,6 +1,6 @@
 # Deploy Appflare
 
-[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://deploy.workers.cloudflare.com/?url=https://github.com/appflare/deploy)
+[![Deploy to Cloudflare](https://deploy.workers.cloudflare.com/button)](https://link.appflare.dev/deploy)
 
 [Appflare](https://github.com/appflare/appflare) is a self-hosted app manager for
 Cloudflare: one Worker in your own account that installs, updates, and removes
