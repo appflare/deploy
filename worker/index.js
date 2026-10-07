@@ -20299,7 +20299,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/api/catalog/media/$digest"
 			],
 			preloads: [
-				"/assets/index-CE89Dava.js",
+				"/assets/index-DjAqUKvr.js",
 				"/assets/rolldown-runtime-hePW80VL.js",
 				"/assets/text-f1wxz183ckq7qtl7-WIBUf1mA.js",
 				"/assets/createServerFn-W5z9Gh-_.js",
@@ -20309,8 +20309,8 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/ArrowSquareOut.es-t7poIzPv.js",
 				"/assets/removed-apps.functions-0b0_zgEO.js",
 				"/assets/busy-button-CC-bMPgk.js",
-				"/assets/manager-address-move-BzzmYaE1.js",
-				"/assets/src-BUH5uNrd.js",
+				"/assets/manager-address-move-Bad2KsUi.js",
+				"/assets/src-BgCZj-RP.js",
 				"/assets/empty-hkvg3is3uc6dj1at-2nhcB1pu.js",
 				"/assets/message-links-Dr2EpZ7Q.js",
 				"/assets/router-timing-Dy3btKso.js",
@@ -20321,11 +20321,11 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/version.functions-BsCPaX10.js",
 				"/assets/moved-note-CrB6RxlW.js",
 				"/assets/app-links-DOWIUPam.js",
-				"/assets/browse-DxVJdPha.js",
+				"/assets/browse-C3Hs4Yna.js",
 				"/assets/catalog.functions-bSqXCorz.js",
 				"/assets/install-again.functions-C9euEh9L.js",
 				"/assets/jobs.functions-DRmtr0xT.js",
-				"/assets/users.functions-B_ckjps1.js",
+				"/assets/users.functions-Bz2AlrQ5.js",
 				"/assets/auto-update.functions-CsV8G13y.js",
 				"/assets/telemetry.functions-DCFIFZ86.js",
 				"/assets/passkeys.functions-BRIYbERN.js",
@@ -20334,7 +20334,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			scripts: [{ attrs: {
 				type: "module",
 				async: !0,
-				src: "/assets/index-CE89Dava.js"
+				src: "/assets/index-DjAqUKvr.js"
 			} }]
 		},
 		"/_app": {
@@ -20362,43 +20362,43 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/_app/install/github/$owner/$repo"
 			],
 			preloads: [
-				"/assets/_app-CoXxpDBH.js",
+				"/assets/_app-C_fMrisw.js",
 				"/assets/useLocation-BiTe7zfg.js",
 				"/assets/badge-dq8bx752b9dp7dst-Cwzxj2NV.js",
 				"/assets/ArrowCircleUp.es-Cck5l0Rp.js",
-				"/assets/dropdown-m53ji1d66mws89wh-Cqo1PvSQ.js",
+				"/assets/dropdown-m53ji1d66mws89wh-lrRve_9x.js",
 				"/assets/sidebar-rail-BrrhaiAO.js",
 				"/assets/Fingerprint.es-CpPMZzOb.js",
 				"/assets/ListChecks.es-Y41RZc1O.js",
 				"/assets/MagnifyingGlass.es-TMoDxrHf.js",
 				"/assets/tooltip-D8C_85B3.js",
-				"/assets/job-report-dialog-DtMzYgKn.js",
+				"/assets/job-report-dialog-C7x0pHcZ.js",
 				"/assets/SignOut.es-B8owTFdr.js",
 				"/assets/Sparkle.es-D_EHdv3c.js",
 				"/assets/Star.es-BRfEUsnX.js",
 				"/assets/Storefront.es-50JJZI8S.js",
-				"/assets/auth-layout-BSGOy1BI.js",
-				"/assets/layer-dialog-j5ywmzs46ccg6oqy-bI6uOptn.js",
-				"/assets/settings-nav-4r5Lr_Oa.js",
+				"/assets/auth-layout-5rq2Upc4.js",
+				"/assets/layer-dialog-j5ywmzs46ccg6oqy-D3GElr5M.js",
+				"/assets/settings-nav-B2gBwU1_.js",
 				"/assets/live-job-BcHghodn.js",
 				"/assets/timestamp-Dk9-oO6k.js",
 				"/assets/display-name-BFGrQEGb.js",
-				"/assets/status-dot-BcNvqs3u.js",
+				"/assets/status-dot-DVZPO0Gr.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/markdown-OCitcmcq.js",
 				"/assets/hash-target-Bo-28uEI.js",
-				"/assets/catalog-media-COZFpmjk.js"
+				"/assets/catalog-media-CPK7-Z-c.js"
 			]
 		},
 		"/forgot-password": {
 			filePath: "src/routes/forgot-password.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/forgot-password-BVW2yOMj.js",
+				"/assets/forgot-password-nbYyHmEE.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/auth-layout-BSGOy1BI.js",
+				"/assets/auth-layout-5rq2Upc4.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/recovery-messages-DV9-foy-.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20408,9 +20408,9 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/login.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/login-DLwhvttc.js",
+				"/assets/login-CYzcX_sq.js",
 				"/assets/Fingerprint.es-CpPMZzOb.js",
-				"/assets/auth-layout-BSGOy1BI.js",
+				"/assets/auth-layout-5rq2Upc4.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/sign-in-errors-BJTilaJy.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20420,8 +20420,8 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/reset-password.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/reset-password-JRtKBGKb.js",
-				"/assets/auth-layout-BSGOy1BI.js",
+				"/assets/reset-password-DGohI-Mb.js",
+				"/assets/auth-layout-5rq2Upc4.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/recovery-messages-DV9-foy-.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20431,14 +20431,14 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/setup.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/setup-CAA9epXw.js",
-				"/assets/wildcard-domain-input-CdzDl2qY.js",
+				"/assets/setup-BGHL1X6N.js",
+				"/assets/wildcard-domain-input-DWcfX80_.js",
 				"/assets/SignOut.es-B8owTFdr.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/radio-35dx7y6rjrezbjsp-BrXA8Zfr.js",
-				"/assets/auth-layout-BSGOy1BI.js",
+				"/assets/radio-35dx7y6rjrezbjsp-C4YFn2TE.js",
+				"/assets/auth-layout-5rq2Upc4.js",
 				"/assets/client-BPF1MrV-.js",
-				"/assets/schemas-DCH2k2Zh.js",
+				"/assets/schemas-CeB-_Hi9.js",
 				"/assets/sign-in-errors-BJTilaJy.js",
 				"/assets/password-input-t9TyMR2C.js"
 			]
@@ -20447,21 +20447,21 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_app-DsVClOrQ.js",
+				"/assets/_app-Csg2aGwZ.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started--_InfGwZ.js",
+				"/assets/job-started-DOlm_VY9.js",
 				"/assets/Copy.es-CkIXginv.js",
 				"/assets/Package.es-CWLtJtcv.js",
-				"/assets/docs-link-CotCG6kS.js",
+				"/assets/docs-link-BRUVdSD5.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-DAxaNIpv.js",
+				"/assets/capability-rows-u1Mg7noF.js",
 				"/assets/section-BS2DYQR2.js",
-				"/assets/update-banner-BVKksGW1.js",
+				"/assets/update-banner-BsPpFTsS.js",
 				"/assets/health.functions-CQuhYjSQ.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
-				"/assets/use-optimistic-dismiss-DFke7h5C.js",
+				"/assets/use-optimistic-dismiss-CPThAovv.js",
 				"/assets/connection-view-Cp41gZZo.js",
 				"/assets/attention-copy-C7bOMR1X.js"
 			]
@@ -20470,42 +20470,42 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/apps/$installId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_installId-B5KScQ39.js",
+				"/assets/_installId-WaXuUtok.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started--_InfGwZ.js",
-				"/assets/cron-triggers-field-BnkouxDX.js",
-				"/assets/removed-app-actions-CA5N8ujd.js",
-				"/assets/origin-badge-DgpkGodH.js",
+				"/assets/job-started-DOlm_VY9.js",
+				"/assets/cron-triggers-field-DrHAjgbQ.js",
+				"/assets/removed-app-actions-DWzcVpvk.js",
+				"/assets/origin-badge-BmTpo5HY.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/Trash.es-BPFMLpMo.js",
 				"/assets/Package.es-CWLtJtcv.js",
-				"/assets/wildcard-domain-input-CdzDl2qY.js",
+				"/assets/wildcard-domain-input-DWcfX80_.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/cost-gdeKBL2R.js",
-				"/assets/docs-link-CotCG6kS.js",
+				"/assets/cost-BDOTso2d.js",
+				"/assets/docs-link-BRUVdSD5.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/useAnchoredPopupScrollLock-kp3kai20u91sdm7v-L_eLufc3.js",
-				"/assets/CompositeItem-hzuk5x3e5zsfgnyj-QKKAdX46.js",
-				"/assets/radio-35dx7y6rjrezbjsp-BrXA8Zfr.js",
+				"/assets/useAnchoredPopupScrollLock-kp3kai20u91sdm7v-X1pUsbj3.js",
+				"/assets/CompositeItem-hzuk5x3e5zsfgnyj-DHbpDq_w.js",
+				"/assets/radio-35dx7y6rjrezbjsp-C4YFn2TE.js",
 				"/assets/responsive-table-DS2Y2glM.js",
-				"/assets/source-build-fields-DU6QvZTx.js",
+				"/assets/source-build-fields-DGyY1548.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-DAxaNIpv.js",
-				"/assets/app-access-PPlQYZxF.js",
-				"/assets/confirm-dialog-rZ0PhXXw.js",
-				"/assets/zone-hostname-field-C3FD-cz9.js",
+				"/assets/capability-rows-u1Mg7noF.js",
+				"/assets/app-access-4XDWABOp.js",
+				"/assets/confirm-dialog-Cjwz1R-0.js",
+				"/assets/zone-hostname-field-Dy8JwKva.js",
 				"/assets/section-BS2DYQR2.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/update-banner-BVKksGW1.js",
+				"/assets/update-banner-BsPpFTsS.js",
 				"/assets/auto-update-jdGlOwSe.js",
-				"/assets/install-again-DMxf9Vk9.js",
+				"/assets/install-again-BEZHHuDX.js",
 				"/assets/description-list-oQBRfJtS.js",
-				"/assets/external-domains.functions-DI9eTx9B.js",
+				"/assets/external-domains.functions-074kDF5d.js",
 				"/assets/use-account-id-CzcRpNTv.js",
 				"/assets/health.functions-CQuhYjSQ.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
@@ -20516,44 +20516,44 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/catalog/$slug.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_slug-C33_59t6.js",
-				"/assets/job-started--_InfGwZ.js",
+				"/assets/_slug-DHPWYWrz.js",
+				"/assets/job-started-DOlm_VY9.js",
 				"/assets/BookOpen.es-B4igG5WA.js",
 				"/assets/CaretLeft.es-CCxWRrWj.js",
-				"/assets/install-form-CICjUDhX.js",
+				"/assets/install-form-BQelPX5W.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/GithubLogo.es-BCeiowlX.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Package.es-CWLtJtcv.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/docs-link-CotCG6kS.js",
-				"/assets/sandbox-first-BQ9D0YHa.js",
-				"/assets/source-build-fields-DU6QvZTx.js",
+				"/assets/docs-link-BRUVdSD5.js",
+				"/assets/sandbox-first-463BHbfT.js",
+				"/assets/source-build-fields-DGyY1548.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-DAxaNIpv.js",
+				"/assets/capability-rows-u1Mg7noF.js",
 				"/assets/plan-Bh7KLF-g.js",
 				"/assets/popularity-BuOf--FF.js",
-				"/assets/primitives-CUQzWRTW.js",
+				"/assets/primitives-DoSLi2eh.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/install-again-DMxf9Vk9.js",
+				"/assets/install-again-BEZHHuDX.js",
 				"/assets/status-badge-qwpyLX2K.js"
 			]
 		},
 		"/_app/install/$slug": {
 			filePath: "src/routes/_app/install/$slug.tsx",
 			children: void 0,
-			preloads: ["/assets/_slug-ChIT3lQk.js", "/assets/install-link-problem-BIvlEGsA.js"]
+			preloads: ["/assets/_slug-Dji7N9Fr.js", "/assets/install-link-problem-BIvlEGsA.js"]
 		},
 		"/_app/jobs/$jobId": {
 			filePath: "src/routes/_app/jobs/$jobId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_jobId-C7oOfd27.js",
+				"/assets/_jobId-BXkBdNWD.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
-				"/assets/docs-link-CotCG6kS.js",
+				"/assets/docs-link-BRUVdSD5.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
 				"/assets/code-eu8kzwqnlhoyin24-C5K1Jo8d.js",
 				"/assets/responsive-table-DS2Y2glM.js",
@@ -20564,7 +20564,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/description-list-oQBRfJtS.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
 				"/assets/status-badge-qwpyLX2K.js",
-				"/assets/seed-credentials-B_-Qcf1P.js",
+				"/assets/seed-credentials-BD2me6y0.js",
 				"/assets/attention-copy-C7bOMR1X.js"
 			]
 		},
@@ -20572,76 +20572,76 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/settings/account.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/account-DjxW9JK_.js",
-				"/assets/settings-pages-OHaIr-Mx.js",
-				"/assets/capability-rows-DAxaNIpv.js"
+				"/assets/account-BO_Eglxc.js",
+				"/assets/settings-pages-e1c-98So.js",
+				"/assets/capability-rows-u1Mg7noF.js"
 			]
 		},
 		"/_app/settings/building": {
 			filePath: "src/routes/_app/settings/building.tsx",
 			children: void 0,
-			preloads: ["/assets/building-CX_MIx5X.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/building-DeDL52BI.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/catalogs": {
 			filePath: "src/routes/_app/settings/catalogs.tsx",
 			children: void 0,
-			preloads: ["/assets/catalogs-r9zIKpM3.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/catalogs-BAxPnzE1.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/domains": {
 			filePath: "src/routes/_app/settings/domains.tsx",
 			children: void 0,
-			preloads: ["/assets/domains-FHkqfSTx.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/domains-dA6psI0_.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/notifications": {
 			filePath: "src/routes/_app/settings/notifications.tsx",
 			children: void 0,
-			preloads: ["/assets/notifications-CcGiOqU6.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/notifications-CtxozLYF.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/removed-apps": {
 			filePath: "src/routes/_app/settings/removed-apps.tsx",
 			children: void 0,
-			preloads: ["/assets/removed-apps-BDyzd-tQ.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/removed-apps-B8c-2HCY.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/updates": {
 			filePath: "src/routes/_app/settings/updates.tsx",
 			children: void 0,
-			preloads: ["/assets/updates-iZMhlYOO.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/updates-BQvAY0yi.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/usage-data": {
 			filePath: "src/routes/_app/settings/usage-data.tsx",
 			children: void 0,
-			preloads: ["/assets/usage-data-By3Lav_w.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/usage-data-3R7HRhHu.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/settings/users": {
 			filePath: "src/routes/_app/settings/users.tsx",
 			children: void 0,
-			preloads: ["/assets/users-CuJqqOoW.js", "/assets/settings-pages-OHaIr-Mx.js"]
+			preloads: ["/assets/users-B4GzAdcm.js", "/assets/settings-pages-e1c-98So.js"]
 		},
 		"/_app/catalog/": {
 			filePath: "src/routes/_app/catalog/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/catalog-DW2B7AOy.js",
-				"/assets/job-started--_InfGwZ.js",
+				"/assets/catalog-BWJ8nZ5C.js",
+				"/assets/job-started-DOlm_VY9.js",
 				"/assets/ChartLine.es-foKA1Fz7.js",
 				"/assets/CaretLeft.es-CCxWRrWj.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/EyeSlash.es-BY8qCksT.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/docs-link-CotCG6kS.js",
+				"/assets/docs-link-BRUVdSD5.js",
 				"/assets/ShieldCheck.es-DZLiQHvO.js",
-				"/assets/sandbox-first-BQ9D0YHa.js",
+				"/assets/sandbox-first-463BHbfT.js",
 				"/assets/input-group-fjr4r5ax0x78ppax-2a-Fsor6.js",
-				"/assets/source-build-fields-DU6QvZTx.js",
+				"/assets/source-build-fields-DGyY1548.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-DAxaNIpv.js",
+				"/assets/capability-rows-u1Mg7noF.js",
 				"/assets/plan-Bh7KLF-g.js",
 				"/assets/popularity-BuOf--FF.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/source-build-input-DUiI0TWw.js",
-				"/assets/use-optimistic-dismiss-DFke7h5C.js",
+				"/assets/source-build-input-DO4CmENv.js",
+				"/assets/use-optimistic-dismiss-CPThAovv.js",
 				"/assets/tokens-C8pscDzr.js"
 			]
 		},
@@ -20649,7 +20649,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/jobs/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/jobs-GCns4N3F.js",
+				"/assets/jobs-D0boTs9p.js",
 				"/assets/responsive-table-DS2Y2glM.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/format-BXN8Uc4h.js",
@@ -20661,33 +20661,33 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/catalog/source.$buildId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/source._buildId-BiJ5qaz9.js",
+				"/assets/source._buildId-CaKR9Sn-.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started--_InfGwZ.js",
+				"/assets/job-started-DOlm_VY9.js",
 				"/assets/ChartLine.es-foKA1Fz7.js",
-				"/assets/cron-triggers-field-BnkouxDX.js",
+				"/assets/cron-triggers-field-DrHAjgbQ.js",
 				"/assets/focus-after-dialog-Bk0-oGK3.js",
-				"/assets/origin-badge-DgpkGodH.js",
-				"/assets/install-form-CICjUDhX.js",
+				"/assets/origin-badge-BmTpo5HY.js",
+				"/assets/install-form-BQelPX5W.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/Trash.es-BPFMLpMo.js",
-				"/assets/wildcard-domain-input-CdzDl2qY.js",
-				"/assets/docs-link-CotCG6kS.js",
-				"/assets/sandbox-first-BQ9D0YHa.js",
+				"/assets/wildcard-domain-input-DWcfX80_.js",
+				"/assets/docs-link-BRUVdSD5.js",
+				"/assets/sandbox-first-463BHbfT.js",
 				"/assets/responsive-table-DS2Y2glM.js",
-				"/assets/source-build-fields-DU6QvZTx.js",
+				"/assets/source-build-fields-DGyY1548.js",
 				"/assets/page-header-CdRgy6Gu.js",
-				"/assets/capability-rows-DAxaNIpv.js",
-				"/assets/primitives-CUQzWRTW.js",
-				"/assets/confirm-dialog-rZ0PhXXw.js",
+				"/assets/capability-rows-u1Mg7noF.js",
+				"/assets/primitives-DoSLi2eh.js",
+				"/assets/confirm-dialog-Cjwz1R-0.js",
 				"/assets/section-BS2DYQR2.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/update-banner-BVKksGW1.js",
-				"/assets/install-again-DMxf9Vk9.js",
+				"/assets/update-banner-BsPpFTsS.js",
+				"/assets/install-again-BEZHHuDX.js",
 				"/assets/description-list-oQBRfJtS.js"
 			]
 		},
@@ -41070,9 +41070,13 @@ function needsWildcardHostname(install) {
 function catalogWorkerName(manifest) {
 	return manifest.install.workerName ?? manifest.slug;
 }
-/** The app's homepage: `homepage`, else its repository on GitHub. */
+/** The app's public repository: `upstreamRepo`, else its build repository. */
+function catalogRepository(manifest) {
+	return manifest.upstreamRepo ?? manifest.repo;
+}
+/** The app's homepage: `homepage`, else its public repository on GitHub. */
 function catalogHomepage(manifest) {
-	return manifest.homepage ?? `https://github.com/${manifest.repo}`;
+	return manifest.homepage ?? `https://github.com/${catalogRepository(manifest)}`;
 }
 /**
 * What is wrong with an entry's `cloudflareToken` secret, one issue each with
@@ -41907,7 +41911,7 @@ var init_catalog$2 = __esmMin(() => {
 		github: githubLoginSchema.describe("The author's GitHub username or organization, without @.").optional(),
 		x: xHandleSchema.describe("The author's X (Twitter) handle, without @.").optional()
 	}).describe("A person or organization that wrote the app, with optional links.");
-	catalogRevisionSchema = int().min(1).max(1e6).describe("Which edit of this entry's form and copy the catalog publishes for the build its `source` already released, starting at 1 (the default when omitted). Raise it by one to publish a change to `name`, `summary`, `homepage`, `license`, `categories`, `maintainers`, `secrets`, `vars`, `postInstall`, `bump`, `access` or `openPath`, or to add `\"access\"` to `requires`, without moving `source`: the released artifact stays as it is, and managers show the new form without an update. `tagline`, `licenseNote` and `authors` need no revision: the catalog shows them from the current manifest. Anything else needs a new build, so move `source` instead.");
+	catalogRevisionSchema = int().min(1).max(1e6).describe("Which edit of this entry's form and copy the catalog publishes for the build its `source` already released, starting at 1 (the default when omitted). Raise it by one to publish a change to `name`, `summary`, `homepage`, `upstreamRepo`, `license`, `categories`, `maintainers`, `secrets`, `vars`, `postInstall`, `bump`, `access` or `openPath`, or to add `\"access\"` to `requires`, without moving `source`: the released artifact stays as it is, and managers show the new form without an update. `tagline`, `licenseNote` and `authors` need no revision: the catalog shows them from the current manifest. Anything else needs a new build, so move `source` instead.");
 	catalogSlugSchema = string$3().regex(CATALOG_SLUG_PATTERN, "must be lowercase letters, digits and dashes, starting with a letter or digit, at most 63 characters");
 	catalogManifestSchema = object({
 		$schema: url().optional(),
@@ -41925,16 +41929,17 @@ var init_catalog$2 = __esmMin(() => {
 			protocol: /^https$/,
 			error: "must be an https:// URL"
 		}).regex(/^https:\/\//, "must be an https:// URL").describe("The app's website, as an https:// URL. Defaults to its repository on GitHub.").optional(),
-		repo: ownerRepoSchema,
+		repo: ownerRepoSchema.describe("The public GitHub repository the app is built from, as `owner/repo`. The source pin, builds and version bumps always use this repository. Also shown as the app's source code link unless `upstreamRepo` names its main project."),
+		upstreamRepo: ownerRepoSchema.describe("The app's main public GitHub repository, as `owner/repo`, when `repo` is a deployment template or a fork. Used for source code links, GitHub stars, and the default homepage and authors. Builds, source pins and version bumps still use `repo`.").optional(),
 		license: licenseSchema,
 		/** A short line shown next to the license. */
 		licenseNote: licenseNoteSchema.optional(),
 		categories: catalogCategoriesSchema,
 		/**
 		* Who wrote the app upstream, as the catalog shows them. The catalog
-		* index lists the owner of `repo` when it is omitted ({@link catalogAuthors}).
+		* index lists the owner of its public repository when omitted ({@link catalogAuthors}).
 		*/
-		authors: array(catalogAuthorSchema).min(1).describe("Who wrote the app upstream: one or more people or organizations, shown on the catalog card and the app's page. Not the people who package it for the catalog (those are `maintainers`). When omitted, the catalog lists the owner of `repo`.").optional(),
+		authors: array(catalogAuthorSchema).min(1).describe("Who wrote the app upstream: one or more people or organizations, shown on the catalog card and the app's page. Not the people who package it for the catalog (those are `maintainers`). When omitted, the catalog lists the owner of `upstreamRepo`, or `repo` when no upstream repository is set.").optional(),
 		/** GitHub users who package the app for the catalog; shown as "Packaged by". */
 		maintainers: array(string$3().min(1)).default([]).describe("The GitHub usernames, without @, of the people who package the app for the catalog and look after this entry, shown as \"Packaged by\". Not the app's own authors (those are `authors`)."),
 		source: catalogSourceSchema,
@@ -43346,6 +43351,8 @@ spreadJobs: "manager:spread-jobs" };
 	managerFeatureSchema = _enum(Object.values(MANAGER_FEATURES));
 	indexAppSchema = object({
 		slug: catalogSlugSchema,
+		/** The manifest's public repository; absent in older catalog indexes. */
+		repo: ownerRepoSchema.optional(),
 		name: string$3().min(1),
 		summary: string$3().min(1),
 		/** The catalog manifest's `tagline`, the pitch on catalog tiles. */
@@ -43369,7 +43376,7 @@ spreadJobs: "manager:spread-jobs" };
 		lastVerified: datetime().nullable(),
 		/**
 		* Who wrote the app: the catalog manifest's `authors`, or the owner of its
-		* `repo` when it lists none.
+		* public repository when it lists none.
 		*/
 		authors: array(catalogAuthorSchema).min(1),
 		/** Who packages the app for the catalog. */
@@ -43504,12 +43511,15 @@ spreadJobs: "manager:spread-jobs" };
 }), publishedCountSchema, catalogAppStatsSchema, catalogStatsSourceSchema, catalogStatsSchema;
 var init_catalog_stats = __esmMin(() => {
 	init_zod();
+	init_catalog$2();
 	publishedCountSchema = number$1().int().min(10).nullable();
 	catalogAppStatsSchema = object({
 		/** Stargazers of the app's upstream repository; null when never read (or not the app's own repository). */
 		stars: object({
 			count: number$1().int().nonnegative(),
-			fetchedAt: datetime()
+			fetchedAt: datetime(),
+			/** Repository whose stars were counted; absent in older stats files. */
+			repo: ownerRepoSchema.optional()
 		}).nullable(),
 		/** Install counts from the managers' anonymous events; null when never read. */
 		installs: object({
@@ -44659,6 +44669,7 @@ var init_revision = __esmMin(() => {
 		"summary",
 		"tagline",
 		"homepage",
+		"upstreamRepo",
 		"license",
 		"licenseNote",
 		"categories",
@@ -44968,7 +44979,7 @@ function runningVersion(env, build = BUILD_VERSION) {
 }
 var BUILD_VERSION;
 var init_build_version = __esmMin(() => {
-	BUILD_VERSION = "0.4.0";
+	BUILD_VERSION = "0.4.1";
 });
 //#endregion
 //#region src/telemetry/classify.ts
@@ -130943,7 +130954,7 @@ var init_styles$1 = __esmMin(() => {});
 var styles_default;
 var init_styles = __esmMin(() => {
 	init_styles$1();
-	styles_default = "/assets/styles-CYpmQ5Hn.css";
+	styles_default = "/assets/styles-CWgcqQWG.css";
 });
 //#endregion
 //#region src/access/recovery.ts
@@ -149961,12 +149972,18 @@ function freshStats(stats, now) {
 	if (stats === null) return null;
 	return now.getTime() - Date.parse(stats.generatedAt) <= 2592e5 ? stats : null;
 }
-/** One app's numbers from (fresh) stats; null when the stats do not list it. */
-function appPopularity(stats, slug) {
+/**
+* One app's numbers from fresh stats. Stars need matching repository provenance
+* when the caller knows the public repository. Proven stars are hidden when the
+* caller cannot identify the repository; older callers may still show legacy
+* counts without provenance. Install counts do not depend on the repository.
+*/
+function appPopularity(stats, slug, expectedRepo) {
 	const entry = stats?.apps[slug];
 	if (entry === void 0) return null;
+	const stars = entry.stars;
 	return {
-		stars: entry.stars?.count ?? null,
+		stars: (expectedRepo === void 0 ? stars?.repo === void 0 : stars?.repo?.toLowerCase() === expectedRepo.toLowerCase()) ? stars?.count ?? null : null,
 		installs30d: entry.installs?.last30d ?? null,
 		activeInstalls: entry.installs?.active ?? null,
 		installsKnown: entry.installs !== null
@@ -151791,12 +151808,13 @@ function hostOf(url) {
 * a plain-language page about a single standard license.
 */
 function appLinks(catalog, license) {
-	const repoUrl = `https://github.com/${catalog.repo}`;
+	const repo = catalogRepository(catalog);
+	const repoUrl = `https://github.com/${repo}`;
 	const links = [{
 		kind: "repository",
 		label: "Source code",
 		href: repoUrl,
-		detail: `github.com/${catalog.repo}`
+		detail: `github.com/${repo}`
 	}];
 	const homepage = catalogHomepage(catalog);
 	if (homepage.replace(/\/$/, "") !== repoUrl) links.push({
@@ -152016,7 +152034,7 @@ var init_stats_server = __esmMin(() => {
 	init_zod();
 	init_conditional_fetch();
 	CATALOG_STATS_KEY = "catalog:stats";
-	CACHE_FORMAT$1 = 1;
+	CACHE_FORMAT$1 = 2;
 	statsEnvelopeSchema = object({
 		generatedAt: datetime(),
 		apps: record(string$3(), unknown$1()),
@@ -152916,7 +152934,7 @@ async function readCatalogEntry(slug, loadSession) {
 		key,
 		source,
 		images: appMediaView(source.official ? app.media : void 0, catalogIndexUrl(env)),
-		popularity: source.official ? appPopularity(stats, app.slug) : null,
+		popularity: source.official ? appPopularity(stats, app.slug, app.repo) : null,
 		...appFacts(app)
 	};
 	const unsigned = unsignedTierRefusal(source.id, app.tier);
@@ -152953,6 +152971,7 @@ async function readCatalogEntry(slug, loadSession) {
 		...appFacts(app),
 		app,
 		catalog: manifest.catalog,
+		popularity: source.official ? appPopularity(stats, app.slug, catalogRepository(manifest.catalog)) : null,
 		sourceBuilds: app.tier !== "self-deploying" && sourceBuildsOffered(session.user.role, sandbox),
 		authors: app.authors,
 		createsKnown: plan !== null,
@@ -153089,7 +153108,7 @@ async function listItems(read, active, stats) {
 			source: read.source,
 			installs: active.bySlug.get(key) ?? [],
 			images: appMediaView(official ? app.media : void 0, indexUrl),
-			popularity: official ? appPopularity(stats, app.slug) : null,
+			popularity: official ? appPopularity(stats, app.slug, app.repo) : null,
 			pitch: app.tagline,
 			...appFacts(app)
 		};
@@ -209436,10 +209455,14 @@ function useScrollEdges(scroller, count) {
 	(0, import_react$33.useEffect)(() => {
 		const el = scroller.current;
 		if (el === null) return;
-		const measure = () => setEdges({
-			atStart: el.scrollLeft <= 1,
-			atEnd: el.scrollLeft + el.clientWidth >= el.scrollWidth - 1
-		});
+		const measure = () => {
+			const atStart = el.scrollLeft <= 1;
+			const atEnd = el.scrollLeft + el.clientWidth >= el.scrollWidth - 1;
+			setEdges((prev) => prev.atStart === atStart && prev.atEnd === atEnd ? prev : {
+				atStart,
+				atEnd
+			});
+		};
 		measure();
 		el.addEventListener("scroll", measure, { passive: true });
 		const observer = new ResizeObserver(measure);
@@ -209569,7 +209592,7 @@ function AppRow({ title, caption = null, apps, onSeeAll }) {
 			onKeyDown: moveBetweenTiles,
 			className: cn("relative -mx-3 flex snap-x snap-mandatory gap-6 overflow-x-auto py-1", NO_SCROLLBAR),
 			children: apps.map((app) => /* @__PURE__ */ (0, import_jsx_runtime$55.jsx)("li", {
-				className: "w-56 shrink-0 snap-start",
+				className: cn("w-56 shrink-0 snap-start", OFFSCREEN_SKIPPED),
 				children: /* @__PURE__ */ (0, import_jsx_runtime$55.jsx)(AppTile, { app })
 			}, app.key))
 		})]
@@ -209577,15 +209600,17 @@ function AppRow({ title, caption = null, apps, onSeeAll }) {
 }
 /**
 * The same tiles in a grid that fills the width, cells at least 14rem and
-* 1.5rem apart: the results of a search or filter, and "All apps".
+* 1.5rem apart: the results of a search or filter, and "All apps". On a
+* phone, where one 14rem cell would take the whole width, two columns
+* closer together.
 */
 function AppGrid({ apps, labelledBy }) {
 	return /* @__PURE__ */ (0, import_jsx_runtime$55.jsx)("ul", {
 		role: "list",
 		"aria-labelledby": labelledBy,
-		className: "-mx-3 grid grid-cols-[repeat(auto-fill,minmax(14rem,1fr))] gap-6",
+		className: "-mx-3 grid grid-cols-2 gap-x-2 gap-y-4 sm:grid-cols-[repeat(auto-fill,minmax(14rem,1fr))] sm:gap-6",
 		children: apps.map((app) => /* @__PURE__ */ (0, import_jsx_runtime$55.jsx)("li", {
-			className: "min-w-0",
+			className: cn("min-w-0", OFFSCREEN_SKIPPED),
 			children: /* @__PURE__ */ (0, import_jsx_runtime$55.jsx)(AppTile, { app })
 		}, app.key))
 	});
@@ -209603,7 +209628,7 @@ function CatalogSection({ title, titleId, children }) {
 		}), children]
 	});
 }
-var import_react$33, import_jsx_runtime$55, NO_SCROLLBAR, TILE_STEP_PX;
+var import_react$33, import_jsx_runtime$55, NO_SCROLLBAR, OFFSCREEN_SKIPPED, TILE_STEP_PX;
 var init_catalog_row = __esmMin(() => {
 	init_dist$1();
 	init_index_es();
@@ -209613,6 +209638,7 @@ var init_catalog_row = __esmMin(() => {
 	init_sidebar_rail();
 	import_jsx_runtime$55 = require_jsx_runtime();
 	NO_SCROLLBAR = "[scrollbar-width:none] [&::-webkit-scrollbar]:hidden";
+	OFFSCREEN_SKIPPED = "[content-visibility:auto] [contain-intrinsic-size:auto_12rem]";
 	TILE_STEP_PX = 248;
 });
 //#endregion
