@@ -1,1 +1,0 @@
-import{l as e,o as t,s as n}from"./createServerFn-CtHpOG4t.js";function r(r){let i=e();return n(i.stores.location,t(r,i))}export{r as t};
