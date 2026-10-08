@@ -1,5 +1,5 @@
 {
-  // Appflare 0.4.1, generated from the release manager@0.4.1 of
+  // Appflare 0.4.2, generated from the release manager@0.4.2 of
   // github.com/appflare/appflare. Every release replaces this repository's contents;
   // do not edit it. Appflare updates itself from its own settings page.
   "$schema": "node_modules/wrangler/config-schema.json",
@@ -85,7 +85,7 @@
   // No secrets are declared: the setup wizard generates BETTER_AUTH_SECRET and stores
   // it, with your API token, as encrypted secrets on this Worker.
   "vars": {
-    "APPFLARE_VERSION": "0.4.1",
+    "APPFLARE_VERSION": "0.4.2",
     "APPFLARE_INSTALL_SOURCE": "deploy-button"
   }
 }

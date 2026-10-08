@@ -20299,7 +20299,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/api/catalog/media/$digest"
 			],
 			preloads: [
-				"/assets/index-DjAqUKvr.js",
+				"/assets/index-B0EcRP-f.js",
 				"/assets/rolldown-runtime-hePW80VL.js",
 				"/assets/text-f1wxz183ckq7qtl7-WIBUf1mA.js",
 				"/assets/createServerFn-W5z9Gh-_.js",
@@ -20309,8 +20309,8 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/ArrowSquareOut.es-t7poIzPv.js",
 				"/assets/removed-apps.functions-0b0_zgEO.js",
 				"/assets/busy-button-CC-bMPgk.js",
-				"/assets/manager-address-move-Bad2KsUi.js",
-				"/assets/src-BgCZj-RP.js",
+				"/assets/manager-address-move-Z6KzOnQl.js",
+				"/assets/src-DtPLmZ5e.js",
 				"/assets/empty-hkvg3is3uc6dj1at-2nhcB1pu.js",
 				"/assets/message-links-Dr2EpZ7Q.js",
 				"/assets/router-timing-Dy3btKso.js",
@@ -20321,11 +20321,11 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/version.functions-BsCPaX10.js",
 				"/assets/moved-note-CrB6RxlW.js",
 				"/assets/app-links-DOWIUPam.js",
-				"/assets/browse-C3Hs4Yna.js",
+				"/assets/browse-Cs7OSZBG.js",
 				"/assets/catalog.functions-bSqXCorz.js",
 				"/assets/install-again.functions-C9euEh9L.js",
 				"/assets/jobs.functions-DRmtr0xT.js",
-				"/assets/users.functions-Bz2AlrQ5.js",
+				"/assets/users.functions-I17UI73Q.js",
 				"/assets/auto-update.functions-CsV8G13y.js",
 				"/assets/telemetry.functions-DCFIFZ86.js",
 				"/assets/passkeys.functions-BRIYbERN.js",
@@ -20334,7 +20334,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			scripts: [{ attrs: {
 				type: "module",
 				async: !0,
-				src: "/assets/index-DjAqUKvr.js"
+				src: "/assets/index-B0EcRP-f.js"
 			} }]
 		},
 		"/_app": {
@@ -20362,43 +20362,43 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/_app/install/github/$owner/$repo"
 			],
 			preloads: [
-				"/assets/_app-C_fMrisw.js",
+				"/assets/_app-DDTejZwH.js",
 				"/assets/useLocation-BiTe7zfg.js",
 				"/assets/badge-dq8bx752b9dp7dst-Cwzxj2NV.js",
 				"/assets/ArrowCircleUp.es-Cck5l0Rp.js",
-				"/assets/dropdown-m53ji1d66mws89wh-lrRve_9x.js",
+				"/assets/dropdown-m53ji1d66mws89wh-DGIDmOmT.js",
 				"/assets/sidebar-rail-BrrhaiAO.js",
 				"/assets/Fingerprint.es-CpPMZzOb.js",
 				"/assets/ListChecks.es-Y41RZc1O.js",
 				"/assets/MagnifyingGlass.es-TMoDxrHf.js",
 				"/assets/tooltip-D8C_85B3.js",
-				"/assets/job-report-dialog-C7x0pHcZ.js",
+				"/assets/job-report-dialog-CbPLH-sq.js",
 				"/assets/SignOut.es-B8owTFdr.js",
 				"/assets/Sparkle.es-D_EHdv3c.js",
 				"/assets/Star.es-BRfEUsnX.js",
 				"/assets/Storefront.es-50JJZI8S.js",
-				"/assets/auth-layout-5rq2Upc4.js",
-				"/assets/layer-dialog-j5ywmzs46ccg6oqy-D3GElr5M.js",
-				"/assets/settings-nav-B2gBwU1_.js",
+				"/assets/auth-layout-BOlSOn8H.js",
+				"/assets/layer-dialog-j5ywmzs46ccg6oqy-C3Dw8U4L.js",
+				"/assets/settings-nav-DaAbCVrJ.js",
 				"/assets/live-job-BcHghodn.js",
 				"/assets/timestamp-Dk9-oO6k.js",
 				"/assets/display-name-BFGrQEGb.js",
-				"/assets/status-dot-DVZPO0Gr.js",
+				"/assets/status-dot-CMGjPpPB.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/markdown-OCitcmcq.js",
 				"/assets/hash-target-Bo-28uEI.js",
-				"/assets/catalog-media-CPK7-Z-c.js"
+				"/assets/catalog-media-DcwBXmQY.js"
 			]
 		},
 		"/forgot-password": {
 			filePath: "src/routes/forgot-password.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/forgot-password-nbYyHmEE.js",
+				"/assets/forgot-password-B0RQIDQI.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/auth-layout-5rq2Upc4.js",
+				"/assets/auth-layout-BOlSOn8H.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/recovery-messages-DV9-foy-.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20408,9 +20408,9 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/login.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/login-CYzcX_sq.js",
+				"/assets/login-Ceur5qm6.js",
 				"/assets/Fingerprint.es-CpPMZzOb.js",
-				"/assets/auth-layout-5rq2Upc4.js",
+				"/assets/auth-layout-BOlSOn8H.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/sign-in-errors-BJTilaJy.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20420,8 +20420,8 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/reset-password.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/reset-password-DGohI-Mb.js",
-				"/assets/auth-layout-5rq2Upc4.js",
+				"/assets/reset-password-C2vPjEDd.js",
+				"/assets/auth-layout-BOlSOn8H.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/recovery-messages-DV9-foy-.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20431,14 +20431,14 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/setup.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/setup-BGHL1X6N.js",
-				"/assets/wildcard-domain-input-DWcfX80_.js",
+				"/assets/setup-DZk7KqCs.js",
+				"/assets/wildcard-domain-input-UiEWwITm.js",
 				"/assets/SignOut.es-B8owTFdr.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/radio-35dx7y6rjrezbjsp-C4YFn2TE.js",
-				"/assets/auth-layout-5rq2Upc4.js",
+				"/assets/radio-35dx7y6rjrezbjsp-DPrdNY0d.js",
+				"/assets/auth-layout-BOlSOn8H.js",
 				"/assets/client-BPF1MrV-.js",
-				"/assets/schemas-CeB-_Hi9.js",
+				"/assets/schemas-0ID0qjch.js",
 				"/assets/sign-in-errors-BJTilaJy.js",
 				"/assets/password-input-t9TyMR2C.js"
 			]
@@ -20447,21 +20447,21 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_app-Csg2aGwZ.js",
+				"/assets/_app-BZN18SDw.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started-DOlm_VY9.js",
+				"/assets/job-started-SYgC64Rd.js",
 				"/assets/Copy.es-CkIXginv.js",
 				"/assets/Package.es-CWLtJtcv.js",
-				"/assets/docs-link-BRUVdSD5.js",
+				"/assets/docs-link-D77M9YwB.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-u1Mg7noF.js",
+				"/assets/capability-rows-KrAzCXp7.js",
 				"/assets/section-BS2DYQR2.js",
-				"/assets/update-banner-BsPpFTsS.js",
+				"/assets/update-banner-Bo6pef_L.js",
 				"/assets/health.functions-CQuhYjSQ.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
-				"/assets/use-optimistic-dismiss-CPThAovv.js",
+				"/assets/use-optimistic-dismiss-bCC0muca.js",
 				"/assets/connection-view-Cp41gZZo.js",
 				"/assets/attention-copy-C7bOMR1X.js"
 			]
@@ -20470,42 +20470,42 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/apps/$installId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_installId-WaXuUtok.js",
+				"/assets/_installId-Dybfeg0i.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started-DOlm_VY9.js",
-				"/assets/cron-triggers-field-DrHAjgbQ.js",
-				"/assets/removed-app-actions-DWzcVpvk.js",
-				"/assets/origin-badge-BmTpo5HY.js",
+				"/assets/job-started-SYgC64Rd.js",
+				"/assets/cron-triggers-field-BIf5HO-8.js",
+				"/assets/removed-app-actions-BQPD89-z.js",
+				"/assets/origin-badge-DJpw0oOB.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/Trash.es-BPFMLpMo.js",
 				"/assets/Package.es-CWLtJtcv.js",
-				"/assets/wildcard-domain-input-DWcfX80_.js",
+				"/assets/wildcard-domain-input-UiEWwITm.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/cost-BDOTso2d.js",
-				"/assets/docs-link-BRUVdSD5.js",
+				"/assets/cost-CXC5wB9M.js",
+				"/assets/docs-link-D77M9YwB.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/useAnchoredPopupScrollLock-kp3kai20u91sdm7v-X1pUsbj3.js",
-				"/assets/CompositeItem-hzuk5x3e5zsfgnyj-DHbpDq_w.js",
-				"/assets/radio-35dx7y6rjrezbjsp-C4YFn2TE.js",
+				"/assets/useAnchoredPopupScrollLock-kp3kai20u91sdm7v-BjQascF5.js",
+				"/assets/CompositeItem-hzuk5x3e5zsfgnyj-Cg80MDx2.js",
+				"/assets/radio-35dx7y6rjrezbjsp-DPrdNY0d.js",
 				"/assets/responsive-table-DS2Y2glM.js",
-				"/assets/source-build-fields-DGyY1548.js",
+				"/assets/source-build-fields-CSgOTpiN.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-u1Mg7noF.js",
-				"/assets/app-access-4XDWABOp.js",
-				"/assets/confirm-dialog-Cjwz1R-0.js",
-				"/assets/zone-hostname-field-Dy8JwKva.js",
+				"/assets/capability-rows-KrAzCXp7.js",
+				"/assets/app-access-DDGVtLld.js",
+				"/assets/confirm-dialog-LqWch4nq.js",
+				"/assets/zone-hostname-field-Bxb6BrN9.js",
 				"/assets/section-BS2DYQR2.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/update-banner-BsPpFTsS.js",
+				"/assets/update-banner-Bo6pef_L.js",
 				"/assets/auto-update-jdGlOwSe.js",
-				"/assets/install-again-BEZHHuDX.js",
+				"/assets/install-again-D6mxvuhU.js",
 				"/assets/description-list-oQBRfJtS.js",
-				"/assets/external-domains.functions-074kDF5d.js",
+				"/assets/external-domains.functions-E9X_ZJp4.js",
 				"/assets/use-account-id-CzcRpNTv.js",
 				"/assets/health.functions-CQuhYjSQ.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
@@ -20516,44 +20516,44 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/catalog/$slug.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_slug-DHPWYWrz.js",
-				"/assets/job-started-DOlm_VY9.js",
+				"/assets/_slug-Cvzuq3V9.js",
+				"/assets/job-started-SYgC64Rd.js",
 				"/assets/BookOpen.es-B4igG5WA.js",
 				"/assets/CaretLeft.es-CCxWRrWj.js",
-				"/assets/install-form-BQelPX5W.js",
+				"/assets/install-form-B6HafAVl.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/GithubLogo.es-BCeiowlX.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Package.es-CWLtJtcv.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/docs-link-BRUVdSD5.js",
-				"/assets/sandbox-first-463BHbfT.js",
-				"/assets/source-build-fields-DGyY1548.js",
+				"/assets/docs-link-D77M9YwB.js",
+				"/assets/sandbox-first-Bc5D_v9m.js",
+				"/assets/source-build-fields-CSgOTpiN.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-u1Mg7noF.js",
+				"/assets/capability-rows-KrAzCXp7.js",
 				"/assets/plan-Bh7KLF-g.js",
 				"/assets/popularity-BuOf--FF.js",
-				"/assets/primitives-DoSLi2eh.js",
+				"/assets/primitives-CRSv3K43.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/install-again-BEZHHuDX.js",
+				"/assets/install-again-D6mxvuhU.js",
 				"/assets/status-badge-qwpyLX2K.js"
 			]
 		},
 		"/_app/install/$slug": {
 			filePath: "src/routes/_app/install/$slug.tsx",
 			children: void 0,
-			preloads: ["/assets/_slug-Dji7N9Fr.js", "/assets/install-link-problem-BIvlEGsA.js"]
+			preloads: ["/assets/_slug-DXkNYXz-.js", "/assets/install-link-problem-BIvlEGsA.js"]
 		},
 		"/_app/jobs/$jobId": {
 			filePath: "src/routes/_app/jobs/$jobId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_jobId-BXkBdNWD.js",
+				"/assets/_jobId-Be9sp7z6.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
-				"/assets/docs-link-BRUVdSD5.js",
+				"/assets/docs-link-D77M9YwB.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
 				"/assets/code-eu8kzwqnlhoyin24-C5K1Jo8d.js",
 				"/assets/responsive-table-DS2Y2glM.js",
@@ -20564,7 +20564,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/description-list-oQBRfJtS.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
 				"/assets/status-badge-qwpyLX2K.js",
-				"/assets/seed-credentials-BD2me6y0.js",
+				"/assets/seed-credentials-1wz9y8Ze.js",
 				"/assets/attention-copy-C7bOMR1X.js"
 			]
 		},
@@ -20572,76 +20572,76 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/settings/account.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/account-BO_Eglxc.js",
-				"/assets/settings-pages-e1c-98So.js",
-				"/assets/capability-rows-u1Mg7noF.js"
+				"/assets/account-DNv6eOnk.js",
+				"/assets/settings-pages-DNN7bE4R.js",
+				"/assets/capability-rows-KrAzCXp7.js"
 			]
 		},
 		"/_app/settings/building": {
 			filePath: "src/routes/_app/settings/building.tsx",
 			children: void 0,
-			preloads: ["/assets/building-DeDL52BI.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/building-D-D43Zu7.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/catalogs": {
 			filePath: "src/routes/_app/settings/catalogs.tsx",
 			children: void 0,
-			preloads: ["/assets/catalogs-BAxPnzE1.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/catalogs-BhbUZxfI.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/domains": {
 			filePath: "src/routes/_app/settings/domains.tsx",
 			children: void 0,
-			preloads: ["/assets/domains-dA6psI0_.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/domains-w5mkP4bp.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/notifications": {
 			filePath: "src/routes/_app/settings/notifications.tsx",
 			children: void 0,
-			preloads: ["/assets/notifications-CtxozLYF.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/notifications-Qhd3mVcL.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/removed-apps": {
 			filePath: "src/routes/_app/settings/removed-apps.tsx",
 			children: void 0,
-			preloads: ["/assets/removed-apps-B8c-2HCY.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/removed-apps-C-XQQ3oN.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/updates": {
 			filePath: "src/routes/_app/settings/updates.tsx",
 			children: void 0,
-			preloads: ["/assets/updates-BQvAY0yi.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/updates-D9j1ybAf.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/usage-data": {
 			filePath: "src/routes/_app/settings/usage-data.tsx",
 			children: void 0,
-			preloads: ["/assets/usage-data-3R7HRhHu.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/usage-data-CKjDne3p.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/settings/users": {
 			filePath: "src/routes/_app/settings/users.tsx",
 			children: void 0,
-			preloads: ["/assets/users-B4GzAdcm.js", "/assets/settings-pages-e1c-98So.js"]
+			preloads: ["/assets/users-DB8TLDrh.js", "/assets/settings-pages-DNN7bE4R.js"]
 		},
 		"/_app/catalog/": {
 			filePath: "src/routes/_app/catalog/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/catalog-BWJ8nZ5C.js",
-				"/assets/job-started-DOlm_VY9.js",
+				"/assets/catalog-_JJmXPhz.js",
+				"/assets/job-started-SYgC64Rd.js",
 				"/assets/ChartLine.es-foKA1Fz7.js",
 				"/assets/CaretLeft.es-CCxWRrWj.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/EyeSlash.es-BY8qCksT.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/docs-link-BRUVdSD5.js",
+				"/assets/docs-link-D77M9YwB.js",
 				"/assets/ShieldCheck.es-DZLiQHvO.js",
-				"/assets/sandbox-first-463BHbfT.js",
+				"/assets/sandbox-first-Bc5D_v9m.js",
 				"/assets/input-group-fjr4r5ax0x78ppax-2a-Fsor6.js",
-				"/assets/source-build-fields-DGyY1548.js",
+				"/assets/source-build-fields-CSgOTpiN.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-u1Mg7noF.js",
+				"/assets/capability-rows-KrAzCXp7.js",
 				"/assets/plan-Bh7KLF-g.js",
 				"/assets/popularity-BuOf--FF.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/source-build-input-DO4CmENv.js",
-				"/assets/use-optimistic-dismiss-CPThAovv.js",
+				"/assets/source-build-input-CyaWJsFX.js",
+				"/assets/use-optimistic-dismiss-bCC0muca.js",
 				"/assets/tokens-C8pscDzr.js"
 			]
 		},
@@ -20649,7 +20649,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/jobs/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/jobs-D0boTs9p.js",
+				"/assets/jobs-D-bSgC5y.js",
 				"/assets/responsive-table-DS2Y2glM.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/format-BXN8Uc4h.js",
@@ -20661,33 +20661,33 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/catalog/source.$buildId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/source._buildId-CaKR9Sn-.js",
+				"/assets/source._buildId-DU4jP9Kv.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started-DOlm_VY9.js",
+				"/assets/job-started-SYgC64Rd.js",
 				"/assets/ChartLine.es-foKA1Fz7.js",
-				"/assets/cron-triggers-field-DrHAjgbQ.js",
+				"/assets/cron-triggers-field-BIf5HO-8.js",
 				"/assets/focus-after-dialog-Bk0-oGK3.js",
-				"/assets/origin-badge-BmTpo5HY.js",
-				"/assets/install-form-BQelPX5W.js",
+				"/assets/origin-badge-DJpw0oOB.js",
+				"/assets/install-form-B6HafAVl.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/Trash.es-BPFMLpMo.js",
-				"/assets/wildcard-domain-input-DWcfX80_.js",
-				"/assets/docs-link-BRUVdSD5.js",
-				"/assets/sandbox-first-463BHbfT.js",
+				"/assets/wildcard-domain-input-UiEWwITm.js",
+				"/assets/docs-link-D77M9YwB.js",
+				"/assets/sandbox-first-Bc5D_v9m.js",
 				"/assets/responsive-table-DS2Y2glM.js",
-				"/assets/source-build-fields-DGyY1548.js",
+				"/assets/source-build-fields-CSgOTpiN.js",
 				"/assets/page-header-CdRgy6Gu.js",
-				"/assets/capability-rows-u1Mg7noF.js",
-				"/assets/primitives-DoSLi2eh.js",
-				"/assets/confirm-dialog-Cjwz1R-0.js",
+				"/assets/capability-rows-KrAzCXp7.js",
+				"/assets/primitives-CRSv3K43.js",
+				"/assets/confirm-dialog-LqWch4nq.js",
 				"/assets/section-BS2DYQR2.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/update-banner-BsPpFTsS.js",
-				"/assets/install-again-BEZHHuDX.js",
+				"/assets/update-banner-Bo6pef_L.js",
+				"/assets/install-again-D6mxvuhU.js",
 				"/assets/description-list-oQBRfJtS.js"
 			]
 		},
@@ -37648,6 +37648,41 @@ var init_access$4 = __esmMin(() => {
 	ACCESS_PLACEHOLDER_SOURCE = `\\{\\{\\s*(?:${ACCESS_PLACEHOLDERS.join("|")})\\s*\\}\\}`;
 });
 //#endregion
+//#region ../../packages/schema/src/app-features.ts
+/**
+* Refuses a list that names one item twice, ignoring case, with the second
+* one's position.
+*/
+function eachOnce(list, ctx) {
+	const seen = /* @__PURE__ */ new Set();
+	list.forEach((item, i) => {
+		const key = item.toLowerCase();
+		if (seen.has(key)) ctx.addIssue({
+			code: "custom",
+			path: [i],
+			message: `"${item}" is listed twice`
+		});
+		seen.add(key);
+	});
+}
+var ONE_LINE, ONE_LINE_MESSAGE, appFeatureSchema, appFeaturesSchema, NOT_A_URL, appAlternativeSchema, appAlternativesSchema;
+var init_app_features = __esmMin(() => {
+	init_zod();
+	ONE_LINE = /^\S(?:[^\r\n]*\S)?$/;
+	ONE_LINE_MESSAGE = "must be one line without leading or trailing spaces";
+	appFeatureSchema = string$3().min(1, "must not be empty").max(100, `must be at most 100 characters`).regex(ONE_LINE, ONE_LINE_MESSAGE).regex(/[^.]$/, "must not end with a period");
+	appFeaturesSchema = array(appFeatureSchema).min(3, `must list at least 3 features; leave it out to list none`).max(6, `must list at most 6 features`).superRefine(eachOnce).meta({
+		uniqueItems: true,
+		description: `What the app does for the person who installs it, as 3 to 6 plain lines of at most 100 characters each, without a trailing period, such as "Share short links that open your long ones". Written for people who are not developers, from the upstream project's own description, each line saying something different. Shown on the app's page. Leave it out to list none.`
+	});
+	NOT_A_URL = /^(?![Ww]{3}\.)[^/]*$/;
+	appAlternativeSchema = string$3().min(1, "must not be empty").max(40, `must be at most 40 characters`).regex(ONE_LINE, ONE_LINE_MESSAGE).regex(NOT_A_URL, "must be a product's name, not a URL");
+	appAlternativesSchema = array(appAlternativeSchema).min(1, "must list at least 1 product; leave it out to list none").max(5, `must list at most 5 products`).superRefine(eachOnce).meta({
+		uniqueItems: true,
+		description: `The well-known products or services the app can replace, as 1 to 5 names of at most 40 characters each, such as "Google Analytics" or "Plausible". Names only, no URLs. Shown on the app's page. Leave it out to list none.`
+	});
+});
+//#endregion
 //#region ../../packages/schema/src/assets-only.ts
 /** Whether a Worker has no code of its own and serves its static assets only. */
 function isAssetsOnlyWorker(worker) {
@@ -41426,6 +41461,7 @@ var gitShaSchema, ownerRepoSchema, semverSchema, BUILD_COMMAND_PATTERN, ENV_ASSI
 var init_catalog$2 = __esmMin(() => {
 	init_zod();
 	init_access$4();
+	init_app_features();
 	init_build_env();
 	init_categories$1();
 	init_config_patch();
@@ -41911,7 +41947,7 @@ var init_catalog$2 = __esmMin(() => {
 		github: githubLoginSchema.describe("The author's GitHub username or organization, without @.").optional(),
 		x: xHandleSchema.describe("The author's X (Twitter) handle, without @.").optional()
 	}).describe("A person or organization that wrote the app, with optional links.");
-	catalogRevisionSchema = int().min(1).max(1e6).describe("Which edit of this entry's form and copy the catalog publishes for the build its `source` already released, starting at 1 (the default when omitted). Raise it by one to publish a change to `name`, `summary`, `homepage`, `upstreamRepo`, `license`, `categories`, `maintainers`, `secrets`, `vars`, `postInstall`, `bump`, `access` or `openPath`, or to add `\"access\"` to `requires`, without moving `source`: the released artifact stays as it is, and managers show the new form without an update. `tagline`, `licenseNote` and `authors` need no revision: the catalog shows them from the current manifest. Anything else needs a new build, so move `source` instead.");
+	catalogRevisionSchema = int().min(1).max(1e6).describe("Which edit of this entry's form and copy the catalog publishes for the build its `source` already released, starting at 1 (the default when omitted). Raise it by one to publish a change to `name`, `summary`, `homepage`, `upstreamRepo`, `license`, `categories`, `maintainers`, `secrets`, `vars`, `postInstall`, `bump`, `access` or `openPath`, or to add `\"access\"` to `requires`, without moving `source`: the released artifact stays as it is, and managers show the new form without an update. `tagline`, `features`, `alternativeTo`, `licenseNote` and `authors` need no revision while the entry has never published one: the catalog shows them from the current manifest. A published revision is signed with the whole manifest and never changes, so on an entry that has one, an edit to any of them needs a higher revision too. Anything else needs a new build, so move `source` instead.");
 	catalogSlugSchema = string$3().regex(CATALOG_SLUG_PATTERN, "must be lowercase letters, digits and dashes, starting with a letter or digit, at most 63 characters");
 	catalogManifestSchema = object({
 		$schema: url().optional(),
@@ -41920,6 +41956,10 @@ var init_catalog$2 = __esmMin(() => {
 		summary: string$3().min(1).describe("What the app does and who it is for, in a few plain sentences, shown on the app's page (a blank line starts a new paragraph). The catalog search reads it too."),
 		/** The one-line pitch on catalog tiles. */
 		tagline: taglineSchema,
+		/** What the app does for people, one line each, for the app's page. */
+		features: appFeaturesSchema.optional(),
+		/** Well-known products the app can replace, for the app's page. */
+		alternativeTo: appAlternativesSchema.optional(),
 		/**
 		* Shown as a link in the manager; https only (the regex also lands in the
 		* JSON Schema). Omitted means the repository on GitHub; read it with
@@ -43358,6 +43398,18 @@ spreadJobs: "manager:spread-jobs" };
 		/** The catalog manifest's `tagline`, the pitch on catalog tiles. */
 		tagline: taglineSchema,
 		/**
+		* The catalog manifest's `features` and `alternativeTo`, for the app's
+		* page; written only when the manifest lists them, and absent in rows
+		* written before these fields. Plain non-empty strings, without the
+		* manifest's counts and lengths: a reader parses each row on its own and
+		* leaves out a row it refuses, so a later change to those limits must not
+		* hide the app from readers released before it. The catalog checks the
+		* limits when the manifest is written. Managers from before these fields
+		* strip them, as they strip any key they do not know.
+		*/
+		features: array(string$3().min(1)).optional(),
+		alternativeTo: array(string$3().min(1)).optional(),
+		/**
 		* When the entry first appeared in the catalog (the commit that added its
 		* manifest), for "New this week".
 		*/
@@ -44668,6 +44720,8 @@ var init_revision = __esmMin(() => {
 		"name",
 		"summary",
 		"tagline",
+		"features",
+		"alternativeTo",
 		"homepage",
 		"upstreamRepo",
 		"license",
@@ -44864,6 +44918,7 @@ var init_telemetry$1 = __esmMin(() => {
 //#region ../../packages/schema/src/index.ts
 var init_src = __esmMin(() => {
 	init_access$4();
+	init_app_features();
 	init_artifact$1();
 	init_assets_only();
 	init_build_env();
@@ -44979,7 +45034,7 @@ function runningVersion(env, build = BUILD_VERSION) {
 }
 var BUILD_VERSION;
 var init_build_version = __esmMin(() => {
-	BUILD_VERSION = "0.4.1";
+	BUILD_VERSION = "0.4.2";
 });
 //#endregion
 //#region src/telemetry/classify.ts
@@ -156348,7 +156403,7 @@ var init_uninstall_builds = __esmMin(() => {
 var name$1, version, type, scripts, dependencies, devDependencies, package_default;
 var init_package = __esmMin(() => {
 	name$1 = "@appflare/sandbox-worker";
-	version = "0.1.3";
+	version = "0.1.4";
 	type = "module";
 	scripts = {
 		"typecheck": "tsc --noEmit",
