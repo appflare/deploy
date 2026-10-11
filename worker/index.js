@@ -20299,7 +20299,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/api/catalog/media/$digest"
 			],
 			preloads: [
-				"/assets/index-B0EcRP-f.js",
+				"/assets/index-Cm-GiVVr.js",
 				"/assets/rolldown-runtime-hePW80VL.js",
 				"/assets/text-f1wxz183ckq7qtl7-WIBUf1mA.js",
 				"/assets/createServerFn-W5z9Gh-_.js",
@@ -20309,8 +20309,8 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/ArrowSquareOut.es-t7poIzPv.js",
 				"/assets/removed-apps.functions-0b0_zgEO.js",
 				"/assets/busy-button-CC-bMPgk.js",
-				"/assets/manager-address-move-Z6KzOnQl.js",
-				"/assets/src-DtPLmZ5e.js",
+				"/assets/manager-address-move-BSKdPmfY.js",
+				"/assets/src-BSllOV80.js",
 				"/assets/empty-hkvg3is3uc6dj1at-2nhcB1pu.js",
 				"/assets/message-links-Dr2EpZ7Q.js",
 				"/assets/router-timing-Dy3btKso.js",
@@ -20321,11 +20321,11 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/version.functions-BsCPaX10.js",
 				"/assets/moved-note-CrB6RxlW.js",
 				"/assets/app-links-DOWIUPam.js",
-				"/assets/browse-Cs7OSZBG.js",
+				"/assets/browse-g5U35pGX.js",
 				"/assets/catalog.functions-bSqXCorz.js",
 				"/assets/install-again.functions-C9euEh9L.js",
 				"/assets/jobs.functions-DRmtr0xT.js",
-				"/assets/users.functions-I17UI73Q.js",
+				"/assets/users.functions-ukuVeNqF.js",
 				"/assets/auto-update.functions-CsV8G13y.js",
 				"/assets/telemetry.functions-DCFIFZ86.js",
 				"/assets/passkeys.functions-BRIYbERN.js",
@@ -20334,7 +20334,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			scripts: [{ attrs: {
 				type: "module",
 				async: !0,
-				src: "/assets/index-B0EcRP-f.js"
+				src: "/assets/index-Cm-GiVVr.js"
 			} }]
 		},
 		"/_app": {
@@ -20362,43 +20362,43 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/_app/install/github/$owner/$repo"
 			],
 			preloads: [
-				"/assets/_app-DDTejZwH.js",
+				"/assets/_app-DPlMfYC4.js",
 				"/assets/useLocation-BiTe7zfg.js",
 				"/assets/badge-dq8bx752b9dp7dst-Cwzxj2NV.js",
 				"/assets/ArrowCircleUp.es-Cck5l0Rp.js",
-				"/assets/dropdown-m53ji1d66mws89wh-DGIDmOmT.js",
+				"/assets/dropdown-m53ji1d66mws89wh-AxUFSIMj.js",
 				"/assets/sidebar-rail-BrrhaiAO.js",
 				"/assets/Fingerprint.es-CpPMZzOb.js",
 				"/assets/ListChecks.es-Y41RZc1O.js",
 				"/assets/MagnifyingGlass.es-TMoDxrHf.js",
 				"/assets/tooltip-D8C_85B3.js",
-				"/assets/job-report-dialog-CbPLH-sq.js",
+				"/assets/job-report-dialog-C_Cr_-CO.js",
 				"/assets/SignOut.es-B8owTFdr.js",
 				"/assets/Sparkle.es-D_EHdv3c.js",
 				"/assets/Star.es-BRfEUsnX.js",
 				"/assets/Storefront.es-50JJZI8S.js",
-				"/assets/auth-layout-BOlSOn8H.js",
-				"/assets/layer-dialog-j5ywmzs46ccg6oqy-C3Dw8U4L.js",
-				"/assets/settings-nav-DaAbCVrJ.js",
+				"/assets/auth-layout-HzlhFYDP.js",
+				"/assets/layer-dialog-j5ywmzs46ccg6oqy-DGNVJJmv.js",
+				"/assets/settings-nav-B-xG-s1j.js",
 				"/assets/live-job-BcHghodn.js",
 				"/assets/timestamp-Dk9-oO6k.js",
 				"/assets/display-name-BFGrQEGb.js",
-				"/assets/status-dot-CMGjPpPB.js",
+				"/assets/status-dot-RKxBWtqi.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/markdown-OCitcmcq.js",
 				"/assets/hash-target-Bo-28uEI.js",
-				"/assets/catalog-media-DcwBXmQY.js"
+				"/assets/catalog-media-CRLLfw-a.js"
 			]
 		},
 		"/forgot-password": {
 			filePath: "src/routes/forgot-password.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/forgot-password-B0RQIDQI.js",
+				"/assets/forgot-password-D7QGZxb0.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/auth-layout-BOlSOn8H.js",
+				"/assets/auth-layout-HzlhFYDP.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/recovery-messages-DV9-foy-.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20408,9 +20408,9 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/login.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/login-Ceur5qm6.js",
+				"/assets/login-BnuzqvcL.js",
 				"/assets/Fingerprint.es-CpPMZzOb.js",
-				"/assets/auth-layout-BOlSOn8H.js",
+				"/assets/auth-layout-HzlhFYDP.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/sign-in-errors-BJTilaJy.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20420,8 +20420,8 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/reset-password.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/reset-password-C2vPjEDd.js",
-				"/assets/auth-layout-BOlSOn8H.js",
+				"/assets/reset-password-CvdqircE.js",
+				"/assets/auth-layout-HzlhFYDP.js",
 				"/assets/client-BPF1MrV-.js",
 				"/assets/recovery-messages-DV9-foy-.js",
 				"/assets/password-input-t9TyMR2C.js"
@@ -20431,14 +20431,14 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/setup.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/setup-DZk7KqCs.js",
-				"/assets/wildcard-domain-input-UiEWwITm.js",
+				"/assets/setup-Cq-l65pL.js",
+				"/assets/wildcard-domain-input-lvKkli3L.js",
 				"/assets/SignOut.es-B8owTFdr.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/radio-35dx7y6rjrezbjsp-DPrdNY0d.js",
-				"/assets/auth-layout-BOlSOn8H.js",
+				"/assets/radio-35dx7y6rjrezbjsp-Cgpfp6K2.js",
+				"/assets/auth-layout-HzlhFYDP.js",
 				"/assets/client-BPF1MrV-.js",
-				"/assets/schemas-0ID0qjch.js",
+				"/assets/schemas--wOcSksx.js",
 				"/assets/sign-in-errors-BJTilaJy.js",
 				"/assets/password-input-t9TyMR2C.js"
 			]
@@ -20447,21 +20447,21 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_app-BZN18SDw.js",
+				"/assets/_app-QzKA37Jx.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started-SYgC64Rd.js",
+				"/assets/job-started-mS8XaAez.js",
 				"/assets/Copy.es-CkIXginv.js",
 				"/assets/Package.es-CWLtJtcv.js",
-				"/assets/docs-link-D77M9YwB.js",
+				"/assets/docs-link-DpotcVzW.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-KrAzCXp7.js",
+				"/assets/capability-rows-Bjvqj4AR.js",
 				"/assets/section-BS2DYQR2.js",
-				"/assets/update-banner-Bo6pef_L.js",
+				"/assets/update-banner-YfeLCNSV.js",
 				"/assets/health.functions-CQuhYjSQ.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
-				"/assets/use-optimistic-dismiss-bCC0muca.js",
+				"/assets/use-optimistic-dismiss-B5tFH6Wn.js",
 				"/assets/connection-view-Cp41gZZo.js",
 				"/assets/attention-copy-C7bOMR1X.js"
 			]
@@ -20470,42 +20470,42 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/apps/$installId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_installId-Dybfeg0i.js",
+				"/assets/_installId-BAAu69F1.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started-SYgC64Rd.js",
-				"/assets/cron-triggers-field-BIf5HO-8.js",
-				"/assets/removed-app-actions-BQPD89-z.js",
-				"/assets/origin-badge-DJpw0oOB.js",
+				"/assets/job-started-mS8XaAez.js",
+				"/assets/cron-triggers-field-PY9X1L_f.js",
+				"/assets/removed-app-actions-DSQAG1qN.js",
+				"/assets/origin-badge-DLi_Jx6o.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/Trash.es-BPFMLpMo.js",
 				"/assets/Package.es-CWLtJtcv.js",
-				"/assets/wildcard-domain-input-UiEWwITm.js",
+				"/assets/wildcard-domain-input-lvKkli3L.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/cost-CXC5wB9M.js",
-				"/assets/docs-link-D77M9YwB.js",
+				"/assets/cost-BOcZusKE.js",
+				"/assets/docs-link-DpotcVzW.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
-				"/assets/useAnchoredPopupScrollLock-kp3kai20u91sdm7v-BjQascF5.js",
-				"/assets/CompositeItem-hzuk5x3e5zsfgnyj-Cg80MDx2.js",
-				"/assets/radio-35dx7y6rjrezbjsp-DPrdNY0d.js",
+				"/assets/useAnchoredPopupScrollLock-kp3kai20u91sdm7v-BJY3TsFI.js",
+				"/assets/CompositeItem-hzuk5x3e5zsfgnyj-D9n4zsKh.js",
+				"/assets/radio-35dx7y6rjrezbjsp-Cgpfp6K2.js",
 				"/assets/responsive-table-DS2Y2glM.js",
-				"/assets/source-build-fields-CSgOTpiN.js",
+				"/assets/source-build-fields-BNK9DoGJ.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-KrAzCXp7.js",
-				"/assets/app-access-DDGVtLld.js",
-				"/assets/confirm-dialog-LqWch4nq.js",
-				"/assets/zone-hostname-field-Bxb6BrN9.js",
+				"/assets/capability-rows-Bjvqj4AR.js",
+				"/assets/app-access-B508SnZI.js",
+				"/assets/confirm-dialog-DAWVj5k5.js",
+				"/assets/zone-hostname-field-BZLmFfJE.js",
 				"/assets/section-BS2DYQR2.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/update-banner-Bo6pef_L.js",
+				"/assets/update-banner-YfeLCNSV.js",
 				"/assets/auto-update-jdGlOwSe.js",
-				"/assets/install-again-D6mxvuhU.js",
+				"/assets/install-again-DmShoo4r.js",
 				"/assets/description-list-oQBRfJtS.js",
-				"/assets/external-domains.functions-E9X_ZJp4.js",
+				"/assets/external-domains.functions-D8knb_fj.js",
 				"/assets/use-account-id-CzcRpNTv.js",
 				"/assets/health.functions-CQuhYjSQ.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
@@ -20516,44 +20516,44 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/catalog/$slug.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_slug-Cvzuq3V9.js",
-				"/assets/job-started-SYgC64Rd.js",
+				"/assets/_slug-BJqB4Kmi.js",
+				"/assets/job-started-mS8XaAez.js",
 				"/assets/BookOpen.es-B4igG5WA.js",
 				"/assets/CaretLeft.es-CCxWRrWj.js",
-				"/assets/install-form-B6HafAVl.js",
+				"/assets/install-form-DKTr0cPF.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/GithubLogo.es-BCeiowlX.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Package.es-CWLtJtcv.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/docs-link-D77M9YwB.js",
-				"/assets/sandbox-first-Bc5D_v9m.js",
-				"/assets/source-build-fields-CSgOTpiN.js",
+				"/assets/docs-link-DpotcVzW.js",
+				"/assets/sandbox-first-CWt1iTSr.js",
+				"/assets/source-build-fields-BNK9DoGJ.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-KrAzCXp7.js",
+				"/assets/capability-rows-Bjvqj4AR.js",
 				"/assets/plan-Bh7KLF-g.js",
 				"/assets/popularity-BuOf--FF.js",
-				"/assets/primitives-CRSv3K43.js",
+				"/assets/primitives-BxW88q_D.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/install-again-D6mxvuhU.js",
+				"/assets/install-again-DmShoo4r.js",
 				"/assets/status-badge-qwpyLX2K.js"
 			]
 		},
 		"/_app/install/$slug": {
 			filePath: "src/routes/_app/install/$slug.tsx",
 			children: void 0,
-			preloads: ["/assets/_slug-DXkNYXz-.js", "/assets/install-link-problem-BIvlEGsA.js"]
+			preloads: ["/assets/_slug-DvUn-ZDM.js", "/assets/install-link-problem-BIvlEGsA.js"]
 		},
 		"/_app/jobs/$jobId": {
 			filePath: "src/routes/_app/jobs/$jobId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/_jobId-Be9sp7z6.js",
+				"/assets/_jobId-BbQdAn6J.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
-				"/assets/docs-link-D77M9YwB.js",
+				"/assets/docs-link-DpotcVzW.js",
 				"/assets/clipboard-text-gd6s3n1bqse9zgt8-CYwGeU_r.js",
 				"/assets/code-eu8kzwqnlhoyin24-C5K1Jo8d.js",
 				"/assets/responsive-table-DS2Y2glM.js",
@@ -20564,7 +20564,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 				"/assets/description-list-oQBRfJtS.js",
 				"/assets/open-app-button-Dbvp8gUi.js",
 				"/assets/status-badge-qwpyLX2K.js",
-				"/assets/seed-credentials-1wz9y8Ze.js",
+				"/assets/seed-credentials-Cd-4itpl.js",
 				"/assets/attention-copy-C7bOMR1X.js"
 			]
 		},
@@ -20572,76 +20572,76 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/settings/account.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/account-DNv6eOnk.js",
-				"/assets/settings-pages-DNN7bE4R.js",
-				"/assets/capability-rows-KrAzCXp7.js"
+				"/assets/account-Cp8bg0N4.js",
+				"/assets/settings-pages-DBRAzny3.js",
+				"/assets/capability-rows-Bjvqj4AR.js"
 			]
 		},
 		"/_app/settings/building": {
 			filePath: "src/routes/_app/settings/building.tsx",
 			children: void 0,
-			preloads: ["/assets/building-D-D43Zu7.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/building-CkjqI39g.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/catalogs": {
 			filePath: "src/routes/_app/settings/catalogs.tsx",
 			children: void 0,
-			preloads: ["/assets/catalogs-BhbUZxfI.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/catalogs-GTj0oaoM.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/domains": {
 			filePath: "src/routes/_app/settings/domains.tsx",
 			children: void 0,
-			preloads: ["/assets/domains-w5mkP4bp.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/domains-WOThghhK.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/notifications": {
 			filePath: "src/routes/_app/settings/notifications.tsx",
 			children: void 0,
-			preloads: ["/assets/notifications-Qhd3mVcL.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/notifications-CIX6FJkL.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/removed-apps": {
 			filePath: "src/routes/_app/settings/removed-apps.tsx",
 			children: void 0,
-			preloads: ["/assets/removed-apps-C-XQQ3oN.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/removed-apps-HZBzmiU3.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/updates": {
 			filePath: "src/routes/_app/settings/updates.tsx",
 			children: void 0,
-			preloads: ["/assets/updates-D9j1ybAf.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/updates-6tZ-3AoS.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/usage-data": {
 			filePath: "src/routes/_app/settings/usage-data.tsx",
 			children: void 0,
-			preloads: ["/assets/usage-data-CKjDne3p.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/usage-data-qU6gDwh2.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/settings/users": {
 			filePath: "src/routes/_app/settings/users.tsx",
 			children: void 0,
-			preloads: ["/assets/users-DB8TLDrh.js", "/assets/settings-pages-DNN7bE4R.js"]
+			preloads: ["/assets/users--3AndGO5.js", "/assets/settings-pages-DBRAzny3.js"]
 		},
 		"/_app/catalog/": {
 			filePath: "src/routes/_app/catalog/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/catalog-_JJmXPhz.js",
-				"/assets/job-started-SYgC64Rd.js",
+				"/assets/catalog-DPScSWOX.js",
+				"/assets/job-started-mS8XaAez.js",
 				"/assets/ChartLine.es-foKA1Fz7.js",
 				"/assets/CaretLeft.es-CCxWRrWj.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/EyeSlash.es-BY8qCksT.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Plus.es-Dk4TyA0b.js",
-				"/assets/docs-link-D77M9YwB.js",
+				"/assets/docs-link-DpotcVzW.js",
 				"/assets/ShieldCheck.es-DZLiQHvO.js",
-				"/assets/sandbox-first-Bc5D_v9m.js",
+				"/assets/sandbox-first-CWt1iTSr.js",
 				"/assets/input-group-fjr4r5ax0x78ppax-2a-Fsor6.js",
-				"/assets/source-build-fields-CSgOTpiN.js",
+				"/assets/source-build-fields-BNK9DoGJ.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/settings-links-BuYpAfgA.js",
-				"/assets/capability-rows-KrAzCXp7.js",
+				"/assets/capability-rows-Bjvqj4AR.js",
 				"/assets/plan-Bh7KLF-g.js",
 				"/assets/popularity-BuOf--FF.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/source-build-input-CyaWJsFX.js",
-				"/assets/use-optimistic-dismiss-bCC0muca.js",
+				"/assets/source-build-input-DGK5syTo.js",
+				"/assets/use-optimistic-dismiss-B5tFH6Wn.js",
 				"/assets/tokens-C8pscDzr.js"
 			]
 		},
@@ -20649,7 +20649,7 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/jobs/index.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/jobs-D-bSgC5y.js",
+				"/assets/jobs-BFupjuBE.js",
 				"/assets/responsive-table-DS2Y2glM.js",
 				"/assets/page-header-CdRgy6Gu.js",
 				"/assets/format-BXN8Uc4h.js",
@@ -20661,33 +20661,33 @@ var init__tanstack_start_manifest_v = __esmMin(() => {
 			filePath: "src/routes/_app/catalog/source.$buildId.tsx",
 			children: void 0,
 			preloads: [
-				"/assets/source._buildId-DU4jP9Kv.js",
+				"/assets/source._buildId-CRMePVAO.js",
 				"/assets/field-label-7GcQIv9i.js",
 				"/assets/switch-cqsvolm7h69z7vgg-BSoE4tp4.js",
-				"/assets/job-started-SYgC64Rd.js",
+				"/assets/job-started-mS8XaAez.js",
 				"/assets/ChartLine.es-foKA1Fz7.js",
-				"/assets/cron-triggers-field-BIf5HO-8.js",
+				"/assets/cron-triggers-field-PY9X1L_f.js",
 				"/assets/focus-after-dialog-Bk0-oGK3.js",
-				"/assets/origin-badge-DJpw0oOB.js",
-				"/assets/install-form-B6HafAVl.js",
+				"/assets/origin-badge-DLi_Jx6o.js",
+				"/assets/install-form-DKTr0cPF.js",
 				"/assets/EnvelopeSimple.es-BO3uO8Ys.js",
 				"/assets/GitBranch.es-DCBgASiU.js",
 				"/assets/Globe.es-Bz6qlnGF.js",
 				"/assets/Key.es-B2gGs-eT.js",
 				"/assets/Trash.es-BPFMLpMo.js",
-				"/assets/wildcard-domain-input-UiEWwITm.js",
-				"/assets/docs-link-D77M9YwB.js",
-				"/assets/sandbox-first-Bc5D_v9m.js",
+				"/assets/wildcard-domain-input-lvKkli3L.js",
+				"/assets/docs-link-DpotcVzW.js",
+				"/assets/sandbox-first-CWt1iTSr.js",
 				"/assets/responsive-table-DS2Y2glM.js",
-				"/assets/source-build-fields-CSgOTpiN.js",
+				"/assets/source-build-fields-BNK9DoGJ.js",
 				"/assets/page-header-CdRgy6Gu.js",
-				"/assets/capability-rows-KrAzCXp7.js",
-				"/assets/primitives-CRSv3K43.js",
-				"/assets/confirm-dialog-LqWch4nq.js",
+				"/assets/capability-rows-Bjvqj4AR.js",
+				"/assets/primitives-BxW88q_D.js",
+				"/assets/confirm-dialog-DAWVj5k5.js",
 				"/assets/section-BS2DYQR2.js",
 				"/assets/format-BXN8Uc4h.js",
-				"/assets/update-banner-Bo6pef_L.js",
-				"/assets/install-again-D6mxvuhU.js",
+				"/assets/update-banner-YfeLCNSV.js",
+				"/assets/install-again-DmShoo4r.js",
 				"/assets/description-list-oQBRfJtS.js"
 			]
 		},
@@ -35426,18 +35426,29 @@ var init_schema$4 = __esmMin(() => {
 		/** The Zero Trust team domain (`<team>.cloudflareaccess.com`) its JWTs come from. */
 		access_team_domain: text$8("access_team_domain"),
 		/**
-		* What the application covers, as last written: `{ destinations, workerTags }`
-		* (access/protect.server.ts), so a change of the install's addresses is
-		* written only when it changes something.
+		* What the application covers, as last written: `{ destinations, workerTags,
+		* taken }`, `taken` being the addresses left to another application that
+		* names them itself (access/protect.server.ts), so a change of the
+		* install's addresses is written only when it changes something.
 		*/
 		access_destinations_json: text$8("access_destinations_json"),
 		/**
 		* When bringing the install's Access applications in step with its
-		* addresses or public paths last failed outside a job, or when a catalog
-		* revision of its release changed its public paths; null when the last
-		* sync succeeded. The cron tries again while it is set.
+		* addresses or public paths last failed outside a job; null when the last
+		* sync succeeded. The cron tries again while it is set, and the app's page
+		* says so.
 		*/
 		access_sync_failed_at: timestamp("access_sync_failed_at"),
+		/**
+		* When the install's Access applications became due to be brought in step
+		* with its records, nothing having failed: a catalog revision of its
+		* release changed its public paths, an address left to another application
+		* is free again, or Appflare was updated to name each hostname of a
+		* protected app (migration 0008). The cron's resync clears it, and sets
+		* `access_sync_failed_at` when it fails; the app's page shows nothing for
+		* it. Null when none is due.
+		*/
+		access_resync_due_at: timestamp("access_resync_due_at"),
 		/**
 		* The "Appflare users" policy the application references, as last
 		* protected. When "Appflare users" is made again (it was deleted in the
@@ -38240,24 +38251,11 @@ function splitSqlStatements(sql) {
 	let tokens = [];
 	let startLine = 1;
 	let line = 1;
-	let depth = 0;
-	let sawBegin = false;
-	let head = [];
-	const isTrigger = () => {
-		if (head[0] !== "CREATE") return false;
-		return (head[1] === "TEMP" || head[1] === "TEMPORARY" ? head[2] : head[1]) === "TRIGGER";
-	};
+	let body = triggerBodyReader();
 	const push = (token) => {
 		if (tokens.length === 0) startLine = line;
 		tokens.push(token);
-		if (token.kind !== "word") return;
-		if (head.length < 3) head.push(token.value);
-		if (!isTrigger()) return;
-		if (token.value === "BEGIN" && !sawBegin) {
-			sawBegin = true;
-			depth = 1;
-		} else if (sawBegin && token.value === "CASE") depth += 1;
-		else if (sawBegin && token.value === "END" && depth > 0) depth -= 1;
+		body.read(token);
 	};
 	const end = () => {
 		if (tokens.length > 0) statements.push({
@@ -38265,9 +38263,7 @@ function splitSqlStatements(sql) {
 			tokens
 		});
 		tokens = [];
-		head = [];
-		depth = 0;
-		sawBegin = false;
+		body = triggerBodyReader();
 	};
 	let i = 0;
 	while (i < sql.length) {
@@ -38289,7 +38285,9 @@ function splitSqlStatements(sql) {
 			push({
 				kind: c === "'" ? "string" : "quoted",
 				value: text,
-				text
+				text,
+				start: i,
+				end: stop
 			});
 			line += (text.match(/\n/g) ?? []).length;
 			i = stop;
@@ -38300,7 +38298,9 @@ function splitSqlStatements(sql) {
 			push({
 				kind: "word",
 				value: text.toUpperCase(),
-				text
+				text,
+				start: i,
+				end: j
 			});
 			i = j;
 		} else if (c === "?") {
@@ -38310,23 +38310,29 @@ function splitSqlStatements(sql) {
 			push({
 				kind: "punct",
 				value: text,
-				text
+				text,
+				start: i,
+				end: j
 			});
 			i = j;
 		} else if (c === ";") {
-			if (depth === 0) end();
-			else push({
+			if (body.inBody()) push({
 				kind: "punct",
 				value: c,
-				text: c
+				text: c,
+				start: i,
+				end: i + 1
 			});
+			else end();
 			i += 1;
 		} else if (/\s/.test(c)) i += 1;
 		else {
 			push({
 				kind: "punct",
 				value: c,
-				text: c
+				text: c,
+				start: i,
+				end: i + 1
 			});
 			i += 1;
 		}
@@ -38334,8 +38340,65 @@ function splitSqlStatements(sql) {
 	end();
 	return statements;
 }
+/** Whether a statement's first words (upper-cased) create a trigger. */
+function createsTrigger(words) {
+	if (words[0] !== "CREATE") return false;
+	return (words[1] === "TEMP" || words[1] === "TEMPORARY" ? words[2] : words[1]) === "TRIGGER";
+}
+/**
+* Reads a statement token by token to find a CREATE TRIGGER's body where
+* SQLite's grammar puts it. BEGIN and END are not reserved words, so either
+* may name the trigger, its table or a column (`UPDATE OF begin`,
+* `NEW.end`); a word after a `.` is always a name. The body's BEGIN is the
+* first after the name of the table the trigger is ON, outside the WHEN
+* expression's parentheses and not after a `.`. Its END is the first
+* directly after a `;`: each statement in the body ends with one and none
+* holds one, which is also how SQLite's `sqlite3_complete()` finds where a
+* trigger ends. Any other END in the body closes a CASE or is a name.
+*/
+function triggerBodyReader() {
+	const head = [];
+	let phase = "head";
+	let parens = 0;
+	let previous;
+	let count = 0;
+	let begin;
+	let end;
+	return {
+		read(token) {
+			const at = count;
+			const before = previous;
+			count += 1;
+			previous = token;
+			if (token.kind === "word" && head.length < 3) head.push(token.value);
+			if (!createsTrigger(head)) return;
+			if (phase === "head") {
+				if (isWord(token, "ON")) phase = "table";
+			} else if (phase === "table") phase = "clauses";
+			else if (phase === "clauses") {
+				if (isPunct(token, "(")) parens += 1;
+				else if (isPunct(token, ")")) parens -= 1;
+				else if (parens === 0 && isWord(token, "BEGIN") && !isPunct(before, ".")) {
+					begin = at;
+					phase = "body";
+				}
+			} else if (phase === "body" && isWord(token, "END") && isPunct(before, ";")) {
+				end = at;
+				phase = "after";
+			}
+		},
+		inBody: () => phase === "body",
+		place: () => begin === void 0 ? null : {
+			begin,
+			end
+		}
+	};
+}
 function isWord(token, value) {
 	return token?.kind === "word" && token.value === value;
+}
+function isPunct(token, value) {
+	return token?.kind === "punct" && token.value === value;
 }
 /** Whether `words` has `a` directly followed by `b`. */
 function hasPair(tokens, a, b) {
@@ -38400,6 +38463,7 @@ function baselineFileProblems(sql) {
 	const statements = splitSqlStatements(sql);
 	if (statements.length === 0) return ["it has no SQL statements"];
 	const problems = statements.map(baselineStatementProblem).filter((p) => p !== null);
+	problems.push(...triggerEndProblems(sql, statements));
 	const unclosed = unclosedAtEndProblem(sql);
 	if (unclosed !== null) problems.push(unclosed);
 	if (!statements.some(createsTable)) problems.push("it creates no table; a baseline holds the app's whole schema");
@@ -38415,6 +38479,105 @@ function baselineFileProblems(sql) {
 */
 function endsInsideStatement(sql) {
 	return splitSqlStatements(`${sql}\nSELECT 1`).length === splitSqlStatements(sql).length;
+}
+/** The body of a statement that creates a trigger, or null for any other statement. */
+function triggerBody(statement) {
+	const { tokens } = statement;
+	const reader = triggerBodyReader();
+	for (const token of tokens) reader.read(token);
+	const place = reader.place();
+	if (place === null) return null;
+	return {
+		begin: tokens[place.begin],
+		end: place.end === void 0 ? void 0 : tokens[place.end],
+		tokens: tokens.slice(place.begin + 1, place.end)
+	};
+}
+/**
+* Each `END;` in a trigger's body that D1 would end the body at before its
+* own END: where it starts in `sql`, and the string or quoted name it is
+* part of, if any. One is never partly inside a string or name, whose
+* quotes are not among its characters.
+*/
+function earlyBodyEnds(sql, body) {
+	const stop = body.end?.start ?? body.tokens.at(-1)?.end ?? body.begin.end;
+	const found = [];
+	for (let at = sql.indexOf(D1_BODY_END, body.begin.end); at !== -1 && at + 4 <= stop; at = sql.indexOf(D1_BODY_END, at + 1)) {
+		const inside = body.tokens.find((t) => (t.kind === "string" || t.kind === "quoted") && t.start < at && at < t.end);
+		found.push({
+			at,
+			inside
+		});
+	}
+	return found;
+}
+/**
+* `sql` as D1's `/query` endpoint reads it the way SQLite does: in every
+* CREATE TRIGGER, the body's own BEGIN and END are written in upper case,
+* and every other `END;` in the body outside a string or quoted name gets a
+* space before its `;` (`CASE ... END ;`). Only the case of those two words
+* and that whitespace change, so the SQL means the same, every line keeps
+* its number, and SQL without such a trigger comes back as it is. An `END;`
+* inside a string or quoted name cannot change without changing the data;
+* {@link d1QueryProblems} reports it.
+*/
+function normalizeForD1Query(sql) {
+	const edits = [];
+	for (const statement of splitSqlStatements(sql)) {
+		const body = triggerBody(statement);
+		if (body === null) continue;
+		const { begin, end } = body;
+		if (begin.text !== "BEGIN") edits.push({
+			start: begin.start,
+			end: begin.end,
+			text: "BEGIN"
+		});
+		for (const { at, inside } of earlyBodyEnds(sql, body)) {
+			const space = at + 4 - 1;
+			if (inside === void 0) edits.push({
+				start: space,
+				end: space,
+				text: " "
+			});
+		}
+		if (end !== void 0 && end.text !== "END") edits.push({
+			start: end.start,
+			end: end.end,
+			text: "END"
+		});
+	}
+	if (edits.length === 0) return sql;
+	let normalized = "";
+	let from = 0;
+	for (const edit of edits) {
+		normalized += sql.slice(from, edit.start) + edit.text;
+		from = edit.end;
+	}
+	return normalized + sql.slice(from);
+}
+/** The name a CREATE TRIGGER gives, as written. */
+function triggerName(tokens) {
+	let i = tokens.findIndex((t) => isWord(t, "TRIGGER")) + 1;
+	if (isWord(tokens[i], "IF") && isWord(tokens[i + 1], "NOT") && isWord(tokens[i + 2], "EXISTS")) i += 3;
+	const name = tokens[i]?.text ?? "";
+	return isPunct(tokens[i + 1], ".") ? `${name}.${tokens[i + 2]?.text ?? ""}` : name;
+}
+/** {@link d1QueryProblems} for `sql` already split into `statements`. */
+function triggerEndProblems(sql, statements) {
+	const problems = [];
+	for (const statement of statements) {
+		const body = triggerBody(statement);
+		if (body === null) continue;
+		const trigger = triggerName(statement.tokens);
+		if (body.end === void 0) problems.push(`line ${statement.line}: the trigger ${trigger} has no END directly after a ; to close its body, so SQLite reads the rest of the file as part of the trigger; end the body's last statement with ; and close the body with END`);
+		for (const { at, inside } of earlyBodyEnds(sql, body)) {
+			if (inside === void 0) continue;
+			const line = sql.slice(0, at).split("\n").length;
+			const why = `D1 ends a trigger's body at the first END; in its text, even there, so the trigger would be cut short and D1 would refuse the file`;
+			problems.push(inside.kind === "string" ? `line ${line}: a string in the trigger ${trigger} holds END;. ${why}; split the string between END and ; ('END' || ';' is the same value; inside RAISE(), 'END ;' always works)` : `line ${line}: the name ${inside.text} in the trigger ${trigger} holds END;. ${why}; rename it`);
+		}
+	}
+	return problems;
 }
 /** Whether `name` is a table a seed may not touch: D1's own, or SQLite's. */
 function isInternalTable(name) {
@@ -38489,7 +38652,7 @@ function seedStatementProblems(sql, paramCount) {
 	if (placeholders !== paramCount) problems.push(`it has ${placeholders} ? placeholder(s) and ${paramCount} param(s); give one param per ?, in order`);
 	return problems;
 }
-var WORD_START, WORD_PART, CREATE_MODIFIERS, READ_ONLY_PRAGMAS, TRANSACTION_WORDS, MAX_SEED_SQL_LENGTH, SEED_BANNED_WORDS;
+var WORD_START, WORD_PART, CREATE_MODIFIERS, READ_ONLY_PRAGMAS, TRANSACTION_WORDS, D1_BODY_END, MAX_SEED_SQL_LENGTH, SEED_BANNED_WORDS;
 var init_sql_guard = __esmMin(() => {
 	WORD_START = /[A-Za-z_]/;
 	WORD_PART = /[A-Za-z0-9_$]/;
@@ -38519,6 +38682,7 @@ var init_sql_guard = __esmMin(() => {
 		"SAVEPOINT",
 		"RELEASE"
 	]);
+	D1_BODY_END = "END;";
 	MAX_SEED_SQL_LENGTH = 4096;
 	SEED_BANNED_WORDS = /* @__PURE__ */ new Set([
 		"WITH",
@@ -45034,7 +45198,93 @@ function runningVersion(env, build = BUILD_VERSION) {
 }
 var BUILD_VERSION;
 var init_build_version = __esmMin(() => {
-	BUILD_VERSION = "0.4.2";
+	BUILD_VERSION = "0.4.3";
+});
+//#endregion
+//#region src/telemetry/redact.ts
+/** Keeps the name and the value's quotes; replaces the value. */
+function keepQuotes(match, name, value) {
+	if (value.startsWith("[redacted")) return match;
+	const quote = value.startsWith("\"") || value.startsWith("'") ? value[0] : "";
+	return `${name}${quote}${REDACTED}${quote}`;
+}
+function escapeRegExp(text) {
+	return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
+}
+/** A name matched whole: not inside a longer name or hostname label. */
+function wholeName(names, flags) {
+	const usable = [...new Set(names.map((n) => n.trim()).filter((n) => n.length >= 3))].sort((a, b) => b.length - a.length);
+	if (usable.length === 0) return null;
+	return new RegExp(`(?<![A-Za-z0-9_-])(?:${usable.map(escapeRegExp).join("|")})(?![A-Za-z0-9_-])`, flags);
+}
+/**
+* The rules that take this account's own names out, hostnames and other
+* names first (they contain Worker names).
+*/
+function accountRules(names) {
+	const rules = [];
+	const hosts = wholeName(names.hostnames.map((h) => h.replace(/^\*\./, "").replace(/\/.*$/, "")), "gi");
+	if (hosts !== null) rules.push([hosts, REDACTED_DOMAIN]);
+	const others = wholeName(names.names ?? [], "gi");
+	if (others !== null) rules.push([others, REDACTED_NAME]);
+	if (names.subdomain !== null && names.subdomain.length > 0) {
+		const sub = escapeRegExp(names.subdomain);
+		rules.push([new RegExp(`(?<![A-Za-z0-9-])${sub}(?=\\.workers\\.dev\\b)`, "gi"), REDACTED_DOMAIN]);
+		const bare = wholeName([names.subdomain], "gi");
+		if (bare !== null) rules.push([bare, REDACTED_DOMAIN]);
+	}
+	const workers = wholeName(names.workers, "gi");
+	if (workers !== null) rules.push([workers, REDACTED_WORKER]);
+	return rules;
+}
+/** `text` with every private-looking value, and this account's own names, replaced by a marker. */
+function redactReportText(text, names = NO_ACCOUNT_NAMES) {
+	let out = text;
+	for (const [pattern, replacement] of [...RULES, ...accountRules(names)]) out = typeof replacement === "string" ? out.replace(pattern, replacement) : out.replace(pattern, replacement);
+	return out;
+}
+var REDACTED, REDACTED_EMAIL, REDACTED_ACCOUNT, REDACTED_ID, REDACTED_DOMAIN, REDACTED_WORKER, REDACTED_NAME, REDACTED_IP, NO_ACCOUNT_NAMES, SECRET_NAME_BODY, SECRET_NAME, RULES;
+var init_redact = __esmMin(() => {
+	REDACTED = "[redacted]";
+	REDACTED_EMAIL = "[email]";
+	REDACTED_ACCOUNT = "[account id]";
+	REDACTED_ID = "[id]";
+	REDACTED_DOMAIN = "[domain]";
+	REDACTED_WORKER = "[worker]";
+	REDACTED_NAME = "[name]";
+	REDACTED_IP = "[ip]";
+	NO_ACCOUNT_NAMES = {
+		subdomain: null,
+		hostnames: [],
+		workers: []
+	};
+	SECRET_NAME_BODY = `(?:[A-Za-z0-9_-]*(?:access[_-]?key|api[_-]?key|api[_-]?token|apikey|auth(?:orization)?|bearer|client[_-]?secret|credentials?|pass(?:word|wd|phrase)?|private[_-]?key|pwd|secret(?:[_-]?key)?|session|signing[_-]?key|token)[A-Za-z0-9_-]*|(?:[A-Za-z0-9]+[_-])*key)`;
+	SECRET_NAME = `(?<![A-Za-z0-9_-])${SECRET_NAME_BODY}`;
+	RULES = [
+		[/-----BEGIN [A-Z ]+-----[\s\S]*?-----END [A-Z ]+-----/g, REDACTED],
+		[/^(\s*(?:export\s+)?[A-Z][A-Z0-9_]*=).+$/gm, `$1${REDACTED}`],
+		[/\b([a-z][a-z0-9+.-]*:\/\/)[^\s/@:]+:[^\s/@]+@/gi, `$1${REDACTED}@`],
+		[/https:\/\/hooks\.slack\.com\/[^\s"'<>]+/gi, `https://hooks.slack.com/${REDACTED}`],
+		[/https:\/\/(?:\w+\.)?discord(?:app)?\.com\/api\/webhooks\/[^\s"'<>]+/gi, `https://discord.com/api/webhooks/${REDACTED}`],
+		[/(api\.telegram\.org\/bot)[^\s/"'<>]+/gi, `$1${REDACTED}`],
+		[/\b(Bearer|Basic)\s+[A-Za-z0-9._~+/=-]{8,}/g, `$1 ${REDACTED}`],
+		[/\beyJ[A-Za-z0-9_-]{5,}\.[A-Za-z0-9_-]{5,}\.[A-Za-z0-9_-]*/g, REDACTED],
+		[/\b(?:gh[pousr]_|github_pat_|xox[abposr]-|phx_|sk-|sk_live_|rk_live_)[A-Za-z0-9_-]{10,}/g, REDACTED],
+		[/\b\d{8,10}:[A-Za-z0-9_-]{35}\b/g, REDACTED],
+		[new RegExp(`((?<![A-Za-z0-9_-])--${SECRET_NAME_BODY}(?:\\s+|=))("[^"]*"|'[^']*'|[^\\s"']+)`, "gi"), keepQuotes],
+		[new RegExp(`(${SECRET_NAME}\\s*=\\s*)("[^"]*"|'[^']*'|[^\\s,;&"'}\\]]+)`, "gi"), keepQuotes],
+		[new RegExp(`(["']${SECRET_NAME}["']\\s*:\\s*)("[^"]*"|'[^']*'|[^\\s,;}\\]]+)`, "gi"), keepQuotes],
+		[/[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}/g, REDACTED_EMAIL],
+		[/(\/accounts\/|dash\.cloudflare\.com\/(?:\?to=\/)?)[0-9a-f]{32}\b/gi, `$1${REDACTED_ACCOUNT}`],
+		[/\b[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\b/gi, REDACTED_ID],
+		[/\b[0-9a-f]{32,}\b/gi, REDACTED_ID],
+		[/[A-Za-z0-9_+/=-]{24,}/g, (match) => {
+			const letter = /[A-Za-z]/.test(match);
+			const digit = /\d/.test(match);
+			if (match.length >= 32) return letter && digit ? REDACTED : match;
+			return /[A-Z]/.test(match) && /[a-z]/.test(match) && digit ? REDACTED : match;
+		}]
+	];
 });
 //#endregion
 //#region src/telemetry/classify.ts
@@ -45047,6 +45297,9 @@ function categoryFromMessage(message, cfStatus, cfCode) {
 	if (/too many subrequests|subrequests per Worker invocation/i.test(message)) return "subrequest_limit";
 	if (cfCode !== null && PLAN_LIMIT_CODES.has(cfCode) || /cron triggers per account|needs Workers Paid|script (is )?too large|exceeds? .*size limit/i.test(message)) return "plan_limit";
 	if (/already exists in this account/i.test(message)) return "name_conflict";
+	if (/^The Cloudflare Access application ".*" already covers /.test(message)) return "access_conflict";
+	if (/^The Cloudflare token cannot (manage|read) /.test(message)) return "cloudflare_permission";
+	if (/^This Cloudflare account has no Zero Trust organization|^This account has no workers\.dev subdomain|^The Zero Trust organization's team domain /.test(message)) return "preflight";
 	if (/signature|digest [0-9a-f]+ does not match|sha256 [0-9a-f]+ does not match|not a valid artifact manifest|^the artifact is (for|version)|got \d+ bytes, expected/i.test(message)) return "artifact_integrity";
 	if (/^GET \S+ (-> \d{3}|failed)/.test(message)) return "artifact_fetch";
 	if (/terminated|cancell?ed/i.test(message)) return "cancelled";
@@ -45059,25 +45312,28 @@ function categoryFromMessage(message, cfStatus, cfCode) {
 }
 /**
 * Splits a failed job's error text into the step it failed in and the
-* message. A step name may itself contain ": " (`D1 DB: apply migrations`),
-* so the first prefix that names a known phase is the step.
+* message: the text before the first ": ". A D1 step names its binding
+* first and so has one more (`D1 DB: apply migrations`). The message itself
+* is never searched for a step: it may well mention a word a phase is known
+* by (a workers.dev hostname).
 */
 function splitJobError(error) {
 	const text = error ?? "";
-	let step = "";
-	let message = text;
-	for (let at = text.indexOf(": "), tries = 0; at !== -1 && tries < 3; tries++) {
-		const candidate = text.slice(0, at);
-		if (tries === 0 || failedPhase(candidate) !== "other") {
-			step = candidate;
-			message = text.slice(at + 2);
-			if (failedPhase(candidate) !== "other") break;
-		}
-		at = text.indexOf(": ", at + 2);
+	const first = text.indexOf(": ");
+	if (first === -1) return {
+		step: "",
+		message: text
+	};
+	if (/^D1 \S+$/.test(text.slice(0, first))) {
+		const second = text.indexOf(": ", first + 2);
+		if (second !== -1) return {
+			step: text.slice(0, second),
+			message: text.slice(second + 2)
+		};
 	}
 	return {
-		step,
-		message
+		step: text.slice(0, first),
+		message: text.slice(first + 2)
 	};
 }
 /**
@@ -45092,24 +45348,83 @@ function cloudflareErrorCodes(texts) {
 	}
 	return codes;
 }
-/** Classifies a failed job's error text. */
-function classifyJobError(error) {
+/**
+* Where Cloudflare's own text ends in `rest`, what followed its first
+* `[code] `: at the `)` closing the bracket Appflare opened before
+* "Cloudflare API request failed" (`… (${error.message}). …`), else at a
+* line break or a `; ` Appflare added after it (Cloudflare joins its own
+* errors with `; [code] `).
+*/
+function cloudflareDetail(text, match) {
+	const rest = match[3] ?? "";
+	if (text[match.index - 1] === "(") {
+		let depth = 1;
+		for (let i = 0; i < rest.length; i++) if (rest[i] === "(") depth += 1;
+		else if (rest[i] === ")") {
+			depth -= 1;
+			if (depth === 0) return rest.slice(0, i);
+		}
+		return rest;
+	}
+	const end = rest.search(/\n|; (?!\[\d+\] )/);
+	return end === -1 ? rest : rest.slice(0, end);
+}
+/**
+* Masks every word shaped like a name someone chose (`acme-payroll-api`,
+* `acme_corp_prod`, `backups2026`): one of three characters or more with a
+* hyphen, an underscore or a digit, unless it is {@link PUBLIC_WORD}, one of
+* Cloudflare's error keys or a code in brackets (`[7500]`). A name written
+* as plain words (`Intranet Portal`) cannot be told from Cloudflare's own
+* words, and stays.
+*/
+function maskNameShaped(text) {
+	return text.replace(WORD, (word, at) => {
+		if (word.length < 3 || !/[-_\d]/.test(word)) return word;
+		if (PUBLIC_WORD.test(word) || PUBLIC_DOTTED.test(word)) return word;
+		if (text[at - 1] === "[" && text[at + word.length] === "]") return word;
+		return REDACTED_NAME;
+	});
+}
+/**
+* Cloudflare's message (`cloudflareDetail`) with ids, email addresses and
+* secrets taken out, then every quoted text, everything shaped like a
+* hostname (a workers.dev address whole, its Worker's name included) and
+* every IP address, then this account's names wherever else they appear
+* (`redactReportText`), then every other word shaped like a name
+* (`maskNameShaped`), cut to {@link CF_MESSAGE_MAX} characters; null when
+* empty.
+*/
+function cloudflareMessage(detail, names) {
+	const clean = maskNameShaped(redactReportText(redactReportText(detail).replace(QUOTED, (quoted) => `${quoted[0]}${REDACTED}${quoted[0]}`).replace(HOSTNAME_SHAPED, (host) => PUBLIC_DOTTED.test(host) ? host : REDACTED_DOMAIN).replace(IPV4, REDACTED_IP).replace(IPV6, REDACTED_IP), names)).replace(/\s+/g, " ").trim();
+	if (clean.length === 0) return null;
+	return clean.length > 200 ? `${clean.slice(0, 199)}…` : clean;
+}
+/**
+* Classifies a failed job's error text. `names` are this account's own
+* names, which Cloudflare's message excerpt has taken out; null when they
+* could not be read, and then the excerpt is left out.
+*/
+function classifyJobError(error, names = NO_ACCOUNT_NAMES) {
 	const text = error ?? "";
 	const { step, message } = splitJobError(text);
 	const cf = CLOUDFLARE_FAILURE.exec(text);
 	const cfStatus = cf?.[1] === void 0 ? null : Number(cf[1]);
 	const cfCode = cf?.[2] === void 0 ? null : Number(cf[2]);
 	const phase = failedPhase(step);
+	const errorCategory = categoryFromMessage(message, cfStatus, cfCode) ?? CATEGORY_BY_PHASE[phase] ?? "unknown";
 	return {
-		errorCategory: categoryFromMessage(message, cfStatus, cfCode) ?? CATEGORY_BY_PHASE[phase] ?? "unknown",
+		errorCategory,
 		failedPhase: phase,
 		cfStatus,
-		cfCode
+		cfCode,
+		cfMessage: cf !== null && names !== null && errorCategory.startsWith("cloudflare_") ? cloudflareMessage(cloudflareDetail(text, cf), names) : null
 	};
 }
-var PHASE_PATTERNS, CLOUDFLARE_FAILURE, PLAN_LIMIT_CODES, CATEGORY_BY_PHASE;
+var PHASE_PATTERNS, CLOUDFLARE_FAILURE, PLAN_LIMIT_CODES, CATEGORY_BY_PHASE, QUOTED, HOSTNAME_SHAPED, PUBLIC_DOTTED, IPV4, IPV6, WORD, PUBLIC_WORD;
 var init_classify = __esmMin(() => {
+	init_redact();
 	PHASE_PATTERNS = [
+		[/Cloudflare Access|^keep Worker \S+ unreachable$|^Worker \S+ may be reachable$|^public paths back /, "access"],
 		[/^D1 .*: (apply |seed$)|migration/i, "d1_migrations"],
 		[/^canary (check|wait)|^skip canary$|version previews/i, "canary"],
 		[/^health check|^skip health check$/i, "health"],
@@ -45125,11 +45440,11 @@ var init_classify = __esmMin(() => {
 		[/^promote version$|^mark promotion$|^record promotion$|^deploy (Worker script|snapshot version)$/i, "promote"],
 		[/^upload Worker|^read current bindings$|^record (new|Worker) version$/i, "upload"],
 		[/^(delete|empty) |^remove consumer|resources deleted$/i, "delete"],
-		[/^(start|preflight checks|plan update|verify .*|load .* manifest|check (Worker names?|release shape|R2 is enabled|cron trigger limit|Workflow .*)|read current deployment)$/i, "preflight"],
+		[/^(start|preflight checks|plan update|catalog keys|verify .*|load .* manifest|check (Worker names?|release shape|R2 is enabled|cron trigger limit|Workflow .*)|read current deployment)$/i, "preflight"],
 		[/^(create|check) |consumer|rate limit namespaces|Durable Object classes|the app's resources/i, "resources"],
 		[/^record |^finish$/i, "record"]
 	];
-	CLOUDFLARE_FAILURE = /Cloudflare API request failed: \S+ \S+ -> (\d{3})(?:: \[(\d+)\])?/;
+	CLOUDFLARE_FAILURE = /Cloudflare API request failed: \S+ \S+ -> (\d{3})(?:: \[(\d+)\] ?([\s\S]*))?/;
 	PLAN_LIMIT_CODES = /* @__PURE__ */ new Set([10072, 10027]);
 	CATEGORY_BY_PHASE = {
 		d1_migrations: "d1_migration",
@@ -45138,6 +45453,13 @@ var init_classify = __esmMin(() => {
 		installer: "installer",
 		preflight: "preflight"
 	};
+	QUOTED = /(?<![A-Za-z0-9])(?:"[^"\n]*"|'[^'\n]*'|`[^`\n]*`)(?![A-Za-z0-9])/g;
+	HOSTNAME_SHAPED = /(?<![A-Za-z0-9_.-])(?:\*[.-])?(?:[A-Za-z0-9_](?:[A-Za-z0-9_-]*[A-Za-z0-9_])?\.)+[A-Za-z]{2,63}(?!\.?[A-Za-z0-9_-])/g;
+	PUBLIC_DOTTED = /^(?:[a-z_]+\.api\.error\.[a-z_.]+|(?:[a-z]+\.)?cloudflare\.com)$/;
+	IPV4 = /(?<![\w.])\d{1,3}(?:\.\d{1,3}){3}(?!\.?\w)/g;
+	IPV6 = /(?<![\w:.])(?:(?:[0-9a-f]{1,4}:){7}[0-9a-f]{1,4}|(?:[0-9a-f]{1,4}(?::[0-9a-f]{1,4})*)?::(?:[0-9a-f]{1,4}(?::[0-9a-f]{1,4})*)?)(?:%\w+)?(?![\w:])/gi;
+	WORD = /(?<![\w.-])[\w-](?:[\w.-]*[\w-])?(?![\w-])/g;
+	PUBLIC_WORD = /^(?:[A-Z][A-Z0-9_-]*|\d{1,6}(?:\.\d{1,3})?(?:[KMGT]i?B|ms)?|v?\d{1,4}(?:\.\d{1,4}){1,2}|\d{4}-\d{2}-\d{2})$/;
 });
 //#endregion
 //#region src/telemetry/events.ts
@@ -45342,8 +45664,10 @@ function jobProperties(row, officialCatalog, catalogVersions) {
 /**
 * The job events whose moment falls in `(from, to]`: `job started` at the
 * job's start and `job finished` at its end, each at the job's own time.
+* `names` are this account's own, which a Cloudflare message is cleaned of;
+* null when they could not be read, which leaves the message out.
 */
-async function jobEvents(rows, window, base, installId, officialCatalog, catalogVersions) {
+async function jobEvents(rows, window, base, installId, officialCatalog, catalogVersions, names = NO_ACCOUNT_NAMES) {
 	const inWindow = (t) => t !== null && t > window.from && t <= window.to;
 	const events = [];
 	for (const row of rows) {
@@ -45359,7 +45683,7 @@ async function jobEvents(rows, window, base, installId, officialCatalog, catalog
 		});
 		if ((row.status === "succeeded" || row.status === "failed") && inWindow(row.finishedAt)) {
 			const failed = row.status === "failed";
-			const failure = failed ? classifyJobError(row.error) : null;
+			const failure = failed ? classifyJobError(row.error, names) : null;
 			events.push({
 				event: EVENT.jobFinished,
 				timestamp: new Date(row.finishedAt).toISOString(),
@@ -45371,7 +45695,8 @@ async function jobEvents(rows, window, base, installId, officialCatalog, catalog
 					error_category: failure?.errorCategory ?? null,
 					failed_phase: failure?.failedPhase ?? null,
 					cf_status: failure?.cfStatus ?? null,
-					cf_code: failure?.cfCode ?? null
+					cf_code: failure?.cfCode ?? null,
+					cf_message: failure?.cfMessage ?? null
 				}
 			});
 		}
@@ -45387,6 +45712,7 @@ var init_events = __esmMin(() => {
 	init_src();
 	init_versions$1();
 	init_classify();
+	init_redact();
 	EVENT = {
 		heartbeat: "manager heartbeat",
 		jobStarted: "job started",
@@ -131786,6 +132112,10 @@ var init_token_template = __esmMin(() => {
 });
 //#endregion
 //#region src/access/messages.ts
+/** `a`, `a and b`, `a, b and c`. */
+function listOf(items) {
+	return items.length === 1 ? items[0] ?? "" : `${items.slice(0, -1).join(", ")} and ${items.at(-1)}`;
+}
 var ACCESS_GROUPS, nameOf, ACCESS_PERMISSIONS, USERS_POLICY_NAME, ACCESS_MESSAGES, INSTALL_ACCESS_MESSAGES;
 var init_messages$1 = __esmMin(() => {
 	init_token_template();
@@ -131821,7 +132151,8 @@ var init_messages$1 = __esmMin(() => {
 		usersPolicyMissing: `The "${USERS_POLICY_NAME}" Access policy was deleted in the Cloudflare dashboard. Appflare makes it again within 30 minutes; each protected app's page then offers "Protect again", which lets people sign in to it again.`,
 		notRecorded: "This app has no Cloudflare Access service token recorded.",
 		tokenMissing: "This app's Cloudflare Access service token no longer exists. Protecting the app again makes a new one.",
-		tokenInUse: "This app's Cloudflare Access service token is still named in an Access policy. Remove the app's Access application (or the token from its policy) first, then try again."
+		tokenInUse: "This app's Cloudflare Access service token is still named in an Access policy. Remove the app's Access application (or the token from its policy) first, then try again.",
+		addressTaken: (other, uris) => `The Cloudflare Access application "${other}" covers ${listOf(uris)} itself, so it decides who reaches this app there and may refuse Appflare's health checks; Appflare's application covers the app's other addresses. Delete "${other}" under Zero Trust, Access, Applications, and Appflare covers ${uris.length === 1 ? "that address" : "those addresses"} again within 30 minutes.`
 	};
 });
 //#endregion
@@ -136333,7 +136664,7 @@ var init_units$1 = __esmMin(() => {
 //#region src/jobs/install/d1-migrations.ts
 /** One `/query` call: the file's SQL, then the row that records it. */
 function buildMigrationQuery(fileSql, fileName) {
-	return `${fileSql}
+	return `${normalizeForD1Query(fileSql)}
 INSERT INTO "d1_migrations" (name)
 values ('${fileName.replace(/'/g, "''")}');`;
 }
@@ -136345,9 +136676,14 @@ values ${names.map((name) => `('${name.replace(/'/g, "''")}')`).join(",\n")};`;
 }
 /** One `/query` call: the baseline's SQL, then the rows that record `names` as applied. */
 function buildBaselineQuery(fileSql, names) {
+	const sql = normalizeForD1Query(fileSql);
 	const record = recordMigrationsQuery(names);
-	if (record === "") return fileSql;
-	return `${endsInsideStatement(fileSql) ? `${fileSql}\n;` : fileSql}\n${record}`;
+	if (record === "") return sql;
+	return `${endsInsideStatement(sql) ? `${sql}\n;` : sql}\n${record}`;
+}
+/** One `/query` call: a schema file's SQL, recorded nowhere. */
+function buildSchemaQuery(fileSql) {
+	return normalizeForD1Query(fileSql);
 }
 /** Recorded names this version does not ship, in the order they were recorded. */
 function unshippedMigrations(shipped, appliedRows) {
@@ -137033,6 +137369,9 @@ function runProtectInstall(env, deps, input) {
 				unchanged: "Kept"
 			}[result.outcome];
 			log.info(`${what} the Cloudflare Access application "${result.appName}"; it covers ${covers.join(", ")}, and lets in Appflare's users and Appflare's own health checks of this app.`);
+			for (const other of result.overridden) log.warn(PROTECT_MESSAGES.overridden(other.name, other.patterns));
+			for (const { app, uris } of takenByApp(result.taken)) log.warn(PROTECT_MESSAGES.taken(app, uris));
+			for (const warning of result.warnings) log.warn(warning);
 			if (result.bypass !== null && result.bypass.uris.length > 0) log.info(`These paths stay public without a sign-in: ${result.bypass.uris.join(", ")}.`);
 			else if (result.bypass?.outcome === "removed") log.info("The app has no public paths any more; their Access application was deleted.");
 			if (result.bypassProblem !== null) log.warn(`The app's public paths could not be kept public (${result.bypassProblem}); they ask for a sign-in like the rest of the app.`);
@@ -137043,6 +137382,9 @@ function runProtectInstall(env, deps, input) {
 				aud: result.aud,
 				teamDomain: result.teamDomain,
 				covers,
+				overridden: result.overridden,
+				taken: result.taken,
+				warnings: result.warnings,
 				bypass: result.bypass,
 				bypassProblem: result.bypassProblem
 			};
@@ -137054,12 +137396,18 @@ function runProtectInstall(env, deps, input) {
 function runSyncInstallAccess(env, deps, input) {
 	return runUnit(env, deps, input.accountId, async ({ log, cf }) => {
 		try {
-			const outcome = await syncInstallAccessDestinations(accessDeps(env, deps, cf), input.installId, {
+			const { outcome, taken, warnings } = await syncInstallAccessDestinations(accessDeps(env, deps, cf), input.installId, {
 				...input.pendingExternalHosts === void 0 ? {} : { pendingExternalHosts: input.pendingExternalHosts },
 				...input.bypassPaths === void 0 ? {} : { change: { paths: input.bypassPaths } }
 			});
 			if (outcome === "updated") log.info("Updated what the app's Cloudflare Access application covers.");
-			return { outcome };
+			for (const { app, uris } of takenByApp(taken)) log.warn(PROTECT_MESSAGES.taken(app, uris));
+			for (const warning of warnings) log.warn(warning);
+			return {
+				outcome,
+				taken,
+				warnings
+			};
 		} catch (error) {
 			throw asStepError(error);
 		}
@@ -142765,7 +143113,7 @@ function createJobUnits(env, deps = {}) {
 			for (const [i, file] of batch.entries()) {
 				const sql = new TextDecoder().decode(contents[i] ?? /* @__PURE__ */ new Uint8Array(0));
 				try {
-					await api.d1.query(target.databaseId, sql);
+					await api.d1.query(target.databaseId, buildSchemaQuery(sql));
 				} catch (error) {
 					failed = describeFailure(new UnitItemError(file.name, error));
 					break;
@@ -143925,13 +144273,14 @@ function samePaths(a, b) {
 	return key(a) === key(b);
 }
 /**
-* Marks the protected installs of the release with `artifactDigest` for the
-* cron's Access resync (`resyncInstallAccessIfFailed`), which brings their
-* public paths in step with the revision now recorded; until it runs, their
-* pages offer "Protect again". Installs already marked keep their mark.
+* Marks the protected installs of the release with `artifactDigest` due for
+* the cron's Access resync (`resyncInstallAccessIfFailed`), which brings
+* their public paths in step with the revision now recorded. Nothing failed,
+* so their pages show nothing for it until then. Installs already marked
+* keep their mark.
 */
 async function markPublicPathsResync(orm, artifactDigest, now) {
-	await orm.update(install_access).set({ access_sync_failed_at: now }).where(and(isNotNull(install_access.access_app_id), isNull(install_access.access_sync_failed_at), inArray(install_access.install_id, orm.select({ id: installs.id }).from(installs).where(eq(installs.artifact_digest, artifactDigest)))));
+	await orm.update(install_access).set({ access_resync_due_at: now }).where(and(isNotNull(install_access.access_app_id), isNull(install_access.access_resync_due_at), inArray(install_access.install_id, orm.select({ id: installs.id }).from(installs).where(eq(installs.artifact_digest, artifactDigest)))));
 }
 /** The recorded revision applies to `manifest`: its release's key, and only form and copy changed. */
 function revisionApplies(manifest, recorded) {
@@ -147159,45 +147508,222 @@ function accessAppName(label, workerName) {
 function workersDevHost(worker, subdomain) {
 	return `${worker}.${subdomain}.workers.dev`.toLowerCase();
 }
+/** The Worker's version previews: `<first 8 hex of the version>-<worker>.<subdomain>.workers.dev`. */
+function previewsPattern(worker, subdomain) {
+	return `*-${workersDevHost(worker, subdomain)}`;
+}
+/** The install's primary Worker first, the others in the order given. */
+function primaryFirst(workers, primary) {
+	return [...workers.filter((w) => w.name === primary), ...workers.filter((w) => w.name !== primary)];
+}
 /**
-* The destinations that cover the install: its Workers (by tag, or by their
-* future workers.dev hostname before they exist), then its external domains,
-* each once.
+* For each hostname or pattern of the install, the other applications whose
+* patterns cover it more broadly than the install's own destination would
+* (`*.<subdomain>.workers.dev` over `cut.<subdomain>.workers.dev`), with a
+* path or not. Access picks such a pattern over a `worker` destination, and
+* an exact hostname over the pattern (verified live 2026-10-11), so those
+* addresses must be named.
 */
-function installDestinations(input) {
-	const out = [];
-	const seen = /* @__PURE__ */ new Set();
-	const add = (d) => {
-		const key = destinationKey(d);
-		if (seen.has(key)) return;
-		seen.add(key);
-		out.push(d);
+function broaderAppsOf(others) {
+	const named = others.map((app) => ({
+		name: app.name ?? app.id,
+		hosts: accessAppCoverage(app).hostnames
+	}));
+	return (host) => named.filter((o) => o.hosts.some((theirs) => !inside(theirs, host) && hostMatcher(theirs)(host))).map((o) => o.name);
+}
+/** Whether another application covers the version previews of one of the install's Workers. */
+function previewsCoveredElsewhere(input) {
+	const { subdomain } = input;
+	if (subdomain === null) return false;
+	const broader = broaderAppsOf(input.others ?? []);
+	return input.workers.some((w) => broader(previewsPattern(w.name, subdomain)).length > 0);
+}
+/** A wildcard domain's base, then the pattern for every name under it. */
+function wildcardUris(base) {
+	const lower = base.toLowerCase();
+	return [lower, `*.${lower}`];
+}
+/** Whether another application covers the base or the names of one of the install's wildcard domains. */
+function wildcardsCoveredElsewhere(input) {
+	const broader = broaderAppsOf(input.others ?? []);
+	return (input.wildcardBases ?? []).some((base) => wildcardUris(base).some((uri) => broader(uri).length > 0));
+}
+/**
+* The account's Workers' addresses in its zones: each Workers custom domain
+* (`domains`) and each zone route, which the script list carries per Worker
+* (`routes`), so no zone's own route list is read.
+*/
+function workerAddressesOf(scripts, domains) {
+	return [...domains.map((d) => ({
+		worker: d.service,
+		address: d.hostname.toLowerCase()
+	})), ...scripts.flatMap((s) => (s.routes ?? []).map((r) => ({
+		worker: s.id,
+		address: r.pattern.toLowerCase()
+	})))];
+}
+/**
+* The addresses of Workers not in `own` that `uri` matches as written: a
+* custom domain, or a route's host (`*.<base>` matches `api.<base>/*` and
+* `*.eu.<base>/*`; `<base>` matches `<base>/hooks/*`). The install's own
+* routes are never among them.
+*/
+function othersUnder(uri, addresses, own) {
+	const matches = hostMatcher(uri);
+	return addresses.filter((a) => {
+		if (own.has(a.worker.toLowerCase())) return false;
+		const host = a.address.replace(/^https?:\/\//, "").split("/", 1)[0] ?? "";
+		return matches(host);
+	});
+}
+/**
+* The destinations that cover the install, each once, in this order: each
+* Worker's workers.dev hostname (and its previews' pattern, see below), the
+* custom domains, the wildcard domains' bases and `*.<base>` (see below),
+* the external domains, then each Worker that exists by its tag. Cloudflare sets an
+* application's `domain` to its first destination when that is a hostname,
+* and to nothing when it is a Worker (checked live 2026-10-11), so this
+* order names the application by the primary Worker's workers.dev address,
+* before and after the Workers are uploaded.
+*
+* Required, whatever the limit: each `worker` destination; the workers.dev
+* hostname of a Worker not uploaded yet, which only it covers; each
+* external domain, which reaches the Worker through the gateway Worker and
+* so is not named by a `worker` destination; and every hostname or pattern
+* another application covers more broadly. The other workers.dev and
+* custom domain hostnames are named too, so an application made later for
+* a broader pattern does not take them over, as long as Cloudflare's limit
+* leaves room; past it they are left out (`overLimit`), the Worker's
+* destination covering them still. More required destinations than the
+* limit are refused. An address another application names itself, when
+* left to it (`leaveTaken`), is planned whatever the limit but counts
+* toward nothing: the caller takes it out before writing.
+*
+* A Worker's previews' pattern (`*-<worker>`) is named only when another
+* application covers those previews (its `worker` destination covers them
+* otherwise), since it also matches the address of any Worker whose name
+* ends in `-<worker>`. With such a Worker in the account (`scripts`), not
+* the install's own, the pattern is left out (`previewsLeft`) and the other
+* application keeps deciding there.
+*
+* A wildcard domain's base and `*.<base>` follow the same rule, each on its
+* own: the domain's two routes send them to the Worker, so its `worker`
+* destination covers them, and they are named only when another
+* application covers them. `*.<base>` also matches a custom domain or a
+* route of another Worker under the base (`api.<base>`, which the domain's
+* routes do not take), and `<base>` a route of another Worker on a path of
+* it; with such an address in the account (`workerAddresses`), the one
+* that matches it is left out (`wildcardLeft`).
+*/
+function planDestinations(input) {
+	const broader = broaderAppsOf(input.others ?? []);
+	const candidates = [];
+	const add = (destination, required) => {
+		const key = destinationKey(destination);
+		const known = candidates.find((c) => destinationKey(c.destination) === key);
+		if (known === void 0) candidates.push({
+			destination,
+			required
+		});
+		else known.required ||= required;
 	};
-	for (const w of input.workers) {
-		if (w.tag !== null) {
-			add({
-				type: "worker",
-				worker_id: w.tag
-			});
-			continue;
-		}
-		if (input.subdomain === null) throw new AccessToggleError(PROTECT_MESSAGES.noSubdomain);
+	const host = (uri, required = false) => {
+		const lower = uri.toLowerCase();
 		add({
 			type: "public",
-			uri: workersDevHost(w.name, input.subdomain)
+			uri: lower
+		}, required || broader(lower).length > 0);
+	};
+	const sorted = (hosts) => [...new Set((hosts ?? []).map((h) => h.toLowerCase()))].sort();
+	const own = new Set(input.workers.map((w) => w.name.toLowerCase()));
+	const previewsLeft = [];
+	for (const w of input.workers) {
+		if (input.subdomain === null) {
+			if (w.tag === null) throw new AccessToggleError(PROTECT_MESSAGES.noSubdomain);
+			continue;
+		}
+		host(workersDevHost(w.name, input.subdomain), w.tag === null);
+		const previews = previewsPattern(w.name, input.subdomain);
+		const apps = broader(previews);
+		if (apps.length === 0) continue;
+		if (input.scripts === void 0) throw new Error("planDestinations needs the account's script list");
+		const suffix = `-${w.name.toLowerCase()}`;
+		const sharedWith = input.scripts.filter((s) => s.toLowerCase().endsWith(suffix) && !own.has(s.toLowerCase()));
+		if (sharedWith.length > 0) previewsLeft.push({
+			worker: w.name,
+			uri: previews,
+			apps,
+			sharedWith
 		});
+		else add({
+			type: "public",
+			uri: previews
+		}, true);
 	}
-	for (const host of [...input.externalHosts].map((h) => h.toLowerCase()).sort()) add({
-		type: "public",
-		uri: host
-	});
-	return out;
+	for (const domain of sorted(input.customDomains)) host(domain);
+	const wildcardLeft = [];
+	for (const base of sorted(input.wildcardBases)) for (const uri of wildcardUris(base)) {
+		const apps = broader(uri);
+		if (apps.length === 0) continue;
+		if (input.workerAddresses === void 0) throw new Error("planDestinations needs the account's Worker addresses");
+		const sharedWith = othersUnder(uri, input.workerAddresses, own);
+		if (sharedWith.length > 0) wildcardLeft.push({
+			uri,
+			apps,
+			sharedWith
+		});
+		else add({
+			type: "public",
+			uri
+		}, true);
+	}
+	for (const external of sorted(input.externalHosts)) host(external, true);
+	for (const w of input.workers) if (w.tag !== null) add({
+		type: "worker",
+		worker_id: w.tag
+	}, true);
+	const ownerOf = namedItselfBy(input.leaveTaken === true ? input.others ?? [] : []);
+	const unsent = (d) => d.type === "public" && ownerOf(d.uri) !== void 0;
+	const required = candidates.filter((c) => c.required && !unsent(c.destination)).length;
+	if (required > 50) throw new AccessToggleError(PROTECT_MESSAGES.tooManyDestinations(required));
+	let room = 50 - required;
+	const destinations = [];
+	const overLimit = [];
+	for (const { destination, required } of candidates) if (unsent(destination) || required) destinations.push(destination);
+	else if (room > 0) {
+		room -= 1;
+		destinations.push(destination);
+	} else if (destination.type === "public") overLimit.push(destination.uri);
+	return {
+		destinations,
+		previewsLeft,
+		wildcardLeft,
+		overLimit
+	};
+}
+/** What the plan left out, as warnings for the job's or the cron's log. */
+function planWarnings(plan) {
+	return [
+		...plan.previewsLeft.map((p) => PROTECT_MESSAGES.previewsLeft(p)),
+		...plan.wildcardLeft.map((p) => PROTECT_MESSAGES.wildcardLeft(p)),
+		...plan.overLimit.length > 0 ? [PROTECT_MESSAGES.overLimit(plan.overLimit)] : []
+	];
 }
 function destinationKey(d) {
 	const fields = d;
 	if (d.type === "worker") return `worker:${String(fields.worker_id)}`;
 	if (d.type === "public") return `public:${String(fields.uri).toLowerCase()}`;
 	return `${d.type}:${JSON.stringify(d)}`;
+}
+/** Whether two lists name the same hostnames, in any order. */
+function sameHosts(a, b) {
+	return sameDestinations(a.map((uri) => ({
+		type: "public",
+		uri
+	})), b.map((uri) => ({
+		type: "public",
+		uri
+	})));
 }
 /** Whether two destination lists cover the same, in any order. */
 function sameDestinations(a, b) {
@@ -147213,18 +147739,71 @@ function hostMatcher(pattern) {
 	return (host) => re.test(host);
 }
 /**
-* The addresses of the install that `coverage` (another application's)
-* already covers: a shared script tag, or a hostname either side's pattern
-* matches. A false conflict is cheaper than two applications on one address.
+* Whether `theirs` (a hostname or pattern) names nothing but addresses
+* `mine` names. The install's version previews pattern (`*-<worker>.…`)
+* stands for `<first 8 hex of the version>-<worker>` hostnames only, so
+* another Worker's own address that ends the same way (`my-cut.…` next to
+* `cut`), or that Worker's previews pattern, is not inside it.
+*/
+function inside(theirs, mine) {
+	if (theirs === mine) return true;
+	if (!mine.startsWith("*-")) return hostMatcher(mine)(theirs);
+	const rest = mine.slice(1);
+	if (!theirs.endsWith(rest)) return false;
+	const prefix = theirs.slice(0, -rest.length);
+	return prefix.includes("*") ? /^[0-9a-f*]+$/.test(prefix) : /^[0-9a-f]{8}$/.test(prefix);
+}
+/**
+* Where `coverage` (another application's) meets the install's addresses. A
+* pattern counts as covering an address when its matcher accepts the
+* address as written, so `*.sub.workers.dev` covers `*-cut.sub.workers.dev`
+* (every hostname that matches the second matches the first). A false
+* conflict is cheaper than two applications on one address.
+*
+* Verified live 2026-10-11: with an application of `worker`, `public <host>`
+* and `public *-<host>` destinations for a Worker, and another one with
+* `public *.<sub>.workers.dev`, the first answered on both hostnames; with
+* the `worker` destination alone, the wildcard did. The same held for a
+* wildcard with a path (`*.<sub>.workers.dev/<path>/*`): the exact hostname
+* answered on that path too. Cloudflare itself refuses a second application
+* with the same Worker, hostname or pattern (409), and accepts a broader
+* pattern or the same hostname with a path.
 */
 function overlap(coverage, ours) {
-	const found = /* @__PURE__ */ new Set();
-	for (const tag of coverage.workerIds) if (ours.tags.includes(tag)) found.add("one of its Workers");
-	for (const theirs of coverage.hostnames) {
-		const theirMatch = hostMatcher(theirs);
-		for (const mine of ours.hostnames) if (theirMatch(mine) || hostMatcher(mine)(theirs.toLowerCase())) found.add(mine);
+	const blocking = /* @__PURE__ */ new Set();
+	const broader = /* @__PURE__ */ new Set();
+	for (const tag of coverage.workerIds) if (ours.tags.includes(tag)) blocking.add("one of its Workers");
+	for (const uri of coverage.uris) {
+		const theirs = uri.split("/", 1)[0];
+		const covers = hostMatcher(theirs);
+		const elsewhere = (ours.othersAddresses ?? []).some((address) => answersOn(address, uri));
+		for (const mine of ours.hostnames) if (inside(theirs, mine)) {
+			if (theirs !== mine && elsewhere) continue;
+			blocking.add(mine);
+		} else if (covers(mine)) broader.add(uri);
 	}
-	return [...found];
+	return {
+		blocking: [...blocking],
+		broader: [...broader]
+	};
+}
+/**
+* Whether a Worker's `address` (a custom domain, or a zone route's pattern)
+* takes all of `uri` (a hostname or pattern, with a path or not): a custom
+* domain or a `/*` route every path of its hostname, a route with a path
+* the paths under it. A false "no" only costs a refusal.
+*/
+function answersOn(address, uri) {
+	const bare = address.replace(/^https?:\/\//, "").toLowerCase();
+	const slash = bare.indexOf("/");
+	const host = slash === -1 ? bare : bare.slice(0, slash);
+	const path = slash === -1 ? "" : bare.slice(slash);
+	const at = uri.indexOf("/");
+	const uriHost = at === -1 ? uri : uri.slice(0, at);
+	const uriPath = at === -1 ? "" : uri.slice(at);
+	if (!hostMatcher(host)(uriHost)) return false;
+	if (path === "" || path === "/*") return true;
+	return path.endsWith("*") ? uriPath.startsWith(path.slice(0, -1)) : uriPath === path;
 }
 /** Whether everything `app` covers is one of the install's own addresses (and it covers something). */
 function coversOnly(app, ours) {
@@ -147233,6 +147812,37 @@ function coversOnly(app, ours) {
 	if (coverage.uris.some((uri) => uri.includes("/"))) return false;
 	return coverage.workerIds.every((tag) => ours.tags.includes(tag)) && coverage.hostnames.every((host) => ours.hostnames.some((mine) => hostMatcher(mine)(host)));
 }
+/**
+* Which of `destinations` (the install's) an application of `others` names
+* itself, without a path, and which application does. A `worker`
+* destination is never among them.
+*/
+function takenAddresses(others, destinations) {
+	const ownerOf = namedItselfBy(others);
+	const out = [];
+	for (const d of destinations) {
+		if (d.type !== "public" || typeof d.uri !== "string") continue;
+		const uri = d.uri.toLowerCase();
+		const owner = ownerOf(uri);
+		if (owner !== void 0) out.push({
+			uri,
+			app: owner.name ?? owner.id
+		});
+	}
+	return out;
+}
+/** The application of `others` that names a hostname or pattern itself, without a path. */
+function namedItselfBy(others) {
+	const named = others.map((app) => ({
+		app,
+		uris: accessAppCoverage(app).uris
+	}));
+	return (uri) => named.find((o) => o.uris.includes(uri.toLowerCase()))?.app;
+}
+/** `destinations` without those `taken` names. */
+function withoutTaken(destinations, taken) {
+	return destinations.filter((d) => d.type !== "public" || !taken.some((t) => t.uri === d.uri.toLowerCase()));
+}
 function parseCoverage(json) {
 	if (json === null) return null;
 	try {
@@ -147240,7 +147850,9 @@ function parseCoverage(json) {
 		if (!Array.isArray(value.destinations)) return null;
 		return {
 			destinations: value.destinations,
-			workerTags: typeof value.workerTags === "object" && value.workerTags !== null ? value.workerTags : {}
+			workerTags: typeof value.workerTags === "object" && value.workerTags !== null ? value.workerTags : {},
+			taken: Array.isArray(value.taken) ? value.taken : [],
+			overLimit: Array.isArray(value.overLimit) ? value.overLimit : []
 		};
 	} catch {
 		return null;
@@ -147255,17 +147867,22 @@ function protectionOf(row) {
 		teamDomain: row.access_team_domain,
 		coverage: parseCoverage(row.access_destinations_json),
 		syncFailedAt: row.access_sync_failed_at ?? null,
+		resyncDueAt: row.access_resync_due_at ?? null,
 		usersPolicyId: row.users_policy_id ?? null,
 		appMissingAt: row.access_app_missing_at ?? null
 	};
 }
 /**
 * Records that bringing the install's Access applications in step failed
-* (`at`), or that it succeeded (null). The cron tries again while it is set
+* (`at`), or that it succeeded (null), which settles a resync that was due
+* too. The cron tries again while either is set
 * (`resyncInstallAccessIfFailed`).
 */
 async function recordAccessSyncFailure(d1, installId, at) {
-	await createDb(d1).update(install_access).set({ access_sync_failed_at: at }).where(eq(install_access.install_id, installId));
+	await createDb(d1).update(install_access).set(at === null ? {
+		access_sync_failed_at: null,
+		access_resync_due_at: null
+	} : { access_sync_failed_at: at }).where(eq(install_access.install_id, installId));
 }
 /**
 * The install's protection as recorded, or null when Appflare does not
@@ -147331,11 +147948,24 @@ async function recordedAddresses(d1, installId) {
 		externalDomains: of(CUSTOM_HOSTNAME_KIND)
 	};
 }
+/** The install's primary Worker's name, or null when the install is not recorded. */
+async function primaryWorkerName(d1, installId) {
+	const [row] = await createDb(d1).select({ workerName: installs.worker_name }).from(installs).where(eq(installs.id, installId)).limit(1);
+	return row?.workerName ?? null;
+}
 function isForbidden(error) {
 	return error instanceof CloudflareApiError && (error.status === 403 || error.status === 401);
 }
 function isNotFound$1(error) {
 	return error instanceof CloudflareApiError && error.status === 404;
+}
+/**
+* Cloudflare refusing an application a destination another application
+* names itself (verified live 2026-10-11): the same hostname answers 409
+* [11010], the same pattern (`*-<host>`) or Worker 409 [12132].
+*/
+function isNamedElsewhere(error) {
+	return error instanceof CloudflareApiError && error.status === 409;
 }
 async function policiesCall(run) {
 	try {
@@ -147373,13 +148003,17 @@ async function accountSubdomain$2(deps) {
 		throw error;
 	}
 }
-/** Fills in the tags left out (`tag` undefined) from one script list; a Worker not listed is refused. */
+/**
+* Fills in the tags left out (`tag` undefined) from one script list; a
+* Worker not listed is refused. Answers the account's script list too when
+* it read it.
+*/
 async function withTags(client, workers, known = {}) {
 	const resolved = workers.map((w) => ({
 		name: w.name,
 		tag: w.tag === void 0 ? known[w.name] ?? void 0 : w.tag
 	}));
-	if (resolved.every((w) => w.tag !== void 0)) return resolved;
+	if (resolved.every((w) => w.tag !== void 0)) return { workers: resolved };
 	const scripts = await client.workers.listScripts();
 	const out = [];
 	for (const w of resolved) {
@@ -147397,14 +148031,56 @@ async function withTags(client, workers, known = {}) {
 			tag
 		});
 	}
-	return out;
+	return {
+		workers: out,
+		scripts
+	};
 }
-function coverageOf(workers, destinations) {
+/**
+* The account's Workers, each list read once at most and only when asked
+* for: the script list, unless `scripts` (from `withTags`) is that list
+* already, and the Workers custom domains (one call, every one in one page).
+*/
+function accountWorkersOf(client, scripts) {
+	let listed = scripts === void 0 ? null : Promise.resolve(scripts);
+	let addresses = null;
+	const list = () => {
+		listed ??= client.workers.listScripts();
+		return listed;
+	};
+	return {
+		scripts: async () => (await list()).map((s) => s.id),
+		addresses: () => {
+			addresses ??= Promise.all([list(), client.workerDomains.listDomains()]).then(([all, domains]) => workerAddressesOf(all, domains));
+			return addresses;
+		}
+	};
+}
+/**
+* The install's destinations against the account's other applications
+* (`planDestinations`), reading what the plan needs of the account's
+* Workers only when it needs it: the script list when another application
+* covers a Worker's version previews or a wildcard domain, and for the
+* latter the Workers custom domains too.
+*/
+async function planAgainst(input, account) {
+	const wildcards = wildcardsCoveredElsewhere(input);
+	const scripts = wildcards || previewsCoveredElsewhere(input) ? await account.scripts() : void 0;
+	const workerAddresses = wildcards ? await account.addresses() : void 0;
+	return planDestinations({
+		...input,
+		...scripts === void 0 ? {} : { scripts },
+		...workerAddresses === void 0 ? {} : { workerAddresses }
+	});
+}
+function coverageOf(workers, destinations, taken, overLimit) {
 	const workerTags = {};
 	for (const w of workers) if (w.tag !== null) workerTags[w.name] = w.tag;
 	return {
 		destinations,
-		workerTags
+		workerTags,
+		taken,
+		overLimit
 	};
 }
 /** The inline token policy, at precedence 2 behind "Appflare users". */
@@ -147422,11 +148098,18 @@ function probesEntry(app, installId, probesPolicyId) {
 * Protects the install with its own Access application, or brings the one
 * it has in step (idempotent; see the module comment). Checks everything
 * that can be checked first (the install, the Zero Trust organization, that
-* no other application covers any of the install's addresses, that the
-* token reads service tokens), then makes
+* no other application covers any of the install's addresses as narrowly as
+* its own would, that the token reads service tokens), then makes
 * sure "Appflare users" and the install's token exist, then creates or
 * rewrites the application, then records it. Throws `AccessToggleError`
 * with a message for people on a refusal.
+*
+* For an app already protected ("Protect again"), an address another
+* application names itself is left to it (`taken`) as the sync leaves it,
+* instead of refusing: such an application can only have named it first,
+* and refusing would also refuse the repairs protecting again is for (a
+* new "Appflare users" policy, an application deleted in the dashboard). A
+* pending external domain it names is still refused.
 */
 function protectInstall(deps, request) {
 	return withAccessLock(deps.db, () => protectLocked(deps, request));
@@ -147456,18 +148139,19 @@ async function protectLocked(deps, request) {
 		name
 	}), install.workerName);
 	const recorded = await recordedAddresses(deps.db, installId);
-	const wanted = [...request.workers ?? recorded.workers.map((w) => ({ name: w }))];
+	const wanted = primaryFirst(request.workers ?? recorded.workers.map((w) => ({ name: w })), install.workerName);
 	if (wanted.length === 0) throw new AccessToggleError(PROTECT_MESSAGES.noWorkers);
 	const record = await readInstallAccess(deps.db, installId);
-	const workers = await withTags(client, wanted, (await readInstallProtection(deps.db, installId))?.coverage?.workerTags ?? {});
+	const { workers, scripts } = await withTags(client, wanted, (await readInstallProtection(deps.db, installId))?.coverage?.workerTags ?? {});
 	const subdomain = await accountSubdomain$2(deps);
 	const teamDomain = await teamDomainOf(client);
 	const apps = await policiesCall(() => client.access.listApps());
 	const serviceTokens = await listAccessServiceTokens(client);
-	const externalHosts = [.../* @__PURE__ */ new Set([...recorded.externalDomains, ...request.pendingExternalHosts ?? []])].map((h) => h.toLowerCase());
+	const pending = new Set((request.pendingExternalHosts ?? []).map((h) => h.toLowerCase()));
+	const externalHosts = [.../* @__PURE__ */ new Set([...recorded.externalDomains.map((h) => h.toLowerCase()), ...pending])];
 	const footprint = {
 		hostnames: [
-			...subdomain === null ? [] : workers.flatMap((w) => [workersDevHost(w.name, subdomain), `*-${workersDevHost(w.name, subdomain)}`]),
+			...subdomain === null ? [] : workers.flatMap((w) => [workersDevHost(w.name, subdomain), previewsPattern(w.name, subdomain)]),
 			...recorded.customDomains,
 			...recorded.wildcardBases.flatMap((b) => [b, `*.${b}`]),
 			...externalHosts
@@ -147477,23 +148161,79 @@ async function protectLocked(deps, request) {
 	const byId = record?.accessAppId ?? null;
 	const bypassId = await recordedBypassAppId(deps.db, installId);
 	const ours = apps.find((a) => byId !== null && a.id === byId) ?? apps.find((a) => (a.policies ?? []).some((p) => p.name === probesPolicyName(installId))) ?? apps.find((a) => a.name === appName && coversOnly(a, footprint));
-	for (const other of apps) {
-		if (other === ours || isBypassAppOf(other, installId, bypassId)) continue;
-		const covered = overlap(accessAppCoverage(other), footprint);
-		if (covered.length > 0) throw new AccessToggleError(PROTECT_MESSAGES.conflict(other.name ?? other.id, covered));
-	}
-	const destinations = installDestinations({
+	const others = (list) => list.filter((a) => a.id !== ours?.id && !isBypassAppOf(a, installId, bypassId));
+	const account = accountWorkersOf(client, scripts);
+	const plan = await planAgainst({
 		workers,
 		subdomain,
-		externalHosts
-	});
+		customDomains: recorded.customDomains,
+		wildcardBases: recorded.wildcardBases,
+		externalHosts,
+		others: others(apps),
+		leaveTaken: byId !== null
+	}, account);
+	const takenFrom = (list) => {
+		if (byId === null) return [];
+		const taken = takenAddresses(others(list), plan.destinations);
+		const notYet = taken.find((t) => pending.has(t.uri));
+		if (notYet !== void 0) throw new AccessToggleError(PROTECT_MESSAGES.conflict(notYet.app, [notYet.uri]));
+		return taken;
+	};
+	const own = new Set(workers.map((w) => w.name.toLowerCase()));
+	const wildcardNames = recorded.wildcardBases.map((b) => `*.${b.toLowerCase()}`);
+	let othersAddresses = null;
+	const footprintFor = async (coverage) => {
+		if (coverage.hostnames.some((h) => wildcardNames.some((p) => h !== p && hostMatcher(p)(h))) && othersAddresses === null) {
+			const addresses = await account.addresses();
+			othersAddresses = wildcardNames.flatMap((p) => othersUnder(p, addresses, own).map((a) => a.address));
+		}
+		return othersAddresses === null ? footprint : {
+			...footprint,
+			othersAddresses
+		};
+	};
+	const refuseConflicts = async (list, taken) => {
+		for (const other of others(list)) {
+			const coverage = accessAppCoverage(other);
+			const blocking = overlap(coverage, await footprintFor(coverage)).blocking.filter((mine) => !taken.some((t) => t.uri === mine && coverage.uris.includes(mine)));
+			if (blocking.length > 0) throw new AccessToggleError(PROTECT_MESSAGES.conflict(other.name ?? other.id, blocking));
+		}
+	};
+	let taken = takenFrom(apps);
+	await refuseConflicts(apps, taken);
+	const overridden = [];
+	for (const other of others(apps)) {
+		const { broader } = overlap(accessAppCoverage(other), footprint);
+		if (broader.length > 0) overridden.push({
+			name: other.name ?? other.id,
+			patterns: broader
+		});
+	}
+	/**
+	* Cloudflare refused a destination another application names: one made
+	* since the listing above. Refused in the same words as one found there,
+	* or, for an app already protected, written again without what it names.
+	*/
+	const write = async (run) => {
+		try {
+			return await policiesCall(() => run(withoutTaken(plan.destinations, taken)));
+		} catch (error) {
+			if (!isNamedElsewhere(error)) throw error;
+			const listed = await policiesCall(() => client.access.listApps());
+			const again = takenFrom(listed);
+			await refuseConflicts(listed, again);
+			if (again.every((t) => taken.some((k) => k.uri === t.uri))) throw error;
+			taken = again;
+			return policiesCall(() => run(withoutTaken(plan.destinations, taken)));
+		}
+	};
 	const users = await ensureAppAccessUsersPolicy(deps);
 	const token = await ensureInstallServiceToken(deps, installId, serviceTokens);
 	const probesPolicyId = (await readInstallAccess(deps.db, installId))?.probesPolicyId ?? null;
 	let outcome;
 	let written;
 	if (ours === void 0) {
-		written = await policiesCall(() => client.access.createApp({
+		written = await write((destinations) => client.access.createApp({
 			type: "self_hosted",
 			name: appName,
 			destinations,
@@ -147519,19 +148259,18 @@ async function protectLocked(deps, request) {
 			...probesPolicy(installId, token.tokenId),
 			precedence: next()
 		});
-		if (!adopted && probes !== void 0 && policies.length === kept.length && ours.name === appName && sameDestinations(ours.destinations ?? [], destinations)) {
+		if (!adopted && probes !== void 0 && policies.length === kept.length && ours.name === appName && sameDestinations(ours.destinations ?? [], withoutTaken(plan.destinations, taken))) {
 			written = ours;
 			outcome = "unchanged";
 		} else {
-			const body = {
-				...accessAppSettings(ours),
-				type: "self_hosted",
-				name: appName,
-				destinations,
-				policies
-			};
 			try {
-				written = await policiesCall(() => client.access.updateApp(ours.id, body));
+				written = await write((destinations) => client.access.updateApp(ours.id, {
+					...accessAppSettings(ours),
+					type: "self_hosted",
+					name: appName,
+					destinations,
+					policies
+				}));
 			} catch (error) {
 				if (isNotFound$1(error)) throw new AccessToggleError(PROTECT_MESSAGES.appMissing);
 				throw error;
@@ -147539,6 +148278,7 @@ async function protectLocked(deps, request) {
 			outcome = adopted ? "adopted" : "updated";
 		}
 	}
+	const destinations = withoutTaken(plan.destinations, taken);
 	const probesId = probesEntry(written, installId, outcome === "unchanged" ? probesPolicyId : null)?.id ?? (written.policies ?? []).find((p) => p.decision === "non_identity")?.id ?? null;
 	const aud = written.aud || ours?.aud || "";
 	await recordProtection(deps, installId, {
@@ -147548,7 +148288,7 @@ async function protectLocked(deps, request) {
 		probesPolicyId: probesId,
 		aud,
 		teamDomain,
-		coverage: coverageOf(workers, destinations),
+		coverage: coverageOf(workers, destinations, taken, plan.overLimit),
 		usersPolicyId: users.policyId
 	});
 	const orm = createDb(deps.db);
@@ -147574,20 +148314,45 @@ async function protectLocked(deps, request) {
 		aud,
 		teamDomain,
 		destinations,
+		overridden,
+		taken,
+		warnings: planWarnings(plan),
 		bypass,
 		bypassProblem
 	};
 }
+/** Each application once, with the addresses `taken` leaves to it. */
+function takenByApp(taken) {
+	const out = /* @__PURE__ */ new Map();
+	for (const t of taken) out.set(t.app, [...out.get(t.app) ?? [], t.uri]);
+	return [...out].map(([app, uris]) => ({
+		app,
+		uris
+	}));
+}
 /**
 * Brings the install's application in step with its addresses after they
 * changed: its Workers, by their recorded tags (a Worker without one is
-* looked up; one the account does not list is refused), and its external
-* domains, with `pendingExternalHosts` covered before they serve. Writes
-* only when the destinations differ from those last written: a read of the
-* application, then a `PUT` of it as it is with the new destinations (so
-* settings an admin changed in the Zero Trust dashboard stay). Custom
-* domains and wildcard domains need nothing there: the Worker's own
-* destination covers them.
+* looked up; one the account does not list is refused), with their
+* workers.dev hostnames, its custom and wildcard domains, and its external
+* domains, with `pendingExternalHosts` covered before they serve, planned
+* against the account's other applications (`planDestinations`; `apps`
+* when the caller listed them already). Writes only when the destinations
+* differ from those last written: a read of the application, then a `PUT`
+* of it as it is with the new destinations (so settings an admin changed in
+* the Zero Trust dashboard stay). A custom or wildcard domain comes off
+* after it is removed: until then the Worker's own destination covers it
+* as well.
+*
+* A hostname or pattern another application names itself is left to it
+* (never a `worker` destination): Cloudflare would refuse the `PUT` with it
+* (409). Those are recorded (`taken`) and answered, and the sync counts as
+* done, so neither a job nor the cron fails on it again. When Cloudflare
+* refuses anyway (an application made since the listing), a second listing
+* finds which, and the `PUT` goes again without them; a refusal that
+* listing does not explain is thrown as it came. A pending external domain
+* another application names is refused instead: it does not serve the app
+* yet.
 *
 * Then the install's public paths (bypass.server.ts), which do follow every
 * address, workers.dev being turned on or off included: nothing when the
@@ -147596,28 +148361,61 @@ async function protectLocked(deps, request) {
 * install's own application is in step, and leaves the paths protected.
 */
 async function syncInstallAccessDestinations(deps, installId, opts = {}) {
-	if (await readInstallProtection(deps.db, installId) === null) return "not-protected";
+	const none = {
+		outcome: "not-protected",
+		taken: [],
+		warnings: []
+	};
+	if (await readInstallProtection(deps.db, installId) === null) return none;
 	return withAccessLock(deps.db, async () => {
 		const protection = await readInstallProtection(deps.db, installId);
-		if (protection === null) return "not-protected";
+		if (protection === null) return none;
 		const recorded = await recordedAddresses(deps.db, installId);
-		const workers = await withTags(deps.client, recorded.workers.map((name) => ({ name })), protection.coverage?.workerTags ?? {});
-		const destinations = installDestinations({
+		const { workers, scripts } = await withTags(deps.client, primaryFirst(recorded.workers.map((name) => ({ name })), await primaryWorkerName(deps.db, installId) ?? ""), protection.coverage?.workerTags ?? {});
+		const subdomain = await accountSubdomain$2(deps);
+		const pending = new Set((opts.pendingExternalHosts ?? []).map((h) => h.toLowerCase()));
+		const bypassId = await recordedBypassAppId(deps.db, installId);
+		const othersOf = (list) => list.filter((a) => a.id !== protection.accessAppId && !isBypassAppOf(a, installId, bypassId));
+		let apps = opts.apps ?? await policiesCall(() => deps.client.access.listApps());
+		const plan = await planAgainst({
 			workers,
-			subdomain: null,
-			externalHosts: [.../* @__PURE__ */ new Set([...recorded.externalDomains, ...opts.pendingExternalHosts ?? []])]
-		});
-		const coverage = coverageOf(workers, destinations);
+			subdomain,
+			customDomains: recorded.customDomains,
+			wildcardBases: recorded.wildcardBases,
+			externalHosts: [.../* @__PURE__ */ new Set([...recorded.externalDomains, ...pending])],
+			others: othersOf(apps),
+			leaveTaken: true
+		}, accountWorkersOf(deps.client, scripts));
+		const takenFrom = (list) => {
+			const found = takenAddresses(othersOf(list), plan.destinations);
+			const notYet = found.find((t) => pending.has(t.uri));
+			if (notYet !== void 0) throw new AccessToggleError(PROTECT_MESSAGES.conflict(notYet.app, [notYet.uri]));
+			return found;
+		};
+		let taken = takenFrom(apps);
 		const bypassInStep = async () => {
 			await syncInstallBypassLocked(deps, installId, {
-				subdomain: await accountSubdomain$2(deps),
+				subdomain,
+				apps,
 				...opts.change === void 0 ? {} : { change: opts.change }
 			});
-			if (opts.change === void 0 && protection.syncFailedAt !== null) await recordAccessSyncFailure(deps.db, installId, null);
+			if (opts.change === void 0 && (protection.syncFailedAt !== null || protection.resyncDueAt !== null)) await recordAccessSyncFailure(deps.db, installId, null);
 		};
-		if (protection.coverage !== null && sameDestinations(protection.coverage.destinations, destinations)) {
+		const last = protection.coverage;
+		if (last !== null && sameDestinations([...last.destinations, ...last.taken.map((t) => ({
+			type: "public",
+			uri: t.uri
+		}))], plan.destinations)) {
+			if (!sameHosts(last.overLimit, plan.overLimit)) await recordCoverage(deps, installId, {
+				...last,
+				overLimit: plan.overLimit
+			});
 			await bypassInStep();
-			return "unchanged";
+			return {
+				outcome: "unchanged",
+				taken: [],
+				warnings: []
+			};
 		}
 		let app;
 		try {
@@ -147626,18 +148424,35 @@ async function syncInstallAccessDestinations(deps, installId, opts = {}) {
 			if (isNotFound$1(error)) throw new AccessToggleError(PROTECT_MESSAGES.appMissing);
 			throw error;
 		}
-		if (!sameDestinations(app.destinations ?? [], destinations)) {
+		const put = async () => {
+			const to = withoutTaken(plan.destinations, taken);
+			if (sameDestinations(app.destinations ?? [], to)) return;
 			const body = {
 				...accessAppSettings(app),
 				type: "self_hosted",
-				destinations,
+				destinations: to,
 				policies: policyReferences(app.policies)
 			};
 			await policiesCall(() => deps.client.access.updateApp(app.id, body));
+		};
+		try {
+			await put();
+		} catch (error) {
+			if (!isNamedElsewhere(error)) throw error;
+			const listed = await policiesCall(() => deps.client.access.listApps());
+			const again = takenFrom(listed);
+			if (again.every((t) => taken.some((k) => k.uri === t.uri))) throw error;
+			apps = listed;
+			taken = again;
+			await put();
 		}
-		await recordCoverage(deps, installId, coverage);
+		await recordCoverage(deps, installId, coverageOf(workers, withoutTaken(plan.destinations, taken), taken, plan.overLimit));
 		await bypassInStep();
-		return "updated";
+		return {
+			outcome: "updated",
+			taken,
+			warnings: planWarnings(plan)
+		};
 	});
 }
 /**
@@ -147673,29 +148488,52 @@ async function removePublicPathsLocked(deps, installId) {
 	}).from(installs).where(eq(installs.id, installId)).limit(1);
 	return removeInstallBypassLocked(deps, installId, { lookUp: install !== void 0 && (bypassPathsOfManifest(install.manifestJson).length > 0 || (await storedBypassPaths(orm, install)).length > 0) });
 }
+function isBusy(error) {
+	return error instanceof AccessToggleError && error.message === ACCESS_MESSAGES.busy;
+}
 /**
 * The cron: brings in step again the Access applications of protected
 * installs whose last sync outside a job failed (a domain added or removed,
-* workers.dev turned on or off), oldest failure first, at most
-* {@link ACCESS_RESYNCS_PER_RUN}. A D1 read only when none failed. A
-* failure stays recorded for the next run.
+* workers.dev turned on or off) or is due (a catalog revision changed their
+* public paths, Appflare was updated, an address left to another
+* application is free again), at most {@link ACCESS_RESYNCS_PER_RUN}. Due
+* and failed share one queue, oldest mark first (the failure's time for an
+* install marked both ways). A D1 read only when none is due. A failure is
+* recorded with this run's time, so an install that keeps failing goes
+* behind every install marked before it, and a long run of due ones never
+* holds up a failure older than them. Another Access change holding the
+* lock (a job) is no failure: the install keeps its marks for the next
+* run, and so do the ones after it. An install whose application the
+* upkeep found deleted (`access_app_missing_at`) waits, marks kept, until
+* it is protected again. `apps`: the account's applications, when the
+* caller listed them in this run already.
 */
 async function resyncInstallAccessIfFailed(deps) {
-	const due = await createDb(deps.db).select({ installId: install_access.install_id }).from(install_access).where(and(isNotNull(install_access.access_sync_failed_at), isNotNull(install_access.access_app_id))).orderBy(install_access.access_sync_failed_at).limit(3);
+	const due = await createDb(deps.db).select({ installId: install_access.install_id }).from(install_access).where(and(or(isNotNull(install_access.access_sync_failed_at), isNotNull(install_access.access_resync_due_at)), isNotNull(install_access.access_app_id), isNull(install_access.access_app_missing_at))).orderBy(sql`coalesce(${install_access.access_sync_failed_at}, ${install_access.access_resync_due_at})`).limit(3);
 	if (due.length === 0) return [];
 	const client = await deps.client();
 	const out = [];
 	for (const { installId } of due) try {
-		const outcome = await syncInstallAccessDestinations({
+		const { outcome, taken, warnings } = await syncInstallAccessDestinations({
 			db: deps.db,
 			client,
 			...deps.now === void 0 ? {} : { now: deps.now }
-		}, installId);
+		}, installId, deps.apps === void 0 ? {} : { apps: deps.apps });
 		out.push({
 			installId,
-			outcome
+			outcome,
+			...taken.length === 0 ? {} : { taken },
+			...warnings.length === 0 ? {} : { warnings }
 		});
 	} catch (error) {
+		if (isBusy(error)) {
+			out.push({
+				installId,
+				outcome: "busy"
+			});
+			break;
+		}
+		await recordAccessSyncFailure(deps.db, installId, (deps.now ?? (() => /* @__PURE__ */ new Date()))());
 		out.push({
 			installId,
 			outcome: "failed",
@@ -147703,6 +148541,99 @@ async function resyncInstallAccessIfFailed(deps) {
 		});
 	}
 	return out;
+}
+/**
+* For the cron, with the account's applications listed (`apps`): forgets
+* each address the install's application left to another application
+* (`taken`) that no other application names any more, and marks the install
+* due for the resync above, which covers it again. Answers the addresses
+* freed; none, and no D1 write, when none is. A listing that left the other
+* application out costs one resync, which leaves the address to it again.
+* Caller holds the Access lock.
+*/
+async function releaseFreedAddresses(deps, row, apps) {
+	const coverage = parseCoverage(row.coverageJson);
+	if (coverage === null || coverage.taken.length === 0) return [];
+	const still = takenAddresses(apps.filter((a) => a.id !== row.accessAppId && !isBypassAppOf(a, row.installId, row.bypassAppId)), coverage.taken.map((t) => ({
+		type: "public",
+		uri: t.uri
+	})));
+	const freed = coverage.taken.filter((t) => !still.some((s) => s.uri === t.uri)).map((t) => t.uri);
+	if (freed.length === 0) return [];
+	const at = (deps.now ?? (() => /* @__PURE__ */ new Date()))();
+	await createDb(deps.db).update(install_access).set({
+		access_destinations_json: JSON.stringify({
+			...coverage,
+			taken: still
+		}),
+		access_resync_due_at: sql`coalesce(${install_access.access_resync_due_at}, ${at.getTime()})`,
+		updated_at: at
+	}).where(and(eq(install_access.install_id, row.installId), eq(install_access.access_app_id, row.accessAppId)));
+	return freed;
+}
+/**
+* For the cron, with the account's applications listed (`apps`): whether
+* the install's application names its Workers' version previews, or its
+* wildcard domains' bases and names (`wildcardBases`, as recorded), where
+* the plan would not, or leaves them out where it would name them
+* (`planDestinations`), because another application covering them came or
+* went, or another Worker whose name ends like one of the install's, or
+* with a custom domain or route under a wildcard domain, did. Or whether
+* another application now covers a hostname left out past Cloudflare's
+* limit (`overLimit`), which the plan then names, or leaves to an
+* application that names it itself. The account's Workers are read
+* (`account`) only for a pattern another application covers. False
+* without a record of what the application covers; the previews are not
+* looked at without a workers.dev subdomain.
+*/
+async function patternsOutOfStep(row, { subdomain, wildcardBases }, apps, account) {
+	const coverage = parseCoverage(row.coverageJson);
+	if (coverage === null) return false;
+	const others = apps.filter((a) => a.id !== row.accessAppId && !isBypassAppOf(a, row.installId, row.bypassAppId));
+	const broader = broaderAppsOf(others);
+	const ownerOf = namedItselfBy(others);
+	if (coverage.overLimit.some((h) => broader(h).length > 0 || ownerOf(h) !== void 0)) return true;
+	const workers = Object.keys(coverage.workerTags).map((w) => w.toLowerCase());
+	const named = /* @__PURE__ */ new Set([...coverage.destinations.flatMap((d) => d.type === "public" && typeof d.uri === "string" ? [d.uri.toLowerCase()] : []), ...coverage.taken.map((t) => t.uri)]);
+	for (const worker of subdomain === null ? [] : workers) {
+		const pattern = previewsPattern(worker, subdomain ?? "");
+		const present = named.has(pattern);
+		if (broader(pattern).length === 0) {
+			if (present) return true;
+			continue;
+		}
+		if (present === (await account.scripts()).some((s) => {
+			const name = s.toLowerCase();
+			return name.endsWith(`-${worker}`) && !workers.includes(name);
+		})) return true;
+	}
+	const own = new Set(workers);
+	for (const base of wildcardBases) for (const uri of wildcardUris(base)) {
+		const present = named.has(uri);
+		if (broader(uri).length === 0) {
+			if (present) return true;
+			continue;
+		}
+		if (present === othersUnder(uri, await account.addresses(), own).length > 0) return true;
+	}
+	return false;
+}
+/** Each protected install's wildcard domains (their bases), as recorded. D1 only. */
+async function recordedWildcardBases(d1) {
+	const rows = await createDb(d1).select({
+		installId: resources.install_id,
+		name: resources.name
+	}).from(resources).innerJoin(install_access, eq(install_access.install_id, resources.install_id)).where(and(eq(resources.kind, WILDCARD_DOMAIN_KIND), isNull(resources.deleted_at), isNotNull(install_access.access_app_id)));
+	const out = /* @__PURE__ */ new Map();
+	for (const r of rows) out.set(r.installId, [...out.get(r.installId) ?? [], r.name]);
+	return out;
+}
+/**
+* Marks the install due for the cron's resync (`resyncInstallAccessIfFailed`),
+* keeping an earlier mark, while it is protected by `accessAppId`.
+*/
+async function markAccessResyncDue(d1, row, at) {
+	await createDb(d1).update(install_access).set({ access_resync_due_at: sql`coalesce(${install_access.access_resync_due_at}, ${at.getTime()})` }).where(and(eq(install_access.install_id, row.installId), eq(install_access.access_app_id, row.accessAppId)));
 }
 var PROTECT_MESSAGES;
 var init_protect_server = __esmMin(() => {
@@ -147717,6 +148648,7 @@ var init_protect_server = __esmMin(() => {
 	init_accepted_paths_server();
 	init_bypass_server();
 	init_install_access_server();
+	init_messages$1();
 	init_stored_access_server();
 	init_toggle_server();
 	PROTECT_MESSAGES = {
@@ -147726,7 +148658,13 @@ var init_protect_server = __esmMin(() => {
 		noWorkers: "This app has no Worker yet, so there is nothing to protect.",
 		workerMissing: (name) => `The Worker "${name}" of this app is not in the Cloudflare account, so its addresses cannot be covered.`,
 		noSubdomain: "This account has no workers.dev subdomain yet, so the app's workers.dev address cannot be covered.",
-		conflict: (other, covered) => `The Cloudflare Access application "${other}" already covers ${covered.length === 1 ? covered[0] : `${covered.slice(0, -1).join(", ")} and ${covered.at(-1)}`}, an address of this app. Delete it under Zero Trust, Access, Applications, or keep using it and leave Appflare's protection off for this app.`,
+		conflict: (other, covered) => `The Cloudflare Access application "${other}" already covers ${listOf(covered)}, an address of this app. Delete it under Zero Trust, Access, Applications, or keep using it and leave Appflare's protection off for this app.`,
+		overridden: (other, patterns) => `The Cloudflare Access application "${other}" also covers ${listOf(patterns)}; Appflare's application takes precedence on this app's addresses.`,
+		taken: INSTALL_ACCESS_MESSAGES.addressTaken,
+		previewsLeft: (p) => `The version previews of the Worker "${p.worker}" stay under the Cloudflare Access application ${listOf(p.apps.map((a) => `"${a}"`))}, which also covers them: naming them in Appflare's application (${p.uri}) would also cover the Worker ${listOf(p.sharedWith.map((w) => `"${w}"`))}, whose name ends the same way.`,
+		wildcardLeft: (p) => `This app's ${p.uri} stays under the Cloudflare Access application ${listOf(p.apps.map((a) => `"${a}"`))}, which also covers it: naming it in Appflare's application would also cover ${listOf(p.sharedWith.map((s) => `${s.address} of the Worker "${s.worker}"`))}.`,
+		overLimit: (hosts) => `Cloudflare allows 50 destinations on one Access application, so Appflare's application leaves out ${listOf(hosts)}; the app's Worker is still covered there through its own destination, and Appflare names one of them once another Access application comes to cover it.`,
+		tooManyDestinations: (count) => `Appflare's Cloudflare Access application for this app would need ${count} destinations (one per Worker and per external domain, and one per address another Access application also covers), more than the 50 Cloudflare allows on one application. Remove some of the app's domains, or the other Access applications that cover them, then try again.`,
 		appMissing: "This app's Cloudflare Access application no longer exists. Protect the app again to make a new one."
 	};
 });
@@ -147736,11 +148674,13 @@ function accessAddressSync(db, client, now) {
 	return async (installId, change) => {
 		try {
 			if (await readInstallProtection(db, installId) === null) return null;
-			await syncInstallAccessDestinations({
+			const { taken, warnings } = await syncInstallAccessDestinations({
 				db,
 				client: await client(),
 				...now === void 0 ? {} : { now }
 			}, installId, change === void 0 ? {} : { change });
+			for (const { app, uris } of takenByApp(taken)) console.warn(`access: ${PROTECT_MESSAGES.taken(app, uris)}`, { installId });
+			for (const warning of warnings) console.warn(`access: ${warning}`, { installId });
 			return null;
 		} catch (error) {
 			const message = error instanceof Error ? error.message : String(error);
@@ -156403,7 +157343,7 @@ var init_uninstall_builds = __esmMin(() => {
 var name$1, version, type, scripts, dependencies, devDependencies, package_default;
 var init_package = __esmMin(() => {
 	name$1 = "@appflare/sandbox-worker";
-	version = "0.1.4";
+	version = "0.1.5";
 	type = "module";
 	scripts = {
 		"typecheck": "tsc --noEmit",
@@ -162569,6 +163509,7 @@ async function readInstallAccessView(d1, installId) {
 		publicPaths: protection === null ? [...listed] : acceptedOf(listed, accepted),
 		pendingPublicPaths: protection === null ? [] : pendingOf$1(listed, accepted),
 		syncFailedAt: protection?.syncFailedAt?.toISOString() ?? null,
+		takenAddresses: takenByApp(protection?.coverage?.taken ?? []),
 		usesAccessValues: signed !== null && entryWorkers({
 			...signed,
 			catalog: revised ?? signed.catalog
@@ -162664,7 +163605,7 @@ var init_auto_update_server = __esmMin(() => {
 //#endregion
 //#region src/installs/install-rows.server.ts
 /** The name fields of an install row, for the list and the detail page (the label comes apart). */
-function namesOf(row) {
+function namesOf$1(row) {
 	return {
 		displayName: row.display_name,
 		workerName: row.worker_name
@@ -162749,7 +163690,7 @@ function installRowsOf(rows, lookup, records, { sub, domains, openPaths }) {
 			origin: row.origin,
 			name: listed?.name ?? recordedName(row),
 			icon: iconOf(found),
-			...namesOf(row),
+			...namesOf$1(row),
 			status: row.status,
 			version: row.catalog_version,
 			latestVersion: listed?.version ?? null,
@@ -162930,7 +163871,7 @@ async function readInstallDetail(installId) {
 		if (row.status === "installed" || row.status === "failed") uninstall = "start";
 		else if (row.status === "uninstalling") uninstall = "retry";
 	}
-	const names = namesOf(row);
+	const names = namesOf$1(row);
 	const labels = await readInstallLabels(env.DB, [{
 		id: row.id,
 		name,
@@ -164946,6 +165887,12 @@ var init__0007_cloudflare_grant = __esmMin(() => {
 	_0007_cloudflare_grant_default = "CREATE TABLE `cloudflare_grant` (\n	`id` text PRIMARY KEY NOT NULL,\n	`client_id` text NOT NULL,\n	`scopes_json` text NOT NULL,\n	`refresh_token` text NOT NULL,\n	`access_token` text,\n	`access_expires_at` integer,\n	`key_id` text NOT NULL,\n	`status` text NOT NULL,\n	`problem` text,\n	`problem_at` integer,\n	`connected_at` integer NOT NULL,\n	`refreshed_at` integer NOT NULL\n);\n";
 });
 //#endregion
+//#region src/db/migrations/0008_access_hostnames_resync.sql?raw
+var _0008_access_hostnames_resync_default;
+var init__0008_access_hostnames_resync = __esmMin(() => {
+	_0008_access_hostnames_resync_default = "ALTER TABLE `install_access` ADD `access_resync_due_at` integer;--> statement-breakpoint\n-- Apps protected before their Access application named their hostnames next to\n-- their Workers: the cron's Access resync brings each one in step once, so an\n-- Access application someone made for a broader pattern (`*.<subdomain>.workers.dev`,\n-- `*.example.com`) stops deciding who reaches them. Nothing failed, so their pages\n-- show nothing for it; an app whose last sync failed is retried anyway. One\n-- whose Access application was deleted is left out: protecting it again\n-- makes a new application with every hostname.\nUPDATE `install_access` SET `access_resync_due_at` = CAST(strftime('%s', 'now') AS INTEGER) * 1000\nWHERE `access_app_id` IS NOT NULL AND `access_sync_failed_at` IS NULL\n  AND `access_app_missing_at` IS NULL;\n";
+});
+//#endregion
 //#region src/db/migrations/index.ts
 var migrations;
 var init_migrations = __esmMin(() => {
@@ -164957,6 +165904,7 @@ var init_migrations = __esmMin(() => {
 	init__0005_access_users_policy();
 	init__0006_access_accepted_bypass();
 	init__0007_cloudflare_grant();
+	init__0008_access_hostnames_resync();
 	migrations = [
 		{
 			tag: "0000_init",
@@ -164989,6 +165937,10 @@ var init_migrations = __esmMin(() => {
 		{
 			tag: "0007_cloudflare_grant",
 			sql: _0007_cloudflare_grant_default
+		},
+		{
+			tag: "0008_access_hostnames_resync",
+			sql: _0008_access_hostnames_resync_default
 		}
 	];
 });
@@ -166067,85 +167019,6 @@ var init_email_routing_functions$1 = __esmMin(() => {
 	});
 });
 //#endregion
-//#region src/telemetry/redact.ts
-/** Keeps the name and the value's quotes; replaces the value. */
-function keepQuotes(match, name, value) {
-	if (value.startsWith("[redacted")) return match;
-	const quote = value.startsWith("\"") || value.startsWith("'") ? value[0] : "";
-	return `${name}${quote}${REDACTED}${quote}`;
-}
-function escapeRegExp(text) {
-	return text.replace(/[.*+?^${}()|[\]\\]/g, "\\$&");
-}
-/** A name matched whole: not inside a longer name or hostname label. */
-function wholeName(names, flags) {
-	const usable = [...new Set(names.map((n) => n.trim()).filter((n) => n.length >= 3))].sort((a, b) => b.length - a.length);
-	if (usable.length === 0) return null;
-	return new RegExp(`(?<![A-Za-z0-9_-])(?:${usable.map(escapeRegExp).join("|")})(?![A-Za-z0-9_-])`, flags);
-}
-/** The rules that take this account's own names out, hostnames first (they contain Worker names). */
-function accountRules(names) {
-	const rules = [];
-	const hosts = wholeName(names.hostnames.map((h) => h.replace(/^\*\./, "").replace(/\/.*$/, "")), "gi");
-	if (hosts !== null) rules.push([hosts, REDACTED_DOMAIN]);
-	if (names.subdomain !== null && names.subdomain.length > 0) {
-		const sub = escapeRegExp(names.subdomain);
-		rules.push([new RegExp(`(?<![A-Za-z0-9-])${sub}(?=\\.workers\\.dev\\b)`, "gi"), REDACTED_DOMAIN]);
-		const bare = wholeName([names.subdomain], "gi");
-		if (bare !== null) rules.push([bare, REDACTED_DOMAIN]);
-	}
-	const workers = wholeName(names.workers, "gi");
-	if (workers !== null) rules.push([workers, REDACTED_WORKER]);
-	return rules;
-}
-/** `text` with every private-looking value, and this account's own names, replaced by a marker. */
-function redactReportText(text, names = NO_ACCOUNT_NAMES) {
-	let out = text;
-	for (const [pattern, replacement] of [...RULES, ...accountRules(names)]) out = typeof replacement === "string" ? out.replace(pattern, replacement) : out.replace(pattern, replacement);
-	return out;
-}
-var REDACTED, REDACTED_EMAIL, REDACTED_ACCOUNT, REDACTED_ID, REDACTED_DOMAIN, REDACTED_WORKER, NO_ACCOUNT_NAMES, SECRET_NAME_BODY, SECRET_NAME, RULES;
-var init_redact = __esmMin(() => {
-	REDACTED = "[redacted]";
-	REDACTED_EMAIL = "[email]";
-	REDACTED_ACCOUNT = "[account id]";
-	REDACTED_ID = "[id]";
-	REDACTED_DOMAIN = "[domain]";
-	REDACTED_WORKER = "[worker]";
-	NO_ACCOUNT_NAMES = {
-		subdomain: null,
-		hostnames: [],
-		workers: []
-	};
-	SECRET_NAME_BODY = `(?:[A-Za-z0-9_-]*(?:access[_-]?key|api[_-]?key|api[_-]?token|apikey|auth(?:orization)?|bearer|client[_-]?secret|credentials?|pass(?:word|wd|phrase)?|private[_-]?key|pwd|secret(?:[_-]?key)?|session|signing[_-]?key|token)[A-Za-z0-9_-]*|(?:[A-Za-z0-9]+[_-])*key)`;
-	SECRET_NAME = `(?<![A-Za-z0-9_-])${SECRET_NAME_BODY}`;
-	RULES = [
-		[/-----BEGIN [A-Z ]+-----[\s\S]*?-----END [A-Z ]+-----/g, REDACTED],
-		[/^(\s*(?:export\s+)?[A-Z][A-Z0-9_]*=).+$/gm, `$1${REDACTED}`],
-		[/\b([a-z][a-z0-9+.-]*:\/\/)[^\s/@:]+:[^\s/@]+@/gi, `$1${REDACTED}@`],
-		[/https:\/\/hooks\.slack\.com\/[^\s"'<>]+/gi, `https://hooks.slack.com/${REDACTED}`],
-		[/https:\/\/(?:\w+\.)?discord(?:app)?\.com\/api\/webhooks\/[^\s"'<>]+/gi, `https://discord.com/api/webhooks/${REDACTED}`],
-		[/(api\.telegram\.org\/bot)[^\s/"'<>]+/gi, `$1${REDACTED}`],
-		[/\b(Bearer|Basic)\s+[A-Za-z0-9._~+/=-]{8,}/g, `$1 ${REDACTED}`],
-		[/\beyJ[A-Za-z0-9_-]{5,}\.[A-Za-z0-9_-]{5,}\.[A-Za-z0-9_-]*/g, REDACTED],
-		[/\b(?:gh[pousr]_|github_pat_|xox[abposr]-|phx_|sk-|sk_live_|rk_live_)[A-Za-z0-9_-]{10,}/g, REDACTED],
-		[/\b\d{8,10}:[A-Za-z0-9_-]{35}\b/g, REDACTED],
-		[new RegExp(`((?<![A-Za-z0-9_-])--${SECRET_NAME_BODY}(?:\\s+|=))("[^"]*"|'[^']*'|[^\\s"']+)`, "gi"), keepQuotes],
-		[new RegExp(`(${SECRET_NAME}\\s*=\\s*)("[^"]*"|'[^']*'|[^\\s,;&"'}\\]]+)`, "gi"), keepQuotes],
-		[new RegExp(`(["']${SECRET_NAME}["']\\s*:\\s*)("[^"]*"|'[^']*'|[^\\s,;}\\]]+)`, "gi"), keepQuotes],
-		[/[A-Za-z0-9._%+-]+@[A-Za-z0-9-]+(?:\.[A-Za-z0-9-]+)*\.[A-Za-z]{2,}/g, REDACTED_EMAIL],
-		[/(\/accounts\/|dash\.cloudflare\.com\/(?:\?to=\/)?)[0-9a-f]{32}\b/gi, `$1${REDACTED_ACCOUNT}`],
-		[/\b[0-9a-f]{8}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{4}-[0-9a-f]{12}\b/gi, REDACTED_ID],
-		[/\b[0-9a-f]{32,}\b/gi, REDACTED_ID],
-		[/[A-Za-z0-9_+/=-]{24,}/g, (match) => {
-			const letter = /[A-Za-z]/.test(match);
-			const digit = /\d/.test(match);
-			if (match.length >= 32) return letter && digit ? REDACTED : match;
-			return /[A-Z]/.test(match) && /[a-z]/.test(match) && digit ? REDACTED : match;
-		}]
-	];
-});
-//#endregion
 //#region src/telemetry/failure-report.ts
 /**
 * The note as it is sent: trimmed, cut to length, private values and this
@@ -166233,12 +167106,64 @@ var init_failure_report = __esmMin(() => {
 	};
 });
 //#endregion
+//#region src/telemetry/account-names.server.ts
+/**
+* The reads, for a caller that batches them with its own: hostnames, Worker
+* names, then every other name.
+*/
+function accountNamesStatements(db) {
+	return [
+		db.prepare(`SELECT name FROM resources WHERE kind IN (${HOSTNAME_KINDS.map((k) => `'${k}'`).join(", ")})
+       UNION SELECT served_domain FROM installs WHERE served_domain IS NOT NULL
+       UNION SELECT value FROM settings
+         WHERE key IN ('manager_hostname', 'manager_previous_hostname')
+           AND value NOT LIKE '%.workers.dev'
+       UNION SELECT hostname FROM passkey_host WHERE hostname NOT LIKE '%.workers.dev'
+       UNION SELECT h.value FROM jobs j,
+           json_each(json_array(json_extract(j.input_json, '$.hostname'), json_extract(j.input_json, '$.from'))) h
+         WHERE j.kind = 'move_address' AND json_valid(j.input_json)`),
+		db.prepare(`SELECT worker_name AS name FROM installs
+       UNION SELECT name FROM resources WHERE kind = 'worker'`),
+		db.prepare(`SELECT name FROM resources
+       WHERE kind NOT IN ('worker', ${HOSTNAME_KINDS.map((k) => `'${k}'`).join(", ")})
+       UNION SELECT display_name FROM installs WHERE display_name IS NOT NULL`)
+	];
+}
+/** The names one of those reads answered with. */
+function namesOf(result) {
+	return (result?.results ?? []).map((row) => row.name).filter((name) => typeof name === "string" && name.length > 0);
+}
+/** The account's names: what those reads answered with, and the two from settings. */
+function accountNames(settings, hostnames, workers, names = []) {
+	return {
+		subdomain: settings.account_subdomain || null,
+		hostnames,
+		workers: settings.worker_name ? [...workers, settings.worker_name] : workers,
+		names
+	};
+}
+/** The account's names as one read. */
+async function readAccountNames(db, settings) {
+	const [hostnames, workers, names] = await db.batch(accountNamesStatements(db));
+	return accountNames(settings, namesOf(hostnames), namesOf(workers), namesOf(names));
+}
+var HOSTNAME_KINDS;
+var init_account_names_server = __esmMin(() => {
+	HOSTNAME_KINDS = [
+		"domain",
+		"custom_hostname",
+		"wildcard_domain",
+		"dns_record",
+		"worker_route"
+	];
+});
+//#endregion
 //#region src/telemetry/failure-report.server.ts
 function num$1(value) {
 	return typeof value === "number" ? value : Number(value ?? 0) || 0;
 }
 async function readFailedJob(db, jobId) {
-	const [jobs, logs, hostnames, workers] = await db.batch([
+	const [jobs, logs, hostnames, workers, names] = await db.batch([
 		db.prepare(`SELECT j.id, j.kind, j.status, j.input_json, j.error, j.started_at, j.finished_at,
                 j.started_by, j.reported_at,
                 i.app_slug, i.catalog_id, i.catalog_version, i.build_kind, s.target_catalog_version,
@@ -166250,19 +167175,8 @@ async function readFailedJob(db, jobId) {
            AND s.id = json_extract(j.input_json, '$.snapshotId')
          WHERE j.id = ?1`).bind(jobId),
 		db.prepare("SELECT ts, level, message, data_json FROM job_logs WHERE job_id = ?1 ORDER BY id").bind(jobId),
-		db.prepare(`SELECT name FROM resources WHERE kind IN (${HOSTNAME_KINDS.map((k) => `'${k}'`).join(", ")})
-       UNION SELECT served_domain FROM installs WHERE served_domain IS NOT NULL
-       UNION SELECT value FROM settings
-         WHERE key IN ('manager_hostname', 'manager_previous_hostname')
-           AND value NOT LIKE '%.workers.dev'
-       UNION SELECT hostname FROM passkey_host WHERE hostname NOT LIKE '%.workers.dev'
-       UNION SELECT h.value FROM jobs j,
-           json_each(json_array(json_extract(j.input_json, '$.hostname'), json_extract(j.input_json, '$.from'))) h
-         WHERE j.kind = 'move_address' AND json_valid(j.input_json)`),
-		db.prepare(`SELECT worker_name AS name FROM installs
-       UNION SELECT name FROM resources WHERE kind = 'worker'`)
+		...accountNamesStatements(db)
 	]);
-	const names = (result) => (result?.results ?? []).map((row) => row.name).filter((name) => typeof name === "string" && name.length > 0);
 	const r = (jobs?.results ?? [])[0];
 	if (r === void 0) return null;
 	return {
@@ -166291,8 +167205,9 @@ async function readFailedJob(db, jobId) {
 			message: plainMessage(String(l.message)),
 			dataJson: typeof l.data_json === "string" ? l.data_json : null
 		})),
-		hostnames: names(hostnames),
-		workers: names(workers)
+		hostnames: namesOf(hostnames),
+		workers: namesOf(workers),
+		names: namesOf(names)
 	};
 }
 function isOfficialCatalog$1(env) {
@@ -166307,14 +167222,6 @@ function reportedPlan(settings) {
 /** Usage data is off for this manager: by the switch, or by a Worker variable. */
 function usageDataOff(env, settings) {
 	return lockOf(env) !== null || settings.telemetry === "off";
-}
-/** This account's names, which every text of the report has taken out. */
-function accountNamesOf(settings, job) {
-	return {
-		subdomain: settings.account_subdomain || null,
-		hostnames: job.hostnames,
-		workers: settings.worker_name ? [...job.workers, settings.worker_name] : job.workers
-	};
 }
 /**
 * The install id every usage-data event is tied to, so a report joins the
@@ -166371,7 +167278,7 @@ function failureReportProperties(input) {
 async function buildPreview(env, job, settings, installId) {
 	const off = usageDataOff(env, settings);
 	const plan = reportedPlan(settings);
-	const names = accountNamesOf(settings, job);
+	const names = accountNames(settings, job.hostnames, job.workers, job.names);
 	const properties = failureReportProperties({
 		job,
 		names,
@@ -166487,7 +167394,7 @@ async function sendFailureReport(env, jobId, note, opts = {}) {
 		reportedAt: new Date(now).toISOString()
 	};
 }
-var FailureReportError, REPORT_SETTINGS, HOSTNAME_KINDS;
+var FailureReportError, REPORT_SETTINGS;
 var init_failure_report_server = __esmMin(() => {
 	init_src();
 	init_capabilities();
@@ -166497,6 +167404,7 @@ var init_failure_report_server = __esmMin(() => {
 	init_client$5();
 	init_settings$1();
 	init_build_version();
+	init_account_names_server();
 	init_classify();
 	init_events();
 	init_failure_report();
@@ -166514,13 +167422,6 @@ var init_failure_report_server = __esmMin(() => {
 		SETTING.accountCapabilities,
 		SETTING.accountSubdomain,
 		SETTING.workerName
-	];
-	HOSTNAME_KINDS = [
-		"domain",
-		"custom_hostname",
-		"wildcard_domain",
-		"dns_record",
-		"worker_route"
 	];
 });
 //#endregion
@@ -167253,7 +168154,7 @@ function jobRows(result) {
 		kind: String(r.kind),
 		status: String(r.status),
 		inputJson: typeof r.input_json === "string" ? r.input_json : null,
-		error: typeof r.error === "string" ? r.error : null,
+		error: typeof r.error === "string" ? plainMessage(r.error) : null,
 		startedAt: r.started_at == null ? null : num(r.started_at),
 		finishedAt: r.finished_at == null ? null : num(r.finished_at),
 		appSlug: typeof r.app_slug === "string" ? installAppKey({
@@ -167337,10 +168238,18 @@ async function report(env, opts) {
 	const firstAdmin = setupDue ? rest.shift() : void 0;
 	const base = managerBase(runningVersion(env));
 	const official = isOfficialCatalog(env);
-	const events = await jobEvents(jobRows(jobs), {
+	const rows = jobRows(jobs);
+	let names = NO_ACCOUNT_NAMES;
+	if (rows.some((r) => r.status === "failed")) try {
+		names = await readAccountNames(env.DB, settings);
+	} catch (error) {
+		console.warn("telemetry: could not read the account's names; Cloudflare messages left out", { error: error instanceof Error ? error.message : String(error) });
+		names = null;
+	}
+	const events = await jobEvents(rows, {
 		from: cursor,
 		to: now
-	}, base, installId, official, versions);
+	}, base, installId, official, versions, names);
 	if (heartbeatDue) events.push(await heartbeatEvent(installId, await heartbeatInput(env, rest, settings, now, versions), base));
 	const [openedDay, openedRole] = (settings.telemetry_opened_day ?? "").split(" ");
 	const openedDue = openedDay !== void 0 && /^\d{4}-\d{2}-\d{2}$/.test(openedDay) && openedDay > (settings.telemetry_opened_sent_day ?? "") && openedDay >= utcDay$1(oldest);
@@ -167416,6 +168325,7 @@ var init_report_server = __esmMin(() => {
 	init_manager_releases_server();
 	init_merged_server();
 	init_sources();
+	init_message_links();
 	init_client$5();
 	init_migrate();
 	init_settings$1();
@@ -167424,7 +168334,9 @@ var init_report_server = __esmMin(() => {
 	init_binding();
 	init_build_version();
 	init_users_server();
+	init_account_names_server();
 	init_events();
+	init_redact();
 	init_state_server();
 	BACKLOG_MS = 6048e5;
 	CURSOR_LAG_MS = 15e3;
@@ -167443,7 +168355,9 @@ var init_report_server = __esmMin(() => {
 		SETTING.accessEnabledAt,
 		SETTING.cfTokenVerifiedAt,
 		SETTING.autoUpdateApps,
-		SETTING.autoUpdateManager
+		SETTING.autoUpdateManager,
+		SETTING.accountSubdomain,
+		SETTING.workerName
 	];
 	withheldLoggedFor = null;
 });
@@ -203480,7 +204394,8 @@ function people(users) {
 * Appflare protects the app with Cloudflare Access, so that every address
 * it has asks for a sign-in and only Appflare's users get in. Shows who
 * gets in, what stays public, the Access application in the Zero Trust
-* dashboard, and a sync that failed (the cron tries again). Admins turn it
+* dashboard, a sync that failed (the cron tries again), and addresses
+* another Access application names itself, which it then decides on. Admins turn it
 * on or off with a confirmation that says what happens; when Appflare's
 * records show something to repair (`InstallAccessView.repair`), "Protect
 * again" is offered with a line saying what. Each starts the settings change
@@ -203527,12 +204442,18 @@ function AppAccessSection({ install, access, isAdmin }) {
 					label: "Turn on"
 				}) : void 0
 			}),
-			access.syncFailedAt !== null && /* @__PURE__ */ (0, import_jsx_runtime$82.jsx)(Banner, {
+			access.syncFailedAt !== null && access.repair !== "app-deleted" && /* @__PURE__ */ (0, import_jsx_runtime$82.jsx)(Banner, {
 				variant: "alert",
 				icon: BANNER_ICON.alert,
 				title: "Cloudflare Access is not in step with this app's addresses",
 				description: "The last update of its Access applications failed. Appflare tries again every 30 minutes; the app's addresses stay protected meanwhile."
 			}),
+			access.takenAddresses.map(({ app, uris }) => /* @__PURE__ */ (0, import_jsx_runtime$82.jsx)(Banner, {
+				variant: "alert",
+				icon: BANNER_ICON.alert,
+				title: "Another Access application covers part of this app",
+				description: INSTALL_ACCESS_MESSAGES.addressTaken(app, uris)
+			}, app)),
 			access.protected ? /* @__PURE__ */ (0, import_jsx_runtime$82.jsxs)(DescriptionList, { children: [
 				/* @__PURE__ */ (0, import_jsx_runtime$82.jsxs)(DescriptionItem, {
 					label: "Who gets in",
@@ -203787,6 +204708,7 @@ var init_app_access_section = __esmMin(() => {
 	init_esm$11();
 	import_react$51 = /* @__PURE__ */ __toESM(require_react(), 1);
 	init_app_access();
+	init_messages$1();
 	init_dashboard_links();
 	init_access_change_functions();
 	init_confirm_dialog();
@@ -225395,6 +226317,7 @@ init_schema$4();
 init_settings$1();
 init_bypass_server();
 init_install_access_server();
+init_protect_server();
 init_toggle_server();
 function isNotFound(error) {
 	return error instanceof CloudflareApiError && error.status === 404;
@@ -225416,7 +226339,11 @@ async function checkProtectedAppsExist(deps) {
 		skipped: true,
 		missing: [],
 		found: [],
+		freed: [],
+		patterns: [],
+		apps: null,
 		listError: null,
+		workersError: null,
 		usersPolicy: "none",
 		usersPolicyError: null
 	};
@@ -225426,17 +226353,24 @@ async function checkProtectedAppsExist(deps) {
 	const now = (deps.now ?? (() => /* @__PURE__ */ new Date()))();
 	const orm = createDb(deps.db);
 	return withAccessLock(deps.db, async () => {
-		let listed = null;
+		let apps = null;
 		try {
-			listed = new Set((await client.access.listApps()).map((app) => app.id));
+			apps = await client.access.listApps();
 		} catch (error) {
 			result.listError = messageOf$1(error);
 		}
-		if (listed !== null) {
+		result.apps = apps;
+		if (apps !== null) {
+			const listed = new Set(apps.map((app) => app.id));
+			const { account_subdomain: subdomain } = await readSettings(orm, [SETTING.accountSubdomain]);
+			const account = accountWorkersOf(client);
+			const wildcardBases = await recordedWildcardBases(deps.db);
 			const rows = await orm.select({
 				installId: install_access.install_id,
 				appId: install_access.access_app_id,
-				missingAt: install_access.access_app_missing_at
+				missingAt: install_access.access_app_missing_at,
+				coverageJson: install_access.access_destinations_json,
+				marked: sql`${install_access.access_resync_due_at} IS NOT NULL OR ${install_access.access_sync_failed_at} IS NOT NULL`
 			}).from(install_access).where(isNotNull(install_access.access_app_id));
 			let checks = 0;
 			for (const row of rows) {
@@ -225453,9 +226387,36 @@ async function checkProtectedAppsExist(deps) {
 					}
 				}
 				else gone = unlisted.length > 0;
-				if (gone === (row.missingAt !== null)) continue;
-				await orm.update(install_access).set({ access_app_missing_at: gone ? now : null }).where(and(eq(install_access.install_id, row.installId), eq(install_access.access_app_id, row.appId), gone ? isNull(install_access.access_app_missing_at) : isNotNull(install_access.access_app_missing_at)));
-				(gone ? result.missing : result.found).push(row.installId);
+				if (gone !== (row.missingAt !== null)) {
+					await orm.update(install_access).set({ access_app_missing_at: gone ? now : null }).where(and(eq(install_access.install_id, row.installId), eq(install_access.access_app_id, row.appId), gone ? isNull(install_access.access_app_missing_at) : isNotNull(install_access.access_app_missing_at)));
+					(gone ? result.missing : result.found).push(row.installId);
+				}
+				if (gone) continue;
+				const own = {
+					installId: row.installId,
+					accessAppId: row.appId,
+					bypassAppId: bypassId,
+					coverageJson: row.coverageJson
+				};
+				const freed = await releaseFreedAddresses({
+					db: deps.db,
+					now: () => now
+				}, own, apps);
+				if (freed.length > 0) result.freed.push({
+					installId: row.installId,
+					uris: freed
+				});
+				try {
+					if (!row.marked && freed.length === 0 && await patternsOutOfStep(own, {
+						subdomain: subdomain || null,
+						wildcardBases: wildcardBases.get(row.installId) ?? []
+					}, apps, account)) {
+						await markAccessResyncDue(deps.db, own, now);
+						result.patterns.push(row.installId);
+					}
+				} catch (error) {
+					result.workersError ??= messageOf$1(error);
+				}
 			}
 		}
 		const policyId = (await readSettings(orm, [SETTING.appAccessUsersPolicyId])).app_access_users_policy_id || null;
@@ -225599,12 +226560,14 @@ async function resyncAccessApps(env, deps = {}) {
 	const lines = [];
 	const client = clientOf(env, deps);
 	const now = deps.now === void 0 ? {} : { now: deps.now };
+	let apps = null;
 	try {
 		const upkeep = await checkProtectedAppsExist({
 			db: env.DB,
 			client,
 			...now
 		});
+		apps = upkeep.apps;
 		for (const id of upkeep.missing) lines.push({
 			level: "warn",
 			message: `access: the Access application of install ${id} is gone; protect it again`
@@ -225612,6 +226575,19 @@ async function resyncAccessApps(env, deps = {}) {
 		for (const id of upkeep.found) lines.push({
 			level: "log",
 			message: `access: the Access application of install ${id} is there again`
+		});
+		for (const { installId, uris } of upkeep.freed) lines.push({
+			level: "log",
+			message: `access: install ${installId}: no other Access application names ${uris.join(", ")} any more; brought in step on the resync`
+		});
+		for (const id of upkeep.patterns) lines.push({
+			level: "log",
+			message: `access: install ${id}: what its Access application names of its version previews, its wildcard domains or the hostnames Cloudflare's limit left out is out of step with the account's other applications and Workers; brought in step on the resync`
+		});
+		if (upkeep.workersError !== null) lines.push({
+			level: "error",
+			message: "access: could not list Workers or their custom domains to check protected apps' version previews and wildcard domains",
+			error: upkeep.workersError
 		});
 		if (upkeep.listError !== null) lines.push({
 			level: "error",
@@ -225635,11 +226611,20 @@ async function resyncAccessApps(env, deps = {}) {
 		});
 	}
 	try {
-		for (const r of await resyncInstallAccessIfFailed({
+		const resyncs = await resyncInstallAccessIfFailed({
 			db: env.DB,
 			client,
-			...now
-		})) {
+			...now,
+			...apps === null ? {} : { apps }
+		});
+		for (const r of resyncs) {
+			if (r.outcome === "busy") {
+				lines.push({
+					level: "log",
+					message: `access: another Access change is in progress; install ${r.installId} and the rest are brought in step on the next run`
+				});
+				continue;
+			}
 			const message = `access: applications of install ${r.installId} brought in step again: ${r.outcome}`;
 			lines.push(r.outcome === "failed" ? {
 				level: "error",
@@ -225648,6 +226633,14 @@ async function resyncAccessApps(env, deps = {}) {
 			} : {
 				level: "log",
 				message
+			});
+			for (const { app, uris } of takenByApp(r.taken ?? [])) lines.push({
+				level: "warn",
+				message: `access: install ${r.installId}: ${PROTECT_MESSAGES.taken(app, uris)}`
+			});
+			for (const warning of r.warnings ?? []) lines.push({
+				level: "warn",
+				message: `access: install ${r.installId}: ${warning}`
 			});
 		}
 	} catch (error) {
@@ -227828,9 +228821,9 @@ async function protectBeforeUploadPhase(steps, input) {
 	});
 }
 /**
-* Step 2: the switch to `worker` destinations, once every Worker is
-* uploaded. A Worker whose upload did not report its tag is looked up in
-* the account's script list by the unit.
+* Step 2: the `worker` destinations added, once every Worker is uploaded.
+* A Worker whose upload did not report its tag is looked up in the
+* account's script list by the unit.
 */
 async function coverWorkersPhase(steps, input) {
 	return steps.run("cover the app's Workers with Cloudflare Access", async ({ log }) => {
@@ -227855,10 +228848,10 @@ async function coverWorkersPhase(steps, input) {
 /**
 * Turning protection on for an installed app (the settings change job with
 * `access: "on"`): the application covering the app's recorded Workers by
-* their tags (looked up in the account's script list), its external domains
-* (`public` destinations), and its public paths. The unit takes the Access
-* lock and reads the app's addresses under it, so an external domain
-* claimed meanwhile is covered too.
+* their tags (looked up in the account's script list) and their hostnames,
+* its domains (`public` destinations), and its public paths. The unit
+* takes the Access lock and reads the app's addresses under it, so an
+* external domain claimed meanwhile is covered too.
 */
 async function protectInstalledPhase(steps, installId) {
 	return steps.run("protect with Cloudflare Access", async ({ log }) => {
