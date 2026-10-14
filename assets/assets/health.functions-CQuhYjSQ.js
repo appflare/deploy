@@ -1,1 +1,0 @@
-import{p as e,t}from"./createServerFn-W5z9Gh-_.js";var n=t({method:`POST`}).handler(e(`a0a6bfc5679592c8f9b47302d5bd05890a234debc38acf40d68e69c686b28727`));export{n as t};
